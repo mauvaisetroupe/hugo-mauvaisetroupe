@@ -1,0 +1,58 @@
+<aside class="l-sidebar">
+
+  <div class="sections sidebar">
+  
+  
+{{if isset .Params "pays"}}
+{{$currentpays := index (.Params.pays) 0 }}
+ 
+  
+    <section class="sidebar">
+      <header>{{$currentpays}} - Les étapes</header>
+      <div>
+        <div class="articles sm">
+
+{{ range $pp := .Site.Pages.ByDate  }}
+{{if isset $pp.Params "pays"}}
+  {{ if eq (index $pp.Params.pays 0) $currentpays  }}
+        <div class="col-md-12 col-sm-6 col-xs-12">{{ .Render "li_sm" }}</div>
+  {{end}}
+{{end}}	
+{{end}}		
+		
+		
+        </div>
+      </div>
+    </section>
+
+{{else}}
+
+    <section class="sidebar">
+      <header>LATESTS</header>
+      <div>
+        <div class="articles sm">
+          {{ range $i, $p := (first 5 .Site.Pages) }}
+          {{ .Render "li_sm" }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+	
+{{end}}  
+ 
+    {{ range $key, $value := .Site.Taxonomies }}
+    <section class="sidebar">
+      <header>{{ $key | upper }}</header>
+ 
+      <div>
+        <ul class="terms">
+          {{ range $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+        </ul>
+ 
+ 
+      </div>
+    </section>
+    {{ end }}
+  </div>
+ 
+</aside>

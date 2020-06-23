@@ -1,0 +1,282 @@
+<!--
+#macro (link $name)
+	$Country.valueOf("./Page[@link='$name']/Content/@id")
+#end
+-->
+
+<!--
+#set ($countryName = $Country.valueOf("@name"))
+#set ($in = $xml.valueOf("//dico[@name='$countryName']/@in"))
+#set ($ofThe = $xml.valueOf("//dico[@name='$countryName']/@ofThe"))
+-->
+
+<html>
+<head>
+<title>Carte ${countryName}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../css/general.css">
+<script src="../../../js/tooltip.js"></script>
+<script language="javascript1.2">
+	var level = 3;
+</script>
+<script language="javascript" src="../../../js/menu/sniffer.js">
+//Top Navigational Bar III v3.4.1.1b (By BrotherCake @ cake@brothercake.net)
+//Permission granted/modified by Dynamicdrive.com to include script in archive
+//For this and 100's more DHTML scripts, visit http://www.dynamicdrive.com/
+//This notice MUST stay intact for legal use
+
+
+</script>
+<script language="javascript1.2" src="../../../js/menu/custom.js">
+</script>
+<script language="javascript1.2" src="../../../js/menu/style.js"></script>
+<meta name="keywords" content="carte, map, itineraire, itinéraire, ${countryName}">
+<meta name="description" content="L'Itinéraire de notre tour du monde : ${countryName} - La carte ${ofThe}$countryName">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="../../../images/mondebg.gif">
+<script language="javascript1.2" src="../../../js/menu/menu.js"></script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    
+    <td colspan="3">&nbsp;<img src="../../../images/menuvoyage.gif" width="700" height="120" border="0"></td>
+  </tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr valign="middle">
+    <td width="125" class="TitrePays"> Monde <font size="3">2001</font></td>
+    <td height="40" width="10">&nbsp;</td>
+    <td height="40">
+      <table width="100%">
+        <tr>
+          
+<td align="left" class="TitrePagePays">
+<table width="100%" border="0">
+<tr>
+<td width="4%"><img src="../../../images/itineraire.gif" width="30" height="30"></td>
+                <td width="96%" class="TitrePagePays">Notre 
+                  itin&eacute;raire ${in}$countryName</td>
+</tr>
+</table>
+</td>
+          <td align="right">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height="12">&nbsp;</td>
+    <td width="10" height="12">&nbsp;</td>
+    <td height="12">&nbsp; </td>
+  </tr>
+  <tr>
+    <td height="5" valign="top">
+      <table border="0" cellspacing="0" cellpadding="0" width="125">
+        <tr> 
+          <td><a href="../resume.html" alt="Autre pays"><img src="../../../images/carte/situation/${country.Identifier}.gif" width="125" height="170" border="0" alt="Autres pays"></a></td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"> <a href="carnet.de.voyage.html" class="menuvoyage">&nbsp;Le 
+              r&eacute;cit </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <!--
+        <tr>
+          <td bgcolor="#0033CC">
+            <p class="menuvoyage"><a href="../voyages/pays/indonesie/voyage.html" class="menuvoyage">&nbsp;R&eacute;cit
+              du voyage</a></p>
+          </td>
+        </tr>
+        <tr>
+          <td height="10"></td>
+        </tr>
+--> 
+        <tr> 
+          <td> 
+            <p class="menudisabled">&nbsp;La carte</p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"><a href="photos.html" class="menuvoyage">&nbsp;Les 
+              photos </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"><a href="infos-pratiques.html" class="menuvoyage">&nbsp;Infos 
+              pratiques </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"> <a href="../resume.html" class="menuvoyage">&nbsp;Autres 
+              pays </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td valign="top">
+      <table width="90%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <p>&nbsp;
+            <table width="100%" border="0">
+              <tr>
+                <td>
+                  <div align="center">
+                    <table border="1" cellpadding="0" cellspacing="0" bordercolor="#CCFFFF">
+                      <tr>
+						<td>#parse($Country.valueOf("./Template/@relative"))</td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table>
+            <p>&nbsp;</p>
+            
+            
+            
+            
+<div align="center">
+<table width="90%">
+
+			
+			<tr><td colspan=9><a name="#$country.CountryId">Détail du trajet ${in}$countryName</td></tr>
+			<tr bgcolor="#0000CC">
+			<td><font color=white>Date</font></td>
+			<td><font color=white>Pays</font></td>
+			<td><font color=white>Moyen</font></td>
+			<td><font color=white>Départ</font></td>
+			<td><font color=white>Arrivée</font></td>
+			<td><font color=white>Distance</font></td>
+			<td><font color=white>Temps</font></td>
+			<td><font color=white>Prix</font></td>
+			<td><font color=white>Remarque</font></td>
+			</tr>
+			
+
+#set ($countryId = $Country.valueOf("@folder"))		
+
+#foreach ($journey in $xml.selectNodes("//Journey[@arrivalcountry='$countryId']"))
+	
+	#set ($transport = $journey.valueOf("@transport"))
+	#if ($transport.toLowerCase().trim().equals("avion"))
+		#set ($transport = "<b>Avion</b>")
+	#end
+	
+	#set ( $countries = $journey.valueOf("@countries") ) 
+	#set ($date=$journey.valueOf("@date"))
+
+	
+	<tr>
+
+<!--
+#set ($pagelink = false)
+#set ($pagelink = $Country.valueOf("./Page[./Date/@date='$date/2001']/Content/@id"))
+-->
+
+
+	<td>
+	#if ($pagelink)
+		<a href="$pagelink">${date}</a>&nbsp;&nbsp;&nbsp;
+	#else
+		${date}&nbsp;&nbsp;&nbsp;
+	#end
+	</td>
+
+	
+
+	
+	<td>$countries</td>
+	<td>$transport</td>
+	<td>$journey.valueOf("@departuretown")</td>
+
+	<td>$journey.valueOf("@arrivaltown")</td>
+	
+	
+
+	#set ($distance = false)
+	#set ($distance = $journey.valueOf("@distance"))
+	<td align="right">	
+	#if ($distance && ! $distance.equals(""))
+		$distance km
+	#end
+	</td>
+
+	#set ($time = false)
+	#set ($time = $journey.valueOf("@during"))
+	<td align="right">
+	#if ($time && ! $time.equals(""))
+		$time h
+	#end
+	</td>
+
+	
+
+	#set ($price = false)
+	#set ($price = $journey.valueOf("@price"))
+	#if ($price)
+		<td align="right"><a class="nounder" href="javascript:" onMouseover="this.T_STATIC=true; this.T_WIDTH=200;this.T_OFFSETY=-20;this.T_OFFSETX=0;return escape('<font color=white>$price $journey.valueOf("@abbreviation") ($journey.valueOf("@currency"))= $journey.valueOf("@francprice") FF (en 2001)</font>')">$price $journey.valueOf("@abbreviation")</a></td>
+	#else
+		<td></td>
+	#end
+	
+	#set ($remarque = false)
+	#set ($remarque = $journey.valueOf("@comment"))
+	<td align="center">
+	#if ($remarque && ! $remarque.equals("") )
+		
+		<a class="nounder" href="javascript:" onMouseover="this.T_STATIC=true; this.T_WIDTH=200;this.T_OFFSETY=-20;this.T_OFFSETX=0;return escape('<font color=white>$remarque</font>')">***</a>
+	#end
+	</td>	
+	
+</tr>
+
+#end   
+<tr><td colspan=9>&nbsp;</td></tr>
+<tr><td colspan=9>[<a href="carnet.de.voyage.html">Carnet de voyage ${country.Label}</a>] [<a href="photos.html">Photos ${country.Label}</a>]</td></tr>
+</table>
+</div>            
+            
+            
+       
+            
+            
+            
+          </td>
+        </tr>
+      </table>
+      <table width="100%">
+        <tr>
+          <td align="left">&nbsp;</td>
+          <td align="right">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<script language="JavaScript" type="text/javascript" src="../../../js/wz_tooltip.js"></script>
+</body>
+</html>

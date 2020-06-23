@@ -1,0 +1,18 @@
+<style>
+.mygallery {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+}
+
+
+</style>
+<div class="mygallery">
+{{< figure src="/images/jordanie20010205/600/4A.7.jpg" title="" >}}
+{{< figure src="/images/jordanie20010205/600/2.19.jpg" title="Retour de Jerash" >}}
+{{< figure src="/images/jordanie20010205/600/2.17.jpg" title="Retour de Jerash" >}}
+{{< figure src="/images/jordanie20010205/600/2.14.jpg" title="Balade avec Khaled" >}}
+</div>

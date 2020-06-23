@@ -1,0 +1,5 @@
+ss{{.Site.Taxonomies.tags }}tt
+
+{{ with .Site.Taxonomies.tags }}
+{{ partial "taxonomy.html" (dict "context" $.Site "key" "tags" "value" . "baseurl" $.Site.BaseURL) }}
+{{ end }}

@@ -1,0 +1,37 @@
+
+$Page.valueOf("./Content/@title")<br>
+$this.readContent($Page.valueOf("./Content/@path"))<br>
+
+#set ($lot = $Page.valueOf("@lot"))
+#if (! $lot.equals("") )
+[<a href="$Page.valueOf("./parent::*/Page[@photo.filename][@lot=$lot]/@photo.filename")#$Page.valueOf("@id")">Voir</a>]
+#end
+
+
+#set ($followPage    = $Page.selectSingleNode("./following-sibling::Page") )
+#set ($followCountry = $Page.selectSingleNode("./following::Country") )
+#set ($Country       = $Page.selectSingleNode("./parent::*") )
+
+
+<br><br>
+
+#if ($followPage)
+	Page suivante : <a href="$followPage.valueOf("@${velocity}.filename")"> $followPage.valueOf("./Content/@title")</a>
+#else
+	#if ($followCountry)
+	Pays suivant : <a href="../$followCountry.valueOf("@folder")/$followCountry.valueOf("@${velocity}.filename")"> Carnets de voyage $followCountry.valueOf("@DE")$followCountry.valueOf("@name")</a>
+	#end
+#end
+
+<br><br>
+
+${velocity}.filename
+
+[<a href="../$Country.valueOf("@folder")/$Country.valueOf("@${velocity}.filename")">Retour liste pages</a>]
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+TEST
+
+{{< ref "document.md" >}}

@@ -1,0 +1,18 @@
+
+{{$currentpays := index ($.Page.Params.pays) 0 }}
+
+<h2>Liste des pages :</h2>
+<ul>
+{{ range $pp := .Site.Pages.ByDate  }}
+{{if isset $pp.Params "pays"}}
+  {{ if eq (index $pp.Params.pays 0) $currentpays  }}
+<li><a href="{{ .Permalink }}">
+{{ .Title }} </a> ({{ .Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }})
+</li>
+  {{end}}
+{{end}}	
+{{end}}	
+</ul>
+
+	
+	

@@ -1,0 +1,14 @@
+{{ $src := .Get "src" }}
+{{ $title := .Get "title" }}
+<figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
+  <img src="{{ $.Site.BaseURL }}images/{{ $src }}" alt="{{ $title }}">
+  {{ if $title }}
+  <figcaption>
+    {{ if .Get "href" }}
+		<a href="{{ .Get "href" }}" target="_blank">{{ $title }}</ $title a>
+    {{ else }}
+		{{ $title }}
+    {{ end }}
+  </figcaption>
+  {{ end }}
+</figure>

@@ -1,0 +1,32 @@
+#set ( $pageNumber = $Page.valueOf("@lot") )
+#set ( $totalPages = $Page.valueOf("count(./parent::*/Page[@firstlot])") )
+
+$pageNumber<br>
+#foreach ($page in $Page.selectNodes("./parent::*/Page[@lot=$pageNumber]"))
+	<a name="#$page.valueOf("@id")"></a>
+	<br>$page.valueOf("./Content/@title")
+	<br>$page.valueOf("./Content")
+	<br>[<a href="$page.valueOf("@page.filename")">Lire</a>]
+	<br>
+	
+	#foreach ($picture in $page.selectNodes("./Picture"))
+		--$picture.valueOf("@id")
+	#end
+
+	<br>
+	<br>	
+	
+#end
+
+
+#foreach ($page in $Page.selectNodes("./parent::*/Page[@firstlot]"))
+	#if ($page == $Page)
+		$page.valueOf("@lot")
+	#else
+		<a href="$page.valueOf("@photo.filename")">$page.valueOf("@lot")</a>	
+	#end
+#end
+
+
+
+

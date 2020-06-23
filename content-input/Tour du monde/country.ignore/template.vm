@@ -1,0 +1,14 @@
+Liste des pages : <br><br>
+
+#foreach ($page in $Country.selectNodes("./Page"))
+	<a href="$page.valueOf("@${velocity}.filename")">$page.valueOf("./Content/@title")</a><br>
+#end
+
+#set ($followCountry    = $Country.selectSingleNode("./following-sibling::Country") )
+#set ($parent 		= $Country.selectSingleNode("./parent::*") )
+
+<br><br>
+#if ($followCountry)
+[Next : <a href="../$followCountry.valueOf("@folder")/$followCountry.valueOf("@${velocity}.filename")">$followCountry.valueOf("@name")</a>] 
+#end
+[<a href="../$parent.valueOf("@${velocity}.filename")">Liste des pays</a>]

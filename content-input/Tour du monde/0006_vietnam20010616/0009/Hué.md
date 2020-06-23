@@ -1,0 +1,77 @@
++++
+title="Hué"
+voyages = ["Tour du monde 2011"]
+date = "2001-07-02T12:00:00"
+pays = ["Vietnam"]
+thumbnail="header/vietnam20010616/9.jpg"
+pays_weight = 709
+voyages_weight = 709
++++
+#  2 juillet 2001
+
+Malgré les places au fond du bus, la clim purement virtuelle, les amortisseurs 
+inexistants, les raccords tous les 5 km sur la route (hauts de bien 5 cm) et 
+les travaux (donc la poussière) tout du long, on arrive vers midi à Hué. M&ecirc;me 
+pas trop fatigué. Une petite douche pour enlever la poussière accumulée pendant 
+la nuit et nous voici frais et dispos, prêts pour la visite de la cité impériale.
+
+On la repère de loin avec le "cavalier du roi" au-dessus duquel flotte un immense 
+drapeau vietnamien. La visite se révèle être une chouette balade au milieu des 
+vieilles pierres plus ou moins en ruines et de la verdure. Ca devait être fastueux 
+au temps de sa grandeur. Hué est tout de même une ville très réputée culturellement 
+et classée patrimoine de l'humanité par l'Unesco. On le comprend en voyant les 
+remparts baignant dans des douves recouvertes de lotus et de nénuphars. Ho! 
+C'est beau. Ce qui nous a plu le plus, ce sont les 9 urnes dynastiques, énormes 
+et toutes différentes les unes des autres, et les portes en pierres magnifiques. 
+Mais le clou de la visite reste la cité pourpre interdite. Derrière le panneau 
+l'annonçant et la décrivant s'étale... un immense terrain vague recouvert d'herbes 
+folles! Pendant la bataille du Têt (nouvel an chinois) en 1968, le somptueux 
+palais a été entièrement détruit, il n'en reste rien. Vive la guerre...
+
+# 3 juillet 2001
+
+C'est plutôt surprenant de se retrouver dans un embouteillage de vélos. Et 
+c'est pourtant ce qui nous est arrivé lors de notre balade autour d'Hué, sur 
+le pont, au milieu des vélos, mobs et pousses-pousses, en compagnie de dizaines 
+de têtes de canards dépassant des paniers accrochés aux porte-bagages pour nous 
+faire coin coin. En route, nous avons pu "admirer" la très forte propagande 
+communiste. Ici, peu de pubs classiques (sauf la vache qui rit et la tiger beer 
+mais pas très souvent) et la principale manipulation mentale autorisée est celle 
+du parti qui s'offre de grands panneaux de propagande partout, louant le plus 
+souvent les bienfaits du travail. Les fous! Direction la rivière aux parfums 
+qui tient son nom du temps où de nombreuses herbes aromatiques et médicinales 
+poussaient sur ses berges. Premier arrêt à la pagode de Tien Mu, autrement appelée 
+la vieille dame céleste. Il y a plein de statues qui foutent la trouille, à 
+moins qu'elles ne fassent rire par leur faux airs méchants?
+
+Puis il faut traverser la rivière pour poursuivre notre route vers les tombeaux 
+royaux. Alors on trouve une petite famille qui habite sur les barques, ils se 
+baignent, ça rafraîchit. On négocie dur de part et d'autre en montrant les prix 
+avec les doigts et c'est parti! On charge les deux vélos sur une frêle pirogue 
+à fond plat. C'est sûr, si l'un de nous éternue, on chavire. Une rameuse à l'arrière, 
+une autre à l'avant, nous nous asseyons au milieu, tenant nos vélos. Ouf! Ca 
+passe. Notre balade nous emmène au mausolée de Tu Duc. En fait de tombeau, on 
+se retrouve en train de flâner dans un parc arboré agrémenté de pièces d'eau 
+couvertes de lotus et nénuphars. C'est plutôt chouette et en fait, ce sacré 
+Tu Duc (drôle de nom tout de même) venait s'y reposer (peut-être pour s'entraîner 
+avant le repos éternel?) et y composer des poèmes face à l'étang. Bref, un tombeau 
+quoi! Plus tard, mon vélo tout pourri a crevé, et bien. Heureusement le réparateur 
+de vélos était à 20 mètres. De toutes façons, il y en a un tous les 50 mètres! 
+Il a réparé ça de façon surprenante, mais très efficace. 
+
+
+<div id="TOTO">{{< figure src="/images/vietnam20010616/300/43.14.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.13.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.11.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.9.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.6.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.5.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.2.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/43.1.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/44.35.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/44.34.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/44.33.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/44.32.jpg" title="" >}}
+{{< figure src="/images/vietnam20010616/300/44.31.jpg" title="" >}}
+</DIV>
+

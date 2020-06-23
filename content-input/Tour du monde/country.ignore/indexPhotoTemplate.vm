@@ -1,0 +1,254 @@
+#set ( $pageNumber = $Page.valueOf("@lot") )
+#set ( $totalPages = $Page.valueOf("count(./parent::*/Page[@firstlot])") )
+#set ( $country    = $Page.getParent() )
+<html>
+<head>
+<title>Photos $country.valueOf("@name")</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../../css/general.css">
+<meta name="keywords" content="photos, photographies, pictures, $country.valueOf("@name")">
+<meta name="description" content="Photos du tour du monde : $country.valueOf("@name")">
+<script language="JavaScript" type="text/javascript" src="../../../js/wz_tooltip.js"></script>
+<script src="../../../js/tooltip.js"></script>
+<script language="javascript1.2">
+	var level = 3;
+</script>
+<script language="javascript" src="../../../js/menu/sniffer.js">
+//Top Navigational Bar III v3.4.1.1b (By BrotherCake @ cake@brothercake.net)
+//Permission granted/modified by Dynamicdrive.com to include script in archive
+//For this and 100's more DHTML scripts, visit http://www.dynamicdrive.com/
+//This notice MUST stay intact for legal use
+</script>
+<script language="javascript1.2" src="../../../js/menu/custom.js">
+</script>
+<script language="javascript1.2" src="../../../js/menu/style.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="../../../images/mondebg.gif">
+<script language="javascript1.2" src="../../../js/menu/menu.js"></script>
+<div id="Layer1" style="position:absolute; width:100%; z-index:-1; left: 0; top: 0"> 
+  <div align="right"><img src="../../../images/ent_${country.valueOf("@folder")}.gif" width="338" height="192"> 
+  </div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3">&nbsp;<img src="../../../images/menuvoyage.gif" width="700" height="120" border="0"></td>
+  </tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr valign="middle">
+    <td width="125" class="TitrePays"> Monde <font size="3">2001</font></td>
+    <td height="40" width="10">&nbsp;</td>
+    <td height="40">
+      <table width="100%">
+        <tr>
+          <td align="left" class="TitrePagePays">
+<table width="100%" border="0">
+<tr>
+<td width="4%"><img src="../../../images/photo.gif" width="30" height="30"></td>
+                <td class="TitrePagePays" width="96%">$country.valueOf("@name") - Les photos 
+                  de voyage</td>
+</tr>
+</table>
+ </td>
+          <td align="right">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height="12">&nbsp;</td>
+    <td width="10" height="12">&nbsp;</td>
+    <td height="12">&nbsp; </td>
+  </tr>
+  <tr>
+    <td height="5" valign="top">
+      <table border="0" cellspacing="0" cellpadding="0" width="125">
+        <tr> 
+          <td><a href="itineraire.html"><img src="../../../images/carte/situation/${country.valueOf("@name").toLowerCase()}.gif" width="125" height="170" border="0" alt="Itin&eacute;raire - la carte"></a></td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"> &nbsp;<a href="carnet.de.voyage.html" class="menuvoyage">Le 
+              r&eacute;cit</a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <!--
+        <tr>
+          <td bgcolor="#0033CC">
+            <p class="menuvoyage"><a href="../voyages/pays/indonesie/voyage.html" class="menuvoyage">&nbsp;R&eacute;cit
+              du voyage</a></p>
+          </td>
+        </tr>
+        <tr>
+          <td height="10"></td>
+        </tr>
+--> 
+        <tr> 
+          <td> 
+            <p class="menuvoyage"><a href="itineraire.html" class="menuvoyage">&nbsp;La 
+              carte </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menudisabled">&nbsp;Les photos </p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"><a href="infos-pratiques.html" class="menuvoyage">&nbsp;Infos 
+              pratiques </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <p class="menuvoyage"> <a href="../resume.html" class="menuvoyage">&nbsp;Autres 
+              pays </a></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="10">&nbsp;</td>
+    
+<td valign="top">
+      
+<table width="95%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td> <br>
+            <table align="left" border=0 cellspacing=10>
+              <tr>
+                <td>
+				#foreach ($page in $Page.selectNodes("./parent::*/Page[@lot=$pageNumber]"))
+				
+					#set ($intro = $this.readContent($page.valueOf("./Content/@path")) )
+					#set ($index = $intro.indexOf(".",100))
+					#if  ($index > 300)
+					#set ($index = $intro.indexOf("!",100))
+					#end
+					#if  ($index > 300)
+					#set ($index = $intro.indexOf(" ",150))
+					#end
+					#set ($index = 1 + $index)
+					#set ($intro = $intro.substring(0,$index))
+					#set ($intro = "$intro...")
+					#set ($intro = $intro.replaceAll("<p.*?>",""))
+					#set ($intro = $intro.replaceAll("</p>"," - "))
+					#set ($intro = $intro.replaceAll("<br>",""))
+					
+					<a name="#$page.valueOf("@id")"></a>
+					<table width="400" cellpadding="5">
+					<tr><td class="TitrePage">$page.valueOf("./Content/@title")</td></tr>
+					<tr><td>&nbsp;</td></tr>
+					<tr><td bgcolor="#000099">
+					$intro<br>
+					<a href="$page.valueOf("@page.filename")">Continuer la balade en lisant le récit</a>
+					</td>
+					</tr>
+					</table>
+					<p>Cliquer sur une photo pour l'agrandir ou pour voir un diaporama...</p>
+					<table>
+					#set ( $pictures = $page.selectNodes("./Picture") )
+					#set ( $table = $helper.getMatrix($pictures,5)  ) 
+                    #foreach ($row in $table)
+ 					<tr align="center" valign="middle"> 
+					#foreach ($picture in $row)
+                    <td class="caption" width="200"> <a href="javascript:var a=1;" ><img src="../pictures/$picture.valueOf("@country")/144/$picture.valueOf("@id")" border=0 
+					onclick="window.open('../navigation/$picture.valueOf("@country")/$picture.HtmlPath','visionneuse','width=820,height=650,resizable=yes,scrollbars=no')" 
+					alt="photo $country.valueOf("@name") :: $picture.valueOf("@town") :: $picture.valueOf("@description")" ></a> <br>
+                      $picture.valueOf("@town")
+					#if  ($picture.valueOf("@place"))
+						<br>$picture.valueOf("@place") $picture.valueOf("@id")
+					#end
+					</td>
+					#end
+					</tr>
+					#end
+					</table>
+				#end
+				</td>
+              </tr>
+            </table> </td>
+        </tr>
+      </table>
+      <table width="100%">
+        <tr>
+        <td align="left">
+			
+				
+        <p> 
+        #if ($nextCountry)
+          #if ( $pageIndex == $pageList.size()) 
+          	Suite des photos: <a href="../$nextCountry.CountryId/photos.html">$nextCountry.Title</a> 
+          #else 
+          	#set ($nextIndex = $pageIndex + 1) 
+          	<a href="photo${nextIndex}.html">Suite des photos...</a> 
+          #end 
+        #end  
+        </p>
+			
+	</td>
+          
+          <td align="right">
+          
+          
+          #set ($pageSet = $Page.selectNodes("./parent::*/Page[@firstlot]"))
+          
+          #foreach ($page in $pageSet) 
+          	#set ($i = $page.valueOf("@lot"))
+          	#set ($recitPageSet = $page.selectNodes("./parent::*/Page[@lot='$i']"))
+          	#set ($onMouseOver = "")
+          	#set ($width = 0)
+          	#foreach ($pageRecit in $recitPageSet)
+          		#set ($title = $pageRecit.valueOf("./Content/@title") )
+          		#set ($onMouseOver = "$onMouseOver - $title<br>" )
+          		#if ( $title.length()> $width )
+	          		#set ($width = $title.length() )
+	          	#end
+          	#end
+          	
+          	#set ($width = 50 + $width * 8 )
+          	#set ($height = $recitPageSet.size())
+          	
+          	#set ($height = -20 - (15 * $height))
+          	
+          	#set ($onMouseOver = "<p class=tool_p>$onMouseOver</p>" )
+          	#set ($guillemet = '"')
+          	#set ($onMouseOver = "onMouseover=${guillemet}this.T_STATIC=true; this.T_WIDTH=$width;this.T_OFFSETY=$height;return escape('${onMouseOver}')${guillemet}")
+          	
+          	#if ($i != $pageNumber) 
+          	
+	          	<a href="photo${i}.html" class="nounder" $onMouseOver>$i</a>
+	        #else
+	        	$i
+	        #end
+          #end
+          
+          
+          &nbsp;&nbsp;&nbsp;&nbsp;</td>
+        </tr>
+      </table>
+    
+  
+
+<p></p>
+<script language="JavaScript" type="text/javascript" src="../../../js/wz_tooltip.js"></script>
+</table></body>
+</html>

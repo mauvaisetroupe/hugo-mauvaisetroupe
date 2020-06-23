@@ -1,0 +1,14 @@
++++
+title="Carnet de Voyage : Inde"
+voyages = ["Tour du monde 2001","inde-2001-04"]
+date = "2001-04-28T05:00:00"
+pays = ["Inde"]
+thumbnail="tdm/inde.gif"
+pays_weight = 400
+voyages_weight = 400
++++
+Après le Népal, un petit tour à Daarjeeling et quelques jours à Calcutta, histoire de faire nos adieux et de manger quelques épinards chez "le sick"...
+
+{{< pagespays >}}
+## Le trajet
+{{< img src="/tdm/inde.gif" alt="Le récit" >}}

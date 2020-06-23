@@ -1,0 +1,1 @@
+PATH = %PATH%;C:\localapps\hugo_0.72.0_Windows-64bit
