@@ -695,7 +695,7 @@ section.footer > header a {
   background-position: center;
 }
 
-{{ range $p := .Site.RegularPages }}
+{{ range $p := .Site.Pages }}
 {{ with $p.Params.thumbnail }}
 .thumb-{{ $p.UniqueID }} {
   background-image: url({{ $.Site.BaseURL }}{{ . }});

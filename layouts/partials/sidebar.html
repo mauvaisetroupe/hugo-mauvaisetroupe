@@ -31,7 +31,7 @@
       <header>LATESTS</header>
       <div>
         <div class="articles sm">
-          {{ range $i, $p := (first 5 .Site.Pages) }}
+          {{ range $i, $p := (first 5 .Site.RegularPages) }}
           {{ .Render "li_sm" }}
           {{ end }}
         </div>
