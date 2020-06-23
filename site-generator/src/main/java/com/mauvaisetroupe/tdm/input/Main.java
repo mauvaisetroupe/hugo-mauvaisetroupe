@@ -2361,8 +2361,8 @@ public class Main {
 		l.add("2001 12 Chili/0153 Punta Arenas/2001-09-02_2239_65.8.jpg");
 		l.add("2001 12 Chili/0153 Punta Arenas/2001-09-02_2240_65.7.jpg");
 		l.add("2001 12 Chili/0153 Punta Arenas/2001-09-02_2241_65.6.jpg");
-		l.add("2001 13 Argentine/0154 Fronti�re/2001-09-02_2242_65.5.jpg");
-		l.add("2001 13 Argentine/0154 Fronti�re/2001-09-02_2243_65.4.jpg");
+		l.add("2001 13 Argentine/0154 Frontière/2001-09-02_2242_65.5.jpg");
+		l.add("2001 13 Argentine/0154 Frontière/2001-09-02_2243_65.4.jpg");
 		l.add("2001 13 Argentine/0155 Perito Moreno/2001-09-03_2244_65.3.jpg");
 		l.add("2001 13 Argentine/0155 Perito Moreno/2001-09-03_2245_65.2.jpg");
 		l.add("2001 13 Argentine/0155 Perito Moreno/2001-09-03_2246_65.1.jpg");
