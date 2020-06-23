@@ -76,6 +76,8 @@ public class ChangeHttmlFileForHugo {
 
 				String title = WordUtils.capitalize(f.getFileName().toString().replace(".html.toconvert", "").replaceAll("\\.", " "));
 				Path outputPath = null;
+				Path outputPath2 = null;
+				
 
 				String htmlConvertFileName = f.getFileName().toString();
 				if (htmlConvertFileName.equals("carnet.de.voyage.html.toconvert")) {
@@ -105,6 +107,22 @@ public class ChangeHttmlFileForHugo {
 					tmp = new File(tmp.getParentFile(), "000-" +  tmp.getName());
 					outputPath=tmp.toPath();
 
+					// generate _index file for thumbnail
+					
+					outputPath2 = outputPath;
+					File tmp2 = new File(outputPath.toFile().toString().replace("000-carnet.de.voyage.md", "_index.md"));
+					outputPath2=tmp2.toPath();
+					
+					if (outputPath2!=null) {
+						StringBuffer tmp3 = new StringBuffer();
+						tmp3.append("+++\n");
+						tmp3.append("title=\""+ country + " - Tour du monde 2001\"\n");
+						tmp3.append("thumbnail=\"tdm/" +  country.toLowerCase() + ".gif\"\n");
+						tmp3.append("+++\n");
+						BufferedWriter writer = Files.newBufferedWriter(outputPath2, StandardCharsets.UTF_8);
+						writer.write(tmp3.toString());
+						writer.close();
+					}
 					
 					System.out.println(">>>"+outputPath);
 					
