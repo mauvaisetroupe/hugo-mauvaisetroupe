@@ -8,6 +8,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.text.DateFormat;
+import java.text.DecimalFormat;
+import java.text.NumberFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -98,6 +100,12 @@ public class ChangeHttmlFileForHugo {
 							.replace("html.toconvert", "md")
 							.replaceAll("content-input", "content")
 							.replaceAll("Tour du monde", ""));
+					
+					File tmp = outputPath.toFile();
+					tmp = new File(tmp.getParentFile(), "000-" +  tmp.getName());
+					outputPath=tmp.toPath();
+
+					
 					System.out.println(">>>"+outputPath);
 					
 
@@ -117,6 +125,8 @@ public class ChangeHttmlFileForHugo {
 								.replace("html.toconvert", "md")
 								.replaceAll("content-input", "content")
 								.replaceAll("Tour du monde", ""));
+						
+
 						System.out.println(">>>"+outputPath);
 
 					}
@@ -138,6 +148,13 @@ public class ChangeHttmlFileForHugo {
 								.replaceAll("content-input", "content")
 								//.replaceAll("Tour du monde", country));
 								.replaceAll("Tour du monde", ""));
+						
+						File tmp = outputPath.toFile();
+				        NumberFormat nf = new DecimalFormat("000");
+
+						tmp = new File(tmp.getParentFile().getParentFile(), nf.format(pageNumber) + "-" +  tmp.getName());
+						outputPath=tmp.toPath();
+						
 					}
 				}
 				weight = 100 * (countryNumber + 1) + pageNumber;
@@ -159,6 +176,7 @@ public class ChangeHttmlFileForHugo {
 					header.append("pays_weight = " + weight + "\n");
 					header.append("voyages_weight = " + weight + "\n");
 					//header.append("weight = " + dateAsWeight + "\n");
+					//header.append("weight = " + weight + "\n");
 				}
 				header.append("+++\n");
 

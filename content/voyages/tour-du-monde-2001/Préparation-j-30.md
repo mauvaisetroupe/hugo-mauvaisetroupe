@@ -1,15 +1,16 @@
 ﻿+++
-title="Préparation du tour du monde... J-15"
+title="Préparation du tour du monde... J-30"
 voyages = ["Tour du monde 2001"]
 date = "2001-01-15T12:00:00"
 pays = ["France"]
 voyages_weight = 1
+thumbnail="/header/tdm2001.png"
 
 +++
 
 Peut-être êtes-vous en train de vous demander comment préparer un tour du monde, quelles sont les préparations pour un tel voyage... voici nos quelques humbles conseils...
 
-# Préparatifs J-30
+## Préparatifs J-30
 
 Le grand départ approche à pas de géant maintenant ... Dans un mois, ça y est. Et nous sommes fin prêts ... A quelques détails près, puisque:
 

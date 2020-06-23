@@ -1,0 +1,41 @@
+{{ define "title" }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ end }}
+
+{{ define "main" }}
+
+
+	
+<div class="mrow">
+  <div class="mcol c8">
+
+    {{ if not .IsHome }}
+    <header class="page-title">
+      <h1 class="title">{{ .Title }}</h1>
+    </header>
+    {{ end }}
+	
+	<!--LCO -->
+	
+	<article class="sn">
+	  <div class="thumb thumb-{{ .UniqueID }}"></div>
+
+	<div class="article-body">{{ .Content }}</div>
+	</article>	
+
+	<!--/LCO -->
+
+    <div class="articles">
+      <div class="mrow">
+        {{ range (.Paginate .Data.Pages).Pages }}
+        <div class="mcol c6">{{ .Render "li" }}</div>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ partial "pagination.html" . }}
+  </div>
+  <div class="mcol c4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ end }}
+

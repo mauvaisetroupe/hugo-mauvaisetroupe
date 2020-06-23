@@ -1,3 +1,0 @@
-TEST
-
-{{< ref "document.md" >}}

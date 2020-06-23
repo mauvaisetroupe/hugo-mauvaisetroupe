@@ -1,14 +1,14 @@
 ﻿+++
-title="Préparation du tour du monde... J-30"
+title="Préparation du tour du monde... J-15"
 voyages = ["Tour du monde 2001"]
 date = "2001-01-01T12:00:00"
 pays = ["France"]
 voyages_weight = 2
-thumbnail="header/tdm2001.png"
+thumbnail="/header/tdm2001.png"
 
 +++
 
-# Préparatifs J-15
+## Préparatifs J-15
 
 Le temps passe mais nous sommes pratiquement prêts. Pratiquement, parce qu'il nous reste encore quelques vaccins, dont la dernière injection contre la rage prévue pour le jour du départ (mais cela n'étonnera pas trop ceux qui nous connaissent bien).
 
