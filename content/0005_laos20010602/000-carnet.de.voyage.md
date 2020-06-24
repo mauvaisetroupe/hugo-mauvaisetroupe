@@ -6,6 +6,7 @@ pays = ["Laos"]
 thumbnail="tdm/laos.gif"
 pays_weight = 600
 voyages_weight = 600
+country_summary=true
 +++
 On avait vu en Thaïlande un instrument servant à concasser le grain, dans un musée. On a vu au Laos un gamin l'utiliser au bord d'un champ... Il paraît que le Laos ressemle à la Thaïlande d'il y a trente ans, on n'a pas de mal à le croire. 
 

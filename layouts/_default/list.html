@@ -26,19 +26,35 @@
 
 	<div class="articles">
       <div class="mrow">
-		{{ if .Params.inverseorder }}
-    
-			{{ range (.Paginate .Data.Pages.Reverse).Pages }}
-			<div class="mcol c6">{{ .Render "li" }}</div>
-			{{ end }}
-			
-		{{ else }}
+	  
 
-			{{ range (.Paginate .Data.Pages).Pages }}
-			<div class="mcol c6">{{ .Render "li" }}</div>
-			{{ end }}
-			
+		
+		{{ $filterSumary := false }}
+		{{ if (.Params.filter_summary) }}	
+			{{  $filterSumary = true }}
+		{{ end}}	
+		
+
+		{{ $listToDisplay := (slice )  }}
+		{{ if $filterSumary }}
+			{{ range $ele := .Data.Pages }} 
+				{{ if ($ele.Params.country_summary) }}	
+					{{ $listToDisplay = $listToDisplay | append $ele }}
+				{{ end}}
+			{{ end }}	
+		{{ else }}
+			{{ $listToDisplay = .Data.Pages }}
+		{{ end }}
+		
+		{{ if .Params.inverseorder }}
+			{{ $listToDisplay = $listToDisplay.Reverse }}
 		{{ end }}	
+
+
+		{{ range $pageToDisplay :=(.Paginate $listToDisplay).Pages  }}
+				<div class="mcol c6">{{ .Render "li" }}</div>
+		{{ end }}
+
       </div>
     </div>
 

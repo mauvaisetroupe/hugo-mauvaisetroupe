@@ -6,6 +6,7 @@ pays = ["Jordanie"]
 thumbnail="tdm/jordanie.gif"
 pays_weight = 100
 voyages_weight = 100
+country_summary=true
 +++
 Le premier pays de notre ballade autour du monde... Ce qui frappe surtout ici, c'est l'extrême gentillesse des jordaniens. Dès qu'ils pensent pouvoir nous aider, ils s'arrêtent et proposent leur aide, ce sont des "welcome" de bienvenue tres sincères qui nous attendent dans chaque échoppe et des sourires très gentils à chaque coin de rue. Des petits gestes tout simples, comme ce monsieur qui nous offre une pomme sur le marché, heureux d'acueillir des français dans son pays. 
 

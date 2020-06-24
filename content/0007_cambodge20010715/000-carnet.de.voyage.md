@@ -6,6 +6,7 @@ pays = ["Cambodge"]
 thumbnail="tdm/cambodge.gif"
 pays_weight = 800
 voyages_weight = 800
+country_summary=true
 +++
 Le Cambodge est un pays qui sort d'une guerre civile et d'un véritable génocide. Il a une histoire récente très complexe, mais c'est aussi un pays où les gens sont très accueillants malgré la pauvreté de la plupart 
 

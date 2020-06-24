@@ -77,6 +77,7 @@ public class ChangeHttmlFileForHugo {
 				String title = WordUtils.capitalize(f.getFileName().toString().replace(".html.toconvert", "").replaceAll("\\.", " "));
 				Path outputPath = null;
 				Path outputPath2 = null;
+				boolean isSumary = false;
 				
 
 				String htmlConvertFileName = f.getFileName().toString();
@@ -97,6 +98,8 @@ public class ChangeHttmlFileForHugo {
 					countryNumber = Integer.parseInt(f.getParent().getFileName().toString().replaceAll("_.*", ""));
 					thumb = "tdm/" + country.toLowerCase() + ".gif";
 					addList = true;
+					isSumary = true;
+					
 					//outputPath = Paths.get(new File(output + "\\pays\\" + country.toLowerCase() + "\\_index.md").toString());
 					outputPath = Paths.get(f.toString()
 							.replace("html.toconvert", "md")
@@ -198,6 +201,10 @@ public class ChangeHttmlFileForHugo {
 					//header.append("weight = " + dateAsWeight + "\n");
 					//header.append("weight = " + weight + "\n");
 				}
+				if (isSumary) {
+					header.append("country_summary=true\n");
+				}
+				
 				header.append("+++\n");
 
 				StringBuffer tmp = new StringBuffer();

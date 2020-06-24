@@ -6,6 +6,7 @@ pays = ["Bresil"]
 thumbnail="tdm/bresil.gif"
 pays_weight = 1400
 voyages_weight = 1400
+country_summary=true
 +++
 
 {{< pagespays >}}

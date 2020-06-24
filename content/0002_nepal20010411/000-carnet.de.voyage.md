@@ -6,6 +6,7 @@ pays = ["Nepal"]
 thumbnail="tdm/nepal.gif"
 pays_weight = 300
 voyages_weight = 300
+country_summary=true
 +++
 Marion gardait un excellent souvenir du Nepal. De veritables vacances par rapport a l'Inde dans un pays superbe habite par des gens vraiment acceuillants.
 

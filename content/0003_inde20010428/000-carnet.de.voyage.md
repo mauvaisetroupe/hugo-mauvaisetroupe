@@ -6,6 +6,7 @@ pays = ["Inde"]
 thumbnail="tdm/inde.gif"
 pays_weight = 400
 voyages_weight = 400
+country_summary=true
 +++
 Après le Népal, un petit tour à Daarjeeling et quelques jours à Calcutta, histoire de faire nos adieux et de manger quelques épinards chez "le sick"...
 

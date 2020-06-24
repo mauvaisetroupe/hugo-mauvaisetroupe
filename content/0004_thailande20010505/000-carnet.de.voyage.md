@@ -6,6 +6,7 @@ pays = ["Thailande"]
 thumbnail="tdm/thailande.gif"
 pays_weight = 500
 voyages_weight = 500
+country_summary=true
 +++
 Que de changements par rapport à l'Inde! On a vraiment atterri dans un autre monde. On est revenu au 21ème siècle en quelques sortes. Tant mieux et tant pis. 
 

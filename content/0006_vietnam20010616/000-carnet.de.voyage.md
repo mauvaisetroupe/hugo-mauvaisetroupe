@@ -6,6 +6,7 @@ pays = ["Vietnam"]
 thumbnail="tdm/vietnam.gif"
 pays_weight = 700
 voyages_weight = 700
+country_summary=true
 +++
 On a rencontré pas mal de voyageurs qui venaient du Vietnam et qui étaient déçus par les vietnamiens qu'ils avaient trouvés antipathiques. Et bien pas nous! On est tombé sur des gens accueillants et amicaux et qui ont presque toujours répondu à nos sourires - quand il ne les avaient pas provoqués. 
 

@@ -6,6 +6,7 @@ pays = ["Thailande"]
 thumbnail="tdm/thailande.gif"
 pays_weight = 900
 voyages_weight = 900
+country_summary=true
 +++
 Un peu de repos avant de changer de continent...
 
