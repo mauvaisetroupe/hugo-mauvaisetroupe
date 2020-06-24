@@ -96,7 +96,7 @@ public class ChangeHttmlFileForHugo {
 					dateAsWeight = format3.format(d) + "05";
 					pageNumber = 0;
 					countryNumber = Integer.parseInt(f.getParent().getFileName().toString().replaceAll("_.*", ""));
-					thumb = "tdm/" + country.toLowerCase() + ".gif";
+					thumb = "tdm/" + country.toLowerCase() + "-stamp.png";
 					addList = true;
 					isSumary = true;
 					
