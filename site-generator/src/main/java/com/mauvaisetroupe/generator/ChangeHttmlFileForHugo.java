@@ -117,7 +117,9 @@ public class ChangeHttmlFileForHugo {
 						StringBuffer tmp3 = new StringBuffer();
 						tmp3.append("+++\n");
 						tmp3.append("title=\""+ country + " - Tour du monde 2001\"\n");
-						tmp3.append("thumbnail=\"tdm/" +  country.toLowerCase() + ".gif\"\n");
+						//tmp3.append("thumbnail=\"tdm/" +  country.toLowerCase() + ".gif\"\n");
+						tmp3.append("thumbnail=\"tdm/nous-2.jpg\"\n");
+						tmp3.append("inverseorder=true\n");
 						tmp3.append("+++\n");
 						BufferedWriter writer = Files.newBufferedWriter(outputPath2, StandardCharsets.UTF_8);
 						writer.write(tmp3.toString());

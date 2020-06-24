@@ -1,4 +1,5 @@
 +++
 title="Inde - Tour du monde 2001"
-thumbnail="tdm/inde.gif"
+thumbnail="tdm/nous-2.jpg"
+inverseorder=true
 +++

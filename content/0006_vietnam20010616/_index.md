@@ -1,4 +1,5 @@
 +++
 title="Vietnam - Tour du monde 2001"
-thumbnail="tdm/vietnam.gif"
+thumbnail="tdm/nous-2.jpg"
+inverseorder=true
 +++

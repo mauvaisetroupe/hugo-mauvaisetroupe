@@ -1,4 +1,5 @@
 +++
 title="Bolivie - Tour du monde 2001"
-thumbnail="tdm/bolivie.gif"
+thumbnail="tdm/nous-2.jpg"
+inverseorder=true
 +++

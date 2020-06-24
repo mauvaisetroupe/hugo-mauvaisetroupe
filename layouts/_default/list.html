@@ -14,6 +14,7 @@
     {{ end }}
 	
 	<!--LCO -->
+
 	
 	<article class="sn">
 	  <div class="thumb thumb-{{ .UniqueID }}"></div>
@@ -23,11 +24,21 @@
 
 	<!--/LCO -->
 
-    <div class="articles">
+	<div class="articles">
       <div class="mrow">
-        {{ range (.Paginate .Data.Pages).Pages.Reverse }}
-        <div class="mcol c6">{{ .Render "li" }}</div>
-        {{ end }}
+		{{ if .Params.inverseorder }}
+    
+			{{ range (.Paginate .Data.Pages.Reverse).Pages }}
+			<div class="mcol c6">{{ .Render "li" }}</div>
+			{{ end }}
+			
+		{{ else }}
+
+			{{ range (.Paginate .Data.Pages).Pages }}
+			<div class="mcol c6">{{ .Render "li" }}</div>
+			{{ end }}
+			
+		{{ end }}	
       </div>
     </div>
 

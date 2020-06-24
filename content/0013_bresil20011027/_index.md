@@ -1,4 +1,5 @@
 +++
 title="Bresil - Tour du monde 2001"
-thumbnail="tdm/bresil.gif"
+thumbnail="tdm/nous-2.jpg"
+inverseorder=true
 +++
