@@ -1,3 +1,5 @@
-TEST
-
-{{< ref "0000_jordanie20010205/001-L'arrivée à Amman.md" >}}
++++
+title="Marion & Lionel - Le blog"
+thumbnail="tdm/nous-2.jpg"
+inverseorder=false
++++
