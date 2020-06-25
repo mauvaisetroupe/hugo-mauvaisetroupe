@@ -251,7 +251,7 @@ public class ChangeHttmlFileForHugo {
 								}
 							}
 							else {
-								System.out.println("PB with Picture : " + picId);
+								System.out.println("PB with Picture : [" + picId  + "]");
 							}
 							
 

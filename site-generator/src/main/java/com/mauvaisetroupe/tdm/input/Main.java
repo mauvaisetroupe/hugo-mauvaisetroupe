@@ -108,6 +108,7 @@ public class Main {
 		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0003_1.4.jpg");
 		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0004_1.3.jpg");
 		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0005_1.2.jpg");
+		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0006_1.1.JPG");
 		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0007_2.24.jpg");
 		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0008_2.23.jpg");
 		l.add("2001 01 Jordanie/0002 Jerash/2001-02-06_0009_2.22.jpg");
@@ -121,6 +122,7 @@ public class Main {
 		l.add("2001 01 Jordanie/0003 Amman/2001-02-06_0017_2.18.jpg");
 		l.add("2001 01 Jordanie/0003 Amman/2001-02-06_0018_2.17.jpg");
 		l.add("2001 01 Jordanie/0003 Amman/2001-02-07_0020_2.15.jpg");
+		l.add("2001 01 Jordanie/0003 Amman/2001-02-07_0021_2.14.JPG");
 		l.add("2001 01 Jordanie/0003 Amman/2001-02-07_0022_2.13.jpg");
 		l.add("2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0023_2.12.jpg");
 		l.add("2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0024_2.11.jpg");
@@ -275,8 +277,8 @@ public class Main {
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0159_6.6.jpg");
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0160_6.5.jpg");
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0161_6.4.jpg");
-		l.add("2001 02 Inde/0014 Agra/2001-02-21_0162_6.3_2.jpg");
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0163_6.3.jpg");
+		l.add("2001 02 Inde/0014 Agra/2001-02-21_0162_6.3_2.jpg");
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0164_6.2_2.jpg");
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0165_6.2.jpg");
 		l.add("2001 02 Inde/0014 Agra/2001-02-21_0166_7A.32.jpg");
