@@ -65,7 +65,7 @@ public class ChangeHttmlFileForHugo {
 				DateFormat format = new SimpleDateFormat("dd/mm/yy");
 				DateFormat format2 = new SimpleDateFormat("yyyy-mm-dd");
 				DateFormat format3 = new SimpleDateFormat("yyyymmdd");
-				DateFormat format4 = new SimpleDateFormat("mm-yyyy");
+				//DateFormat format4 = new SimpleDateFormat("mm-yyyy");
 				DateFormat format5 = new SimpleDateFormat("mm/yyyy");
 				
 				String dateAsString = null;
@@ -90,7 +90,7 @@ public class ChangeHttmlFileForHugo {
 					countryfolder = f.getParent().getFileName().toString().replaceAll("^[0-9]*_", "");
 					countryDate = countryfolder.substring(countryfolder.length()-8, countryfolder.length());
 					carnetMenuName = country + " " + format5.format(format3.parse(countryDate));
-					countryDate = format4.format(format3.parse(countryDate));
+					countryDate = format5.format(format3.parse(countryDate));
 					
 					
 					title = "Carnet de Voyage : " + country;
@@ -161,7 +161,7 @@ public class ChangeHttmlFileForHugo {
 						country = WordUtils.capitalize(f.getParent().getParent().getFileName().toString().replaceAll("[0-9_]", ""));
 						countryfolder = f.getParent().getParent().getFileName().toString().replaceAll("^[0-9]*_", "");
 						countryDate = countryfolder.substring(countryfolder.length()-8, countryfolder.length());
-						countryDate = format4.format(format3.parse(countryDate));
+						countryDate = format5.format(format3.parse(countryDate));
 
 						pageNumber = Integer.parseInt(f.getParent().getFileName().toString().replaceAll("^0*", "").replaceAll("\\\\/", ""));
 						countryNumber = Integer.parseInt(f.getParent().getParent().getFileName().toString().replaceAll("_.*", ""));
@@ -190,7 +190,7 @@ public class ChangeHttmlFileForHugo {
 				header.append("+++\n");
 				header.append("title=\"" + title + "\"\n");
 				if (country!=null) {
-					header.append("voyages = [\"Tour du monde 2001\",\"" + country.toLowerCase()+" "+countryDate + "\"]\n");
+					header.append("voyages = [\"Tour du monde 2001\",\"" + country +" ("+countryDate + ")\"]\n");
 				}
 				else {
 					header.append("voyages = [\"Tour du monde 2001\"]\n");

@@ -30,7 +30,7 @@
 		<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
 		<div class="menu">
 			{{ range where .Site.Pages.Reverse "Params.country_summary" true }}
-			<a class="item-menu" href="{{ $.Site.BaseURL}}{{ .RelPermalink }}">{{.Params.menu_display}}</a>	
+			<a class="item-menu" href="{{ .RelPermalink }}">{{.Params.menu_display}}</a>	
 			{{ end }}
 		</div>
     </header>

@@ -46,7 +46,7 @@
  
       <div>
         <ul class="terms">
-          {{ range $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+          {{ range $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Page.Title }}</a></li>{{ end }}
         </ul>
  
  

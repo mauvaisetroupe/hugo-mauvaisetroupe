@@ -82,25 +82,11 @@ aside.f {
   max-width: 68rem;
   margin: 0 auto;
   padding: 0 1rem;
-  padding-top: 70px; //LCO - should be aligned with header height...
+  padding-top: 55px; //LCO - should be aligned with header height...
 }
 
 .l-container.thin {
   max-width: 44rem;
-}
-
-
-.l-header {
-  background-color: #eee;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  position: fixed;
-  width: 100%;
-  z-index: 3;
-}
-
-.l-header .description {
-  margin-top: .5rem;
-  font-size: .8rem;
 }
 
 .l-footer {
