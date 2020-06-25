@@ -29,10 +29,9 @@
 		<input class="menu-btn" type="checkbox" id="menu-btn" />
 		<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
 		<div class="menu">
-			<div class="item-menu"><a href="/voyages/jordanie-2001-02/">Jordanie 2001</a></div>
-			<div class="item-menu"><a href="/voyages/jordanie-2001-02/">Jordanie 2001 2</a></div>
-			<div class="item-menu"><a href="/voyages/jordanie-2001-02/">Jordanie 2001 3</a></div>
-			<div class="item-menu"><a href="/voyages/jordanie-2001-02/">Jordanie 2001 4</a></div>
+			{{ range where .Site.Pages.Reverse "Params.country_summary" true }}
+			<a class="item-menu" href="{{ $.Site.BaseURL}}{{ .RelPermalink }}">{{.Params.menu_display}}</a>	
+			{{ end }}
 		</div>
     </header>
 

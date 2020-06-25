@@ -1,20 +1,13 @@
 
 /* l-header */
 
-.l-header {
-  background-color: #fff;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  position: fixed;
-  width: 100%;
-  z-index: 3;
-}
 
 .l-header div{
   margin: 0;
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: #fff;
+  background-color: #eee;
 }
 
 .l-header li a {
@@ -33,14 +26,19 @@
   display: block;
   float: left;
   font-size: 1.4em;
-  padding: 10px 20px;
+  padding: 20px 10px;
   text-decoration: none;
 }
 
 .item-menu {
-	display: inline;
-  
+	display: inline-block;
+	margin: 10px;
+	border: 0px;
+	font-size: 14px;
+	
 }
+
+
 
 
 /* menu */
@@ -48,6 +46,9 @@
 .l-header .menu {
   clear: both;
   max-height: 0;
+  padding:5px;
+  margin-left:50px;
+  margin-right:50px;
   transition: max-height .2s ease-out;
 }
 
@@ -97,7 +98,8 @@
 }
 
 .l-header .menu-btn:checked ~ .menu {
-  max-height: 240px;
+  padding: 5px;
+  max-height: 600px;
 }
 
 .l-header .menu-btn:checked ~ .menu-icon .navicon {
