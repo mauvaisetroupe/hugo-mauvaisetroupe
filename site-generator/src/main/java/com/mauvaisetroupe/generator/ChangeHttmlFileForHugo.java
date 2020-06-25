@@ -65,12 +65,14 @@ public class ChangeHttmlFileForHugo {
 				DateFormat format = new SimpleDateFormat("dd/mm/yy");
 				DateFormat format2 = new SimpleDateFormat("yyyy-mm-dd");
 				DateFormat format3 = new SimpleDateFormat("yyyymmdd");
-				DateFormat format4 = new SimpleDateFormat("yyyy-mm");
+				DateFormat format4 = new SimpleDateFormat("mm-yyyy");
+				DateFormat format5 = new SimpleDateFormat("mm/yyyy");
 				
 				String dateAsString = null;
 				String dateAsWeight = null;
 				String thumb = null;
 				String countryDate = null;
+				String carnetMenuName = null;
 				
 				boolean addList = false;
 
@@ -87,6 +89,7 @@ public class ChangeHttmlFileForHugo {
 					country = WordUtils.capitalize(f.getParent().getFileName().toString().replaceAll("[0-9_]", ""));
 					countryfolder = f.getParent().getFileName().toString().replaceAll("^[0-9]*_", "");
 					countryDate = countryfolder.substring(countryfolder.length()-8, countryfolder.length());
+					carnetMenuName = country + " " + format5.format(format3.parse(countryDate));
 					countryDate = format4.format(format3.parse(countryDate));
 					
 					
@@ -187,13 +190,14 @@ public class ChangeHttmlFileForHugo {
 				header.append("+++\n");
 				header.append("title=\"" + title + "\"\n");
 				if (country!=null) {
-					header.append("voyages = [\"Tour du monde 2001\",\"" + country.toLowerCase()+"-"+countryDate + "\"]\n");
+					header.append("voyages = [\"Tour du monde 2001\",\"" + country.toLowerCase()+" "+countryDate + "\"]\n");
 				}
 				else {
 					header.append("voyages = [\"Tour du monde 2001\"]\n");
 				}
 				header.append("date = \"" + dateAsString + "\"\n");
 				if (country!= null) header.append("pays = [\""  + country + "\"]\n");
+				if (carnetMenuName!= null) header.append("menu_display = \""  + carnetMenuName + "\"\n");
 				if (thumb!= null) header.append("thumbnail=\"" + thumb + "\"\n");
 				if (weight > 0) {
 					header.append("pays_weight = " + weight + "\n");
