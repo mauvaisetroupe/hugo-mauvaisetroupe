@@ -1,6 +1,6 @@
 +++
 title="Battambang"
-voyages = ["Tour du monde 2001","cambodge-2001-07"]
+voyages = ["Tour du monde 2001","cambodge 07-2001"]
 date = "2001-07-21T12:00:00"
 pays = ["Cambodge"]
 thumbnail="header/cambodge20010715/7.jpg"

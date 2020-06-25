@@ -1,6 +1,6 @@
 +++
 title="Arrivée À Tokyo"
-voyages = ["Tour du monde 2001","japon-2001-08"]
+voyages = ["Tour du monde 2001","japon 08-2001"]
 date = "2001-08-01T12:00:00"
 pays = ["Japon"]
 thumbnail="header/japon20010801/1.jpg"

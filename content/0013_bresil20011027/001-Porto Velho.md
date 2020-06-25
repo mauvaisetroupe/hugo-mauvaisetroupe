@@ -1,6 +1,6 @@
 +++
 title="Porto Velho"
-voyages = ["Tour du monde 2001","bresil-2001-10"]
+voyages = ["Tour du monde 2001","bresil 10-2001"]
 date = "2001-10-27T12:00:00"
 pays = ["Bresil"]
 thumbnail="header/bresil20011027/1.jpg"

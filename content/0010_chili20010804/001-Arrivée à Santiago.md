@@ -1,6 +1,6 @@
 +++
 title="Arrivée À Santiago"
-voyages = ["Tour du monde 2001","chili-2001-08"]
+voyages = ["Tour du monde 2001","chili 08-2001"]
 date = "2001-08-03T12:00:00"
 pays = ["Chili"]
 thumbnail="header/chili20010804/1.jpg"

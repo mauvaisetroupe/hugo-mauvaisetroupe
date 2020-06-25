@@ -1,8 +1,9 @@
 +++
 title="Carnet de Voyage : Chili"
-voyages = ["Tour du monde 2001","chili-2001-08"]
+voyages = ["Tour du monde 2001","chili 08-2001"]
 date = "2001-08-03T05:00:00"
 pays = ["Chili"]
+menu_display = "Chili 08/2001"
 thumbnail="tdm/chili-stamp.png"
 pays_weight = 1100
 voyages_weight = 1100

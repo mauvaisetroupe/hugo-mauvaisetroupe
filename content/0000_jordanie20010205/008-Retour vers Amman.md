@@ -1,6 +1,6 @@
 +++
 title="Retour Vers Amman"
-voyages = ["Tour du monde 2001","jordanie-2001-02"]
+voyages = ["Tour du monde 2001","jordanie 02-2001"]
 date = "2001-02-15T12:00:00"
 pays = ["Jordanie"]
 thumbnail="header/jordanie20010205/8.jpg"

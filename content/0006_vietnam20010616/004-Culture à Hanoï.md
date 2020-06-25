@@ -1,6 +1,6 @@
 +++
 title="Culture À Hanoï"
-voyages = ["Tour du monde 2001","vietnam-2001-06"]
+voyages = ["Tour du monde 2001","vietnam 06-2001"]
 date = "2001-06-23T12:00:00"
 pays = ["Vietnam"]
 thumbnail="header/vietnam20010616/4.jpg"

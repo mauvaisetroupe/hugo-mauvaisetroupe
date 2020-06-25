@@ -1,6 +1,6 @@
 +++
 title="Vang Vieng"
-voyages = ["Tour du monde 2001","laos-2001-06"]
+voyages = ["Tour du monde 2001","laos 06-2001"]
 date = "2001-06-09T12:00:00"
 pays = ["Laos"]
 thumbnail="header/laos20010602/6.jpg"

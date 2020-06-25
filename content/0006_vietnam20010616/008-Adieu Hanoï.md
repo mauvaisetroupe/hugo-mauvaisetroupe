@@ -1,6 +1,6 @@
 +++
 title="Adieu Hanoï"
-voyages = ["Tour du monde 2001","vietnam-2001-06"]
+voyages = ["Tour du monde 2001","vietnam 06-2001"]
 date = "2001-07-01T12:00:00"
 pays = ["Vietnam"]
 thumbnail="header/vietnam20010616/8.jpg"

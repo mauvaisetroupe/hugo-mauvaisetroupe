@@ -1,8 +1,9 @@
 +++
 title="Carnet de Voyage : Vietnam"
-voyages = ["Tour du monde 2001","vietnam-2001-06"]
+voyages = ["Tour du monde 2001","vietnam 06-2001"]
 date = "2001-06-15T05:00:00"
 pays = ["Vietnam"]
+menu_display = "Vietnam 06/2001"
 thumbnail="tdm/vietnam-stamp.png"
 pays_weight = 700
 voyages_weight = 700

@@ -1,6 +1,6 @@
 +++
 title="Sucre"
-voyages = ["Tour du monde 2001","bolivie-2001-09"]
+voyages = ["Tour du monde 2001","bolivie 09-2001"]
 date = "2001-09-23T12:00:00"
 pays = ["Bolivie"]
 thumbnail="header/bolivie20010921/2.jpg"

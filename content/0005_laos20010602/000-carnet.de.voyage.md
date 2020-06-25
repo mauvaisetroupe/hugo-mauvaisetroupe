@@ -1,8 +1,9 @@
 +++
 title="Carnet de Voyage : Laos"
-voyages = ["Tour du monde 2001","laos-2001-06"]
+voyages = ["Tour du monde 2001","laos 06-2001"]
 date = "2001-06-02T05:00:00"
 pays = ["Laos"]
+menu_display = "Laos 06/2001"
 thumbnail="tdm/laos-stamp.png"
 pays_weight = 600
 voyages_weight = 600

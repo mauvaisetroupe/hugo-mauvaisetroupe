@@ -1,6 +1,6 @@
 +++
 title="Chichen Itza"
-voyages = ["Tour du monde 2001","mexique-2001-11"]
+voyages = ["Tour du monde 2001","mexique 11-2001"]
 date = "2001-11-12T12:00:00"
 pays = ["Mexique"]
 thumbnail="header/mexique20011107/3.jpg"
