@@ -25,12 +25,7 @@
     {{ end }}
 
     <header class="l-header">
-      <div class="l-container">
-        <div class="logo">
-          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-        </div>
-        {{ partial "description.html" . }}
-      </div>
+        <a href="{{ .Site.BaseURL }}" class="logo">{{ .Site.Title }}</a>
     </header>
 
     <main>
