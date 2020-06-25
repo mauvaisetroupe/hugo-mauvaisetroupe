@@ -73,5 +73,6 @@ l'huile d'olive).
 <div id="TOTO">{{< figurepage src="2001 01 Jordanie/0001 Amman/2001-02-05_0001_4A.7.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0003 Amman/2001-02-06_0016_2.19.jpg" title="Retour de Jerash"  >}}
 {{< figurepage src="2001 01 Jordanie/0003 Amman/2001-02-06_0018_2.17.jpg" title="Retour de Jerash"  >}}
+{{< figurepage src="2001 01 Jordanie/0003 Amman/2001-02-07_0021_2.14.JPG" title="Balade avec Khaled"  >}}
 </DIV>
 

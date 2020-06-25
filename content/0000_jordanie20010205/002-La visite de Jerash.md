@@ -51,6 +51,7 @@ rétamée et lionel ne prenait pas trop le relais, deja endormi.
 
 
 <div id="TOTO">{{< figurepage src="2001 01 Jordanie/0002 Jerash/2001-02-06_0002_1.5.jpg" title="-"  >}}
+{{< figurepage src="2001 01 Jordanie/0002 Jerash/2001-02-06_0006_1.1.JPG" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0002 Jerash/2001-02-06_0007_2.24.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0002 Jerash/2001-02-06_0008_2.23.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0002 Jerash/2001-02-06_0010_2.21.jpg" title="-"  >}}
