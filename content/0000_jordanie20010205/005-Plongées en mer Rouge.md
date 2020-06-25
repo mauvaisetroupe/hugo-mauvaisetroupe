@@ -1,6 +1,6 @@
 +++
 title="Plongées En Mer Rouge"
-voyages = ["Tour du monde 2001","jordanie 02-2001"]
+voyages = ["Tour du monde 2001","Jordanie (02/2001)"]
 date = "2001-02-11T12:00:00"
 pays = ["Jordanie"]
 thumbnail="header/jordanie20010205/5.jpg"

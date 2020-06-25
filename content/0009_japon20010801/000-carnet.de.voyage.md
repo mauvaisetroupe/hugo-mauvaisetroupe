@@ -1,6 +1,6 @@
 +++
 title="Carnet de Voyage : Japon"
-voyages = ["Tour du monde 2001","japon 08-2001"]
+voyages = ["Tour du monde 2001","Japon (08/2001)"]
 date = "2001-08-01T05:00:00"
 pays = ["Japon"]
 menu_display = "Japon 08/2001"

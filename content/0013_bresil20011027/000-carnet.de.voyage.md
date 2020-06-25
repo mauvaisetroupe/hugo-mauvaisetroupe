@@ -1,6 +1,6 @@
 +++
 title="Carnet de Voyage : Bresil"
-voyages = ["Tour du monde 2001","bresil 10-2001"]
+voyages = ["Tour du monde 2001","Bresil (10/2001)"]
 date = "2001-10-27T05:00:00"
 pays = ["Bresil"]
 menu_display = "Bresil 10/2001"

@@ -1,6 +1,6 @@
 +++
 title="Iguazu"
-voyages = ["Tour du monde 2001","argentine 09-2001"]
+voyages = ["Tour du monde 2001","Argentine (09/2001)"]
 date = "2001-09-12T12:00:00"
 pays = ["Argentine"]
 thumbnail="header/argentine20010902/4.jpg"

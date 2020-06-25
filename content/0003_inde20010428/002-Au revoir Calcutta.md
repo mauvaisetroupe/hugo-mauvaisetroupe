@@ -1,6 +1,6 @@
 +++
 title="Au Revoir Calcutta"
-voyages = ["Tour du monde 2001","inde 04-2001"]
+voyages = ["Tour du monde 2001","Inde (04/2001)"]
 date = "2001-05-03T12:00:00"
 pays = ["Inde"]
 thumbnail="header/inde20010428/2.jpg"

@@ -1,6 +1,6 @@
 +++
 title="Varkala"
-voyages = ["Tour du monde 2001","inde 02-2001"]
+voyages = ["Tour du monde 2001","Inde (02/2001)"]
 date = "2001-03-14T12:00:00"
 pays = ["Inde"]
 thumbnail="header/inde20010218/11.jpg"
