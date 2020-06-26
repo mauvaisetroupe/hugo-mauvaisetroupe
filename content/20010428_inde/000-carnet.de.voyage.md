@@ -1,9 +1,9 @@
 +++
 title="Carnet de Voyage : Inde"
-voyages = ["Inde (04-2001)"]
+voyages = ["20010428_inde"]
 date = "2001-04-28T05:00:00"
 pays = ["Inde"]
-menu_display = "Inde (04/2001)"
+menu_display = "Inde 2001 (2)"
 thumbnail="tdm/inde-stamp.png"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]

@@ -1,6 +1,6 @@
 +++
 title="Pushkar, Au Pays Des Baba Cools"
-voyages = ["Inde (02-2001)"]
+voyages = ["20010218_inde"]
 date = "2001-02-24T12:00:00"
 pays = ["Inde"]
 thumbnail="header/20010218_inde/4.jpg"

@@ -1,9 +1,9 @@
 +++
 title="Carnet de Voyage : Jordanie"
-voyages = ["Jordanie (02-2001)"]
+voyages = ["20010205_jordanie"]
 date = "2001-02-05T05:00:00"
 pays = ["Jordanie"]
-menu_display = "Jordanie (02/2001)"
+menu_display = "Jordanie 2001"
 thumbnail="tdm/jordanie-stamp.png"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]

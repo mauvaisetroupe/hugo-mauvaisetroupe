@@ -1,6 +1,6 @@
 +++
 title="Sud Lipez"
-voyages = ["Bolivie (09-2001)"]
+voyages = ["20010921_bolivie"]
 date = "2001-10-02T12:00:00"
 pays = ["Bolivie"]
 thumbnail="header/20010921_bolivie/6.jpg"

@@ -1,9 +1,9 @@
 +++
 title="Carnet de Voyage : Thailande"
-voyages = ["Thailande (05-2001)"]
+voyages = ["20010505_thailande"]
 date = "2001-05-05T05:00:00"
 pays = ["Thailande"]
-menu_display = "Thailande (05/2001)"
+menu_display = "Thailande 2001"
 thumbnail="tdm/thailande-stamp.png"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]

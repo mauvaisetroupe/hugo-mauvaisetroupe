@@ -1,6 +1,6 @@
 +++
 title="Un Peu De Repos"
-voyages = ["Thailande (07-2001)"]
+voyages = ["20010724_thailande"]
 date = "2001-07-25T12:00:00"
 pays = ["Thailande"]
 thumbnail="header/20010724_thailande/1.jpg"

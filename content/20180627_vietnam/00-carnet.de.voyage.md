@@ -1,9 +1,9 @@
 +++
 title="Carnet de Voyage : Vietnam en famille"
-voyages = ["Vietnam (06-2018)"]
+voyages = ["20180627_vietnam"]
 date = "2018-06-26"
 pays = ["Vietnam"]
-menu_display = "Vietnam (07/2018)"
+menu_display = "Vietnam 2018"
 country_summary=true
 thumbnail="header/vietnam2018/vietnam-2018-head-1000px.jpg"
 

@@ -1,6 +1,6 @@
 +++
 title="Premier Jour À Tokyo"
-voyages = ["Japon (08-2001)"]
+voyages = ["20010801_japon"]
 date = "2001-08-02T12:00:00"
 pays = ["Japon"]
 thumbnail="header/20010801_japon/2.jpg"

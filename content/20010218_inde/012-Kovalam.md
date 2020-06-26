@@ -1,6 +1,6 @@
 +++
 title="Kovalam"
-voyages = ["Inde (02-2001)"]
+voyages = ["20010218_inde"]
 date = "2001-03-15T12:00:00"
 pays = ["Inde"]
 thumbnail="header/20010218_inde/12.jpg"

@@ -1,6 +1,6 @@
 +++
 title="En Route Pour Siem Reap"
-voyages = ["Cambodge (07-2001)"]
+voyages = ["20010715_cambodge"]
 date = "2001-07-18T12:00:00"
 pays = ["Cambodge"]
 thumbnail="header/20010715_cambodge/4.jpg"

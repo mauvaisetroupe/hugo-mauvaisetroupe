@@ -14,9 +14,11 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import org.apache.commons.lang3.text.WordUtils;
 
@@ -50,6 +52,7 @@ public class ChangeHttmlFileForHugo {
 		// final Map<String, Map<Integer, List<Picture>>> pictureMap =
 		// Main.getMap();
 		final Map<String, Picture> picturemap = Main.getMap();
+		final Set<String> voyageName = new HashSet<>();
 
 		Files.walk(Paths.get(input)).filter(Files::isRegularFile).filter(f -> f.toString().endsWith("html.toconvert")).forEach((f) -> {
 			String file = f.toString();
@@ -66,7 +69,9 @@ public class ChangeHttmlFileForHugo {
 				DateFormat format2 = new SimpleDateFormat("yyyy-MM-dd");
 				DateFormat format3 = new SimpleDateFormat("yyyyMMdd");
 				//DateFormat format4 = new SimpleDateFormat("mm-yyyy");
-				DateFormat format5 = new SimpleDateFormat("(MM-yyyy)");
+				//DateFormat format5 = new SimpleDateFormat("(MM-yyyy)");
+				DateFormat format5 = new SimpleDateFormat("yyyy");
+				
 				
 				String dateAsString = null;
 				String dateAsWeight = null;
@@ -90,8 +95,34 @@ public class ChangeHttmlFileForHugo {
 					countryfolder = f.getParent().getFileName().toString();
 					countryDate = countryfolder.substring(0, 8);
 					Date tmpDate = format3.parse(countryDate);
-					carnetMenuName = country + " " + format5.format(tmpDate);
 					countryDate = format5.format(format3.parse(countryDate));
+					
+				//	Path path = Paths.get()
+					Path voyagePath = Paths.get(f.toString()
+							.replaceAll("content-input", "content")
+							.replaceAll("Tour du monde", "voyages")
+							.replaceAll("carnet.de.voyage.html.toconvert", "_index.md")
+							);
+					voyagePath.getParent().toFile().mkdirs();
+					voyagePath.toFile().createNewFile();
+					
+					String tagname = country +" " + countryDate;
+					if (voyageName.contains(tagname)) {
+						tagname = tagname + " (2)";
+					}
+					voyageName.add(tagname);
+					
+					StringBuffer tmp3 = new StringBuffer();
+					tmp3.append("+++\n");
+					tmp3.append("title=\""+ tagname + "\"\n");
+					tmp3.append("+++\n");
+					BufferedWriter writer = Files.newBufferedWriter(voyagePath, StandardCharsets.UTF_8);
+					writer.write(tmp3.toString());
+					writer.close();
+					
+					carnetMenuName = tagname;
+
+					
 					
 					
 					title = "Carnet de Voyage : " + country;
@@ -121,14 +152,14 @@ public class ChangeHttmlFileForHugo {
 					outputPath2=tmp2.toPath();
 					
 					if (outputPath2!=null) {
-						StringBuffer tmp3 = new StringBuffer();
+						tmp3 = new StringBuffer();
 						tmp3.append("+++\n");
 						tmp3.append("title=\""+ country + " - Tour du monde 2001\"\n");
 						//tmp3.append("thumbnail=\"tdm/" +  country.toLowerCase() + ".gif\"\n");
 						tmp3.append("thumbnail=\"tdm/nous-2.jpg\"\n");
 						tmp3.append("inverseorder=true\n");
 						tmp3.append("+++\n");
-						BufferedWriter writer = Files.newBufferedWriter(outputPath2, StandardCharsets.UTF_8);
+						writer = Files.newBufferedWriter(outputPath2, StandardCharsets.UTF_8);
 						writer.write(tmp3.toString());
 						writer.close();
 					}
@@ -191,7 +222,8 @@ public class ChangeHttmlFileForHugo {
 				header.append("title=\"" + title + "\"\n");
 				if (country!=null) {
 					//header.append("voyages = [\"Tour du monde 2001\",\"" + country +" ("+countryDate + ")\"]\n");
-					header.append("voyages = [\"" + country +" "+countryDate + "\"]\n");					
+					//header.append("voyages = [\"" + country +" "+countryDate + "\"]\n");
+					header.append("voyages = [\"" + countryfolder + "\"]\n");
 				}
 				else {
 					//header.append("voyages = [\"Tour du monde 2001\"]\n");

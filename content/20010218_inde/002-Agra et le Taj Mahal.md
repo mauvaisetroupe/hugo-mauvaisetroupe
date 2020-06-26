@@ -1,6 +1,6 @@
 +++
 title="Agra Et Le Taj Mahal"
-voyages = ["Inde (02-2001)"]
+voyages = ["20010218_inde"]
 date = "2001-02-20T12:00:00"
 pays = ["Inde"]
 thumbnail="header/20010218_inde/2.jpg"

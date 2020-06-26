@@ -1,6 +1,6 @@
 +++
 title="Hoi An, le village de Tra Que"
-voyages = ["Vietnam (06-2018)"]
+voyages = ["20180627_vietnam"]
 date = "2018-07-15"
 pays = ["Vietnam"]
 thumbnail="header/vietnam2018/010-2018-07-16_06-59-53_02938.JPG"

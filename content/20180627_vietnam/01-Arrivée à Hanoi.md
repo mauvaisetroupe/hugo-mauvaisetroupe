@@ -1,6 +1,6 @@
 +++
 title="Départ pour Hanoi..."
-voyages = ["Vietnam (06-2018)"]
+voyages = ["20180627_vietnam"]
 date = "2018-06-27"
 pays = ["Vietnam"]
 menu_display = "Vietnam 06/2018"

@@ -1,6 +1,6 @@
 +++
 title="Si Phan Don"
-voyages = ["Laos (06-2001)"]
+voyages = ["20010602_laos"]
 date = "2001-06-04T12:00:00"
 pays = ["Laos"]
 thumbnail="header/20010602_laos/2.jpg"

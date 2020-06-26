@@ -1,6 +1,6 @@
 +++
 title="Du Côté De La Mer Morte"
-voyages = ["Jordanie (02-2001)"]
+voyages = ["20010205_jordanie"]
 date = "2001-02-07T12:00:00"
 pays = ["Jordanie"]
 thumbnail="header/20010205_jordanie/3.jpg"

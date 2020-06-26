@@ -1,6 +1,6 @@
 +++
 title="Le Quartier Des Jeunes"
-voyages = ["Japon (08-2001)"]
+voyages = ["20010801_japon"]
 date = "2001-08-03T12:00:00"
 pays = ["Japon"]
 thumbnail="header/20010801_japon/3.jpg"

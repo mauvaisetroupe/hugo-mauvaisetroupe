@@ -1,6 +1,6 @@
 +++
 title="Retour À Chiang Maï"
-voyages = ["Thailande (05-2001)"]
+voyages = ["20010505_thailande"]
 date = "2001-05-22T12:00:00"
 pays = ["Thailande"]
 thumbnail="header/20010505_thailande/8.jpg"

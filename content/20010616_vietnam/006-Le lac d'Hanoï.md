@@ -1,6 +1,6 @@
 +++
 title="Le Lac D'Hanoï"
-voyages = ["Vietnam (06-2001)"]
+voyages = ["20010616_vietnam"]
 date = "2001-06-27T12:00:00"
 pays = ["Vietnam"]
 thumbnail="header/20010616_vietnam/6.jpg"

@@ -1,6 +1,6 @@
 +++
 title="Bhaktapur"
-voyages = ["Nepal (04-2001)"]
+voyages = ["20010411_nepal"]
 date = "2001-04-21T12:00:00"
 pays = ["Nepal"]
 thumbnail="header/20010411_nepal/5.jpg"

@@ -1,6 +1,6 @@
 +++
 title="Les Lagunes"
-voyages = ["Bolivie (09-2001)"]
+voyages = ["20010921_bolivie"]
 date = "2001-10-01T12:00:00"
 pays = ["Bolivie"]
 thumbnail="header/20010921_bolivie/5.jpg"

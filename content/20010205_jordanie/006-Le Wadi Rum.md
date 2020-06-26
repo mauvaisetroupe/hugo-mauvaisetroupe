@@ -1,6 +1,6 @@
 +++
 title="Le Wadi Rum"
-voyages = ["Jordanie (02-2001)"]
+voyages = ["20010205_jordanie"]
 date = "2001-02-12T12:00:00"
 pays = ["Jordanie"]
 thumbnail="header/20010205_jordanie/6.jpg"

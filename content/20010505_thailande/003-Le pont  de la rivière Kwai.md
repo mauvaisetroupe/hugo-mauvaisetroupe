@@ -1,6 +1,6 @@
 +++
 title="Le Pont  De La Rivière Kwai"
-voyages = ["Thailande (05-2001)"]
+voyages = ["20010505_thailande"]
 date = "2001-05-11T12:00:00"
 pays = ["Thailande"]
 thumbnail="header/20010505_thailande/3.jpg"

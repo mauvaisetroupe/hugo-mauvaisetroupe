@@ -1,6 +1,6 @@
 +++
 title="Palenque"
-voyages = ["Mexique (11-2001)"]
+voyages = ["20011107_mexique"]
 date = "2001-11-17T12:00:00"
 pays = ["Mexique"]
 thumbnail="header/20011107_mexique/5.jpg"

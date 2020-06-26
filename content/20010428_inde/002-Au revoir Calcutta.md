@@ -1,6 +1,6 @@
 +++
 title="Au Revoir Calcutta"
-voyages = ["Inde (04-2001)"]
+voyages = ["20010428_inde"]
 date = "2001-05-03T12:00:00"
 pays = ["Inde"]
 thumbnail="header/20010428_inde/2.jpg"

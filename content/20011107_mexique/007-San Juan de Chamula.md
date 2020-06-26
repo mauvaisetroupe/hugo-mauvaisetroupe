@@ -1,6 +1,6 @@
 +++
 title="San Juan De Chamula"
-voyages = ["Mexique (11-2001)"]
+voyages = ["20011107_mexique"]
 date = "2001-11-20T12:00:00"
 pays = ["Mexique"]
 thumbnail="header/20011107_mexique/7.jpg"

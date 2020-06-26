@@ -1,6 +1,6 @@
 +++
 title="Vers La Frontière"
-voyages = ["Cambodge (07-2001)"]
+voyages = ["20010715_cambodge"]
 date = "2001-07-24T12:00:00"
 pays = ["Cambodge"]
 thumbnail="header/20010715_cambodge/8.jpg"

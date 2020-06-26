@@ -1,6 +1,6 @@
 +++
 title="Trekking à Sapa"
-voyages = ["Vietnam (06-2018)"]
+voyages = ["20180627_vietnam"]
 date = "2018-07-04"
 pays = ["Vietnam"]
 thumbnail="header/vietnam2018/005-2018-07-04_10-31-19_103118.jpg"

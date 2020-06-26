@@ -1,6 +1,6 @@
 +++
 title="Villarica"
-voyages = ["Chili (08-2001)"]
+voyages = ["20010804_chili"]
 date = "2001-08-11T12:00:00"
 pays = ["Chili"]
 thumbnail="header/20010804_chili/3.jpg"

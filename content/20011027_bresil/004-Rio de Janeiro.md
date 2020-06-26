@@ -1,6 +1,6 @@
 +++
 title="Rio De Janeiro"
-voyages = ["Bresil (10-2001)"]
+voyages = ["20011027_bresil"]
 date = "2001-11-04T12:00:00"
 pays = ["Bresil"]
 thumbnail="header/20011027_bresil/4.jpg"

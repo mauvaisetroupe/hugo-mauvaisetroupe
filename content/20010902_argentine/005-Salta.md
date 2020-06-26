@@ -1,6 +1,6 @@
 +++
 title="Salta"
-voyages = ["Argentine (09-2001)"]
+voyages = ["20010902_argentine"]
 date = "2001-09-14T12:00:00"
 pays = ["Argentine"]
 thumbnail="header/20010902_argentine/5.jpg"

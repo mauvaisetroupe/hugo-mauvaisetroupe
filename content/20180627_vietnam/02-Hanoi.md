@@ -1,6 +1,6 @@
 +++
 title="Hanoi"
-voyages = ["Vietnam (06-2018)"]
+voyages = ["20180627_vietnam"]
 date = "2018-06-28"
 pays = ["Vietnam"]
 thumbnail="header/vietnam2018/002-2018-06-28_10-39-43_08376.jpg"

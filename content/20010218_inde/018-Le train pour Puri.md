@@ -1,6 +1,6 @@
 +++
 title="Le Train Pour Puri"
-voyages = ["Inde (02-2001)"]
+voyages = ["20010218_inde"]
 date = "2001-03-29T12:00:00"
 pays = ["Inde"]
 thumbnail="header/20010218_inde/18.jpg"

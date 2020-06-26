@@ -1,6 +1,6 @@
 +++
 title="Catba et la baie d'Halong"
-voyages = ["Vietnam (06-2018)"]
+voyages = ["20180627_vietnam"]
 date = "2018-06-29"
 pays = ["Vietnam"]
 thumbnail="header/vietnam2018/003-2018-07-01_14-27-24_09280.JPG"

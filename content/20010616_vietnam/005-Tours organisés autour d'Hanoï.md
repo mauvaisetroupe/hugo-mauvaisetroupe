@@ -1,6 +1,6 @@
 +++
 title="Tours Organisés Autour D'Hanoï"
-voyages = ["Vietnam (06-2001)"]
+voyages = ["20010616_vietnam"]
 date = "2001-06-25T12:00:00"
 pays = ["Vietnam"]
 thumbnail="header/20010616_vietnam/5.jpg"
