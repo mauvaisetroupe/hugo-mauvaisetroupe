@@ -1,11 +1,12 @@
 baseurl = "http://www.mauvaisetroupe.com/"
 theme = "hugo_theme_robust-master"
 buildDrafts = true
-preserveTaxonomyNames = true
 title= "www.mauvaisetroupe.com"
 Paginate = 100
 
 [taxonomies]
 pays = "pays"
 voyage = "voyages"
+tour-du-monde = "tour-du-monde"
+
 

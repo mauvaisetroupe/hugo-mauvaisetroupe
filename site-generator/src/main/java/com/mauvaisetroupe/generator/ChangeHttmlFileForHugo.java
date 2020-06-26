@@ -62,11 +62,11 @@ public class ChangeHttmlFileForHugo {
 				int pageNumber = 0;
 				int countryNumber = 0;
 				int weight = 1;
-				DateFormat format = new SimpleDateFormat("dd/mm/yy");
-				DateFormat format2 = new SimpleDateFormat("yyyy-mm-dd");
-				DateFormat format3 = new SimpleDateFormat("yyyymmdd");
+				DateFormat format = new SimpleDateFormat("dd/MM/yy");
+				DateFormat format2 = new SimpleDateFormat("yyyy-MM-dd");
+				DateFormat format3 = new SimpleDateFormat("yyyyMMdd");
 				//DateFormat format4 = new SimpleDateFormat("mm-yyyy");
-				DateFormat format5 = new SimpleDateFormat("mm/yyyy");
+				DateFormat format5 = new SimpleDateFormat("(MM-yyyy)");
 				
 				String dateAsString = null;
 				String dateAsWeight = null;
@@ -89,7 +89,8 @@ public class ChangeHttmlFileForHugo {
 					country = WordUtils.capitalize(f.getParent().getFileName().toString().replaceAll("[0-9_]", ""));
 					countryfolder = f.getParent().getFileName().toString();
 					countryDate = countryfolder.substring(0, 8);
-					carnetMenuName = country + " " + format5.format(format3.parse(countryDate));
+					Date tmpDate = format3.parse(countryDate);
+					carnetMenuName = country + " " + format5.format(tmpDate);
 					countryDate = format5.format(format3.parse(countryDate));
 					
 					
@@ -162,7 +163,6 @@ public class ChangeHttmlFileForHugo {
 						countryfolder = f.getParent().getParent().getFileName().toString();
 						countryDate = countryfolder.substring(0, 8);
 						countryDate = format5.format(format3.parse(countryDate));
-
 						pageNumber = Integer.parseInt(f.getParent().getFileName().toString().replaceAll("^0*", "").replaceAll("\\\\/", ""));
 						countryNumber = Integer.parseInt(f.getParent().getParent().getFileName().toString().replaceAll("_.*", ""));
 						Date d = format.parse(Files.readAllLines(Paths.get(datelist.toString())).get(0));
@@ -190,23 +190,26 @@ public class ChangeHttmlFileForHugo {
 				header.append("+++\n");
 				header.append("title=\"" + title + "\"\n");
 				if (country!=null) {
-					header.append("voyages = [\"Tour du monde 2001\",\"" + country +" ("+countryDate + ")\"]\n");
+					//header.append("voyages = [\"Tour du monde 2001\",\"" + country +" ("+countryDate + ")\"]\n");
+					header.append("voyages = [\"" + country +" "+countryDate + "\"]\n");					
 				}
 				else {
-					header.append("voyages = [\"Tour du monde 2001\"]\n");
+					//header.append("voyages = [\"Tour du monde 2001\"]\n");
 				}
 				header.append("date = \"" + dateAsString + "\"\n");
 				if (country!= null) header.append("pays = [\""  + country + "\"]\n");
-				if (carnetMenuName!= null) header.append("menu_display = \""  + carnetMenuName + "\"\n");
+				if (carnetMenuName!= null) header.append("menu_display = \""  + carnetMenuName.replace("-", "/") + "\"\n");
 				if (thumb!= null) header.append("thumbnail=\"" + thumb + "\"\n");
 				if (weight > 0) {
-					header.append("pays_weight = " + weight + "\n");
-					header.append("voyages_weight = " + weight + "\n");
+					//header.append("pays_weight = " + weight + "\n");
+					//header.append("voyages_weight = " + weight + "\n");
 					//header.append("weight = " + dateAsWeight + "\n");
 					//header.append("weight = " + weight + "\n");
 				}
 				if (isSumary) {
 					header.append("country_summary=true\n");
+					header.append("tour-du-monde = [\"Tour du monde 2001\"]\n");
+
 				}
 				
 				header.append("+++\n");

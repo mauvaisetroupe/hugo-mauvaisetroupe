@@ -3,8 +3,9 @@
   <div class="sections sidebar">
   
   
-{{if isset .Params "pays"}}
-{{$currentpays := index (.Params.pays) 0 }}
+	
+{{if isset .Params "voyages"}}
+{{$currentpays := index (.Params.voyages) 0 }}
  
   
     <section class="sidebar">
@@ -13,10 +14,11 @@
         <div class="articles sm">
 
 {{ range $pp := .Site.Pages.ByDate  }}
-{{if isset $pp.Params "pays"}}
-  {{ if eq (index $pp.Params.pays 0) $currentpays  }}
+{{if isset $pp.Params "voyages"}}
+  {{ if eq (index $pp.Params.voyages 0) $currentpays  }}
         <div class="col-md-12 col-sm-6 col-xs-12">{{ .Render "li_sm" }}</div>
   {{end}}
+  
 {{end}}	
 {{end}}		
 		
@@ -54,5 +56,8 @@
     </section>
     {{ end }}
   </div>
+  
+	
+
  
 </aside>

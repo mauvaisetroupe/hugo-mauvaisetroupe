@@ -46,7 +46,9 @@
 			{{ $listToDisplay = .Data.Pages }}
 		{{ end }}
 		
-		{{ if .Params.inverseorder }}
+		
+		
+		{{ if (or (not (isset .Params "inverseorder")) .Params.inverseorder) }}
 			{{ $listToDisplay = $listToDisplay.Reverse }}
 		{{ end }}	
 

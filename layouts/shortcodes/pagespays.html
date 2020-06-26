@@ -1,11 +1,11 @@
 
-{{$currentpays := index ($.Page.Params.pays) 0 }}
+{{$currentpays := index ($.Page.Params.voyages) 0 }}
 
 <h2>Liste des pages :</h2>
 <ul>
 {{ range $pp := .Site.Pages.ByDate  }}
-{{if isset $pp.Params "pays"}}
-  {{ if eq (index $pp.Params.pays 0) $currentpays  }}
+{{if isset $pp.Params "voyages"}}
+  {{ if eq (index $pp.Params.voyages 0) $currentpays  }}
   
 	{{ $filterSumary := false }}
 	{{ if ($pp.Params.country_summary) }}	
