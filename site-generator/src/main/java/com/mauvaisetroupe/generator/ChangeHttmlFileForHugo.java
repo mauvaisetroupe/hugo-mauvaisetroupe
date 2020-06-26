@@ -87,8 +87,8 @@ public class ChangeHttmlFileForHugo {
 					datelist = new File(new File(f.getParent().toFile(), "0001"), "date.list");
 					
 					country = WordUtils.capitalize(f.getParent().getFileName().toString().replaceAll("[0-9_]", ""));
-					countryfolder = f.getParent().getFileName().toString().replaceAll("^[0-9]*_", "");
-					countryDate = countryfolder.substring(countryfolder.length()-8, countryfolder.length());
+					countryfolder = f.getParent().getFileName().toString();
+					countryDate = countryfolder.substring(0, 8);
 					carnetMenuName = country + " " + format5.format(format3.parse(countryDate));
 					countryDate = format5.format(format3.parse(countryDate));
 					
@@ -159,8 +159,8 @@ public class ChangeHttmlFileForHugo {
 					else {
 						datelist = new File(f.getParent().toFile(), "date.list");
 						country = WordUtils.capitalize(f.getParent().getParent().getFileName().toString().replaceAll("[0-9_]", ""));
-						countryfolder = f.getParent().getParent().getFileName().toString().replaceAll("^[0-9]*_", "");
-						countryDate = countryfolder.substring(countryfolder.length()-8, countryfolder.length());
+						countryfolder = f.getParent().getParent().getFileName().toString();
+						countryDate = countryfolder.substring(0, 8);
 						countryDate = format5.format(format3.parse(countryDate));
 
 						pageNumber = Integer.parseInt(f.getParent().getFileName().toString().replaceAll("^0*", "").replaceAll("\\\\/", ""));
