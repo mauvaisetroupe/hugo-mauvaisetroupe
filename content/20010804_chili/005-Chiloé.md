@@ -1,11 +1,9 @@
 +++
 title="Chiloé"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-15T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/5.jpg"
-pays_weight = 1105
-voyages_weight = 1105
+thumbnail="header/20010804_chili/5.jpg"
 +++
 ### 15 août 2001
 

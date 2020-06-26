@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Laos"
-voyages = ["Tour du monde 2001","Laos (06/2001)"]
+voyages = ["Laos (06-2001)"]
 date = "2001-06-02T05:00:00"
 pays = ["Laos"]
-menu_display = "Laos 06/2001"
+menu_display = "Laos (06/2001)"
 thumbnail="tdm/laos-stamp.png"
-pays_weight = 600
-voyages_weight = 600
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 On avait vu en Thaïlande un instrument servant à concasser le grain, dans un musée. On a vu au Laos un gamin l'utiliser au bord d'un champ... Il paraît que le Laos ressemle à la Thaïlande d'il y a trente ans, on n'a pas de mal à le croire. 
 

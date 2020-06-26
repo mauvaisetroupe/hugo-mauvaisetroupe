@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Nepal"
-voyages = ["Tour du monde 2001","Nepal (04/2001)"]
+voyages = ["Nepal (04-2001)"]
 date = "2001-04-10T05:00:00"
 pays = ["Nepal"]
-menu_display = "Nepal 04/2001"
+menu_display = "Nepal (04/2001)"
 thumbnail="tdm/nepal-stamp.png"
-pays_weight = 300
-voyages_weight = 300
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 Marion gardait un excellent souvenir du Nepal. De veritables vacances par rapport a l'Inde dans un pays superbe habite par des gens vraiment acceuillants.
 

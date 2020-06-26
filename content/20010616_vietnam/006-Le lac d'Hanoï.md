@@ -1,11 +1,9 @@
 +++
 title="Le Lac D'Hanoï"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-06-27T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/6.jpg"
-pays_weight = 706
-voyages_weight = 706
+thumbnail="header/20010616_vietnam/6.jpg"
 +++
 ### 27 juin 2001
 

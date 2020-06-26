@@ -1,11 +1,9 @@
 +++
 title="Buenos Aires"
-voyages = ["Tour du monde 2001","Argentine (09/2001)"]
+voyages = ["Argentine (09-2001)"]
 date = "2001-09-08T12:00:00"
 pays = ["Argentine"]
-thumbnail="header/argentine20010902/3.jpg"
-pays_weight = 1203
-voyages_weight = 1203
+thumbnail="header/20010902_argentine/3.jpg"
 +++
 ### 8 septembre 2001
 

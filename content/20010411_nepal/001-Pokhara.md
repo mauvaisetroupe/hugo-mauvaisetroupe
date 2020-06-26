@@ -1,11 +1,9 @@
 +++
 title="Pokhara"
-voyages = ["Tour du monde 2001","Nepal (04/2001)"]
+voyages = ["Nepal (04-2001)"]
 date = "2001-04-10T12:00:00"
 pays = ["Nepal"]
-thumbnail="header/nepal20010411/1.jpg"
-pays_weight = 301
-voyages_weight = 301
+thumbnail="header/20010411_nepal/1.jpg"
 +++
 ### 10 avril 2001
 

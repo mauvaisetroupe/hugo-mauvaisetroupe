@@ -1,11 +1,9 @@
 +++
 title="Arrivée À Delhi"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-02-18T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/1.jpg"
-pays_weight = 201
-voyages_weight = 201
+thumbnail="header/20010218_inde/1.jpg"
 +++
 ### 18 février 2001
 

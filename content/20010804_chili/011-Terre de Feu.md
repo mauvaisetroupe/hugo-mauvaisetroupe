@@ -1,11 +1,9 @@
 +++
 title="Terre De Feu"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-30T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/11.jpg"
-pays_weight = 1111
-voyages_weight = 1111
+thumbnail="header/20010804_chili/11.jpg"
 +++
 ### 30 août 2001
 

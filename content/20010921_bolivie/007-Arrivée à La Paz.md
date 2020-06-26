@@ -1,11 +1,9 @@
 +++
 title="Arrivée À La Paz"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-04T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/7.jpg"
-pays_weight = 1307
-voyages_weight = 1307
+thumbnail="header/20010921_bolivie/7.jpg"
 +++
 ### 4 octobre 2001
 

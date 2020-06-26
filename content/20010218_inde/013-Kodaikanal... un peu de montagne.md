@@ -1,11 +1,9 @@
 +++
 title="Kodaikanal    Un Peu De Montagne"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-03-18T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/13.jpg"
-pays_weight = 213
-voyages_weight = 213
+thumbnail="header/20010218_inde/13.jpg"
 +++
 ### 18 mars 2001
 

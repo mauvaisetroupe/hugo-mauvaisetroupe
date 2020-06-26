@@ -1,11 +1,9 @@
 +++
 title="La Baie D'Along"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-06-28T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/7.jpg"
-pays_weight = 707
-voyages_weight = 707
+thumbnail="header/20010616_vietnam/7.jpg"
 +++
 ### 28 juin 2001
 

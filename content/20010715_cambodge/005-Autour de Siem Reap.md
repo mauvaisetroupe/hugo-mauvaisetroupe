@@ -1,11 +1,9 @@
 +++
 title="Autour De Siem Reap"
-voyages = ["Tour du monde 2001","Cambodge (07/2001)"]
+voyages = ["Cambodge (07-2001)"]
 date = "2001-07-19T12:00:00"
 pays = ["Cambodge"]
-thumbnail="header/cambodge20010715/5.jpg"
-pays_weight = 805
-voyages_weight = 805
+thumbnail="header/20010715_cambodge/5.jpg"
 +++
 ### 19 juillet 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Varanasi"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-04-07T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/20.jpg"
-pays_weight = 220
-voyages_weight = 220
+thumbnail="header/20010218_inde/20.jpg"
 +++
 ### 7 avril 2001
 

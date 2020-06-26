@@ -1,11 +1,9 @@
 +++
 title="Patan"
-voyages = ["Tour du monde 2001","Nepal (04/2001)"]
+voyages = ["Nepal (04-2001)"]
 date = "2001-04-19T12:00:00"
 pays = ["Nepal"]
-thumbnail="header/nepal20010411/4.jpg"
-pays_weight = 304
-voyages_weight = 304
+thumbnail="header/20010411_nepal/4.jpg"
 +++
 ### 19 avril 2001
 

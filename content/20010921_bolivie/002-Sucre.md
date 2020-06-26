@@ -1,11 +1,9 @@
 +++
 title="Sucre"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-09-23T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/2.jpg"
-pays_weight = 1302
-voyages_weight = 1302
+thumbnail="header/20010921_bolivie/2.jpg"
 +++
 ### 23 septembre 2001
 

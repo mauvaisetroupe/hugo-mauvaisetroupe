@@ -1,11 +1,9 @@
 +++
 title="Un Peu De Repos"
-voyages = ["Tour du monde 2001","Thailande (07/2001)"]
+voyages = ["Thailande (07-2001)"]
 date = "2001-07-25T12:00:00"
 pays = ["Thailande"]
-thumbnail="header/thailande20010724/1.jpg"
-pays_weight = 901
-voyages_weight = 901
+thumbnail="header/20010724_thailande/1.jpg"
 +++
 ### 25 juillet 2001
 

@@ -1,11 +1,9 @@
 +++
 title="La Croisière S'amuse"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-20T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/7.jpg"
-pays_weight = 1107
-voyages_weight = 1107
+thumbnail="header/20010804_chili/7.jpg"
 +++
 ### 20 août 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Nakhon Pathom"
-voyages = ["Tour du monde 2001","Thailande (05/2001)"]
+voyages = ["Thailande (05-2001)"]
 date = "2001-05-13T12:00:00"
 pays = ["Thailande"]
-thumbnail="header/thailande20010505/4.jpg"
-pays_weight = 504
-voyages_weight = 504
+thumbnail="header/20010505_thailande/4.jpg"
 +++
 ### 13 mai 2001
 

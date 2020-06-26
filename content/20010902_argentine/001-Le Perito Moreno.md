@@ -1,11 +1,9 @@
 +++
 title="Le Perito Moreno"
-voyages = ["Tour du monde 2001","Argentine (09/2001)"]
+voyages = ["Argentine (09-2001)"]
 date = "2001-09-02T12:00:00"
 pays = ["Argentine"]
-thumbnail="header/argentine20010902/1.jpg"
-pays_weight = 1201
-voyages_weight = 1201
+thumbnail="header/20010902_argentine/1.jpg"
 +++
 ### 2 septembre 2001
 

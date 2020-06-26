@@ -1,11 +1,9 @@
 +++
 title="Khon Chiam"
-voyages = ["Tour du monde 2001","Thailande (05/2001)"]
+voyages = ["Thailande (05-2001)"]
 date = "2001-06-01T12:00:00"
 pays = ["Thailande"]
-thumbnail="header/thailande20010505/12.jpg"
-pays_weight = 512
-voyages_weight = 512
+thumbnail="header/20010505_thailande/12.jpg"
 +++
 ### 01 juin 2001
 

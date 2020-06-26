@@ -1,11 +1,9 @@
 +++
 title="Petra"
-voyages = ["Tour du monde 2001","Jordanie (02/2001)"]
+voyages = ["Jordanie (02-2001)"]
 date = "2001-02-13T12:00:00"
 pays = ["Jordanie"]
-thumbnail="header/jordanie20010205/7.jpg"
-pays_weight = 107
-voyages_weight = 107
+thumbnail="header/20010205_jordanie/7.jpg"
 +++
 ### 13 février 2001
 

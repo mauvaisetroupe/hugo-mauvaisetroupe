@@ -1,11 +1,9 @@
 +++
 title="Le Fort De Punta Arenas"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-28T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/10.jpg"
-pays_weight = 1110
-voyages_weight = 1110
+thumbnail="header/20010804_chili/10.jpg"
 +++
 ### 28 août 2001
 

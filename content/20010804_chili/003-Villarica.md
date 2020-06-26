@@ -1,11 +1,9 @@
 +++
 title="Villarica"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-11T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/3.jpg"
-pays_weight = 1103
-voyages_weight = 1103
+thumbnail="header/20010804_chili/3.jpg"
 +++
 ### 11 août 2001
 

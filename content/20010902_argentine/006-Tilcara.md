@@ -1,11 +1,9 @@
 +++
 title="Tilcara"
-voyages = ["Tour du monde 2001","Argentine (09/2001)"]
+voyages = ["Argentine (09-2001)"]
 date = "2001-09-18T12:00:00"
 pays = ["Argentine"]
-thumbnail="header/argentine20010902/6.jpg"
-pays_weight = 1206
-voyages_weight = 1206
+thumbnail="header/20010902_argentine/6.jpg"
 +++
 ### 18 septembre 2001
 

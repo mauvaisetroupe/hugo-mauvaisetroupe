@@ -1,11 +1,9 @@
 +++
 title="Réflexions En Bus"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-06-20T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/2.jpg"
-pays_weight = 702
-voyages_weight = 702
+thumbnail="header/20010616_vietnam/2.jpg"
 +++
 ### 20 juin 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Valdivia"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-13T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/4.jpg"
-pays_weight = 1104
-voyages_weight = 1104
+thumbnail="header/20010804_chili/4.jpg"
 +++
 ### 13 août 2001
 

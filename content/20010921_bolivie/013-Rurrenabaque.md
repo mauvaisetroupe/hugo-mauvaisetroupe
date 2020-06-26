@@ -1,11 +1,9 @@
 +++
 title="Rurrenabaque"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-22T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/13.jpg"
-pays_weight = 1313
-voyages_weight = 1313
+thumbnail="header/20010921_bolivie/13.jpg"
 +++
 ### 22 octobre 2001
 

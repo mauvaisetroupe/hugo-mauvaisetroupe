@@ -1,11 +1,9 @@
 +++
 title="Retour À Chiang Maï"
-voyages = ["Tour du monde 2001","Thailande (05/2001)"]
+voyages = ["Thailande (05-2001)"]
 date = "2001-05-22T12:00:00"
 pays = ["Thailande"]
-thumbnail="header/thailande20010505/8.jpg"
-pays_weight = 508
-voyages_weight = 508
+thumbnail="header/20010505_thailande/8.jpg"
 +++
 ### 22 mai 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Bangkok Et Pak Chong"
-voyages = ["Tour du monde 2001","Thailande (05/2001)"]
+voyages = ["Thailande (05-2001)"]
 date = "2001-05-05T12:00:00"
 pays = ["Thailande"]
-thumbnail="header/thailande20010505/1.jpg"
-pays_weight = 501
-voyages_weight = 501
+thumbnail="header/20010505_thailande/1.jpg"
 +++
 ### 5 mai 2001
 

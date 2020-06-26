@@ -1,11 +1,9 @@
 +++
 title="Saigon"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-07-11T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/13.jpg"
-pays_weight = 713
-voyages_weight = 713
+thumbnail="header/20010616_vietnam/13.jpg"
 +++
 ### 11 juillet 2001
 

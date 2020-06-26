@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Jordanie"
-voyages = ["Tour du monde 2001","Jordanie (02/2001)"]
+voyages = ["Jordanie (02-2001)"]
 date = "2001-02-05T05:00:00"
 pays = ["Jordanie"]
-menu_display = "Jordanie 02/2001"
+menu_display = "Jordanie (02/2001)"
 thumbnail="tdm/jordanie-stamp.png"
-pays_weight = 100
-voyages_weight = 100
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 Le premier pays de notre ballade autour du monde... Ce qui frappe surtout ici, c'est l'extrême gentillesse des jordaniens. Dès qu'ils pensent pouvoir nous aider, ils s'arrêtent et proposent leur aide, ce sont des "welcome" de bienvenue tres sincères qui nous attendent dans chaque échoppe et des sourires très gentils à chaque coin de rue. Des petits gestes tout simples, comme ce monsieur qui nous offre une pomme sur le marché, heureux d'acueillir des français dans son pays. 
 

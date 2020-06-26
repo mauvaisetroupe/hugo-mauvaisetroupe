@@ -1,11 +1,9 @@
 +++
 title="Punta Arenas"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-31T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/12.jpg"
-pays_weight = 1112
-voyages_weight = 1112
+thumbnail="header/20010804_chili/12.jpg"
 +++
 ### 31 août 2001
 

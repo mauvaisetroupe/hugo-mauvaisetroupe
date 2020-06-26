@@ -1,11 +1,9 @@
 +++
 title="Salta"
-voyages = ["Tour du monde 2001","Argentine (09/2001)"]
+voyages = ["Argentine (09-2001)"]
 date = "2001-09-14T12:00:00"
 pays = ["Argentine"]
-thumbnail="header/argentine20010902/5.jpg"
-pays_weight = 1205
-voyages_weight = 1205
+thumbnail="header/20010902_argentine/5.jpg"
 +++
 ### 14 septembre 2001
 

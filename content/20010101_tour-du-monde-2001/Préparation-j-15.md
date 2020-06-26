@@ -1,10 +1,11 @@
 ﻿+++
 title="Préparation du tour du monde... J-15"
-voyages = ["Tour du monde 2001"]
 date = "2001-01-01T12:00:00"
 pays = ["France"]
 voyages_weight = 2
 thumbnail="/header/tdm2001.png"
+tour-du-monde = ["Tour du monde 2001"]
+
 
 +++
 

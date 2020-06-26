@@ -1,11 +1,9 @@
 +++
 title="Isla Mujeres"
-voyages = ["Tour du monde 2001","Mexique (11/2001)"]
+voyages = ["Mexique (11-2001)"]
 date = "2001-11-14T12:00:00"
 pays = ["Mexique"]
-thumbnail="header/mexique20011107/4.jpg"
-pays_weight = 1504
-voyages_weight = 1504
+thumbnail="header/20011107_mexique/4.jpg"
 +++
 ### 14 novembre 2001
 

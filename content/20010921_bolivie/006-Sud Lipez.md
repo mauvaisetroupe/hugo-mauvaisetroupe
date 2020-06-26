@@ -1,11 +1,9 @@
 +++
 title="Sud Lipez"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-02T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/6.jpg"
-pays_weight = 1306
-voyages_weight = 1306
+thumbnail="header/20010921_bolivie/6.jpg"
 +++
 ### 2 octobre 2001
 

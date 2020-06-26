@@ -1,11 +1,9 @@
 +++
 title="Zipolite"
-voyages = ["Tour du monde 2001","Mexique (11/2001)"]
+voyages = ["Mexique (11-2001)"]
 date = "2001-11-21T12:00:00"
 pays = ["Mexique"]
-thumbnail="header/mexique20011107/8.jpg"
-pays_weight = 1508
-voyages_weight = 1508
+thumbnail="header/20011107_mexique/8.jpg"
 +++
 ### 21 novembre 2001
 

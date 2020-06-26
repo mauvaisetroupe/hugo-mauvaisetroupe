@@ -1,11 +1,9 @@
 +++
 title="Un Bien Long Trajet En Train"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-03-08T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/8.jpg"
-pays_weight = 208
-voyages_weight = 208
+thumbnail="header/20010218_inde/8.jpg"
 +++
 ### 8 mars 2001
 

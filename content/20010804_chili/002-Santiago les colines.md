@@ -1,11 +1,9 @@
 +++
 title="Santiago Les Colines"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-06T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/2.jpg"
-pays_weight = 1102
-voyages_weight = 1102
+thumbnail="header/20010804_chili/2.jpg"
 +++
 ### 6 août 2001
 

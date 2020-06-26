@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Vietnam"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-06-15T05:00:00"
 pays = ["Vietnam"]
-menu_display = "Vietnam 06/2001"
+menu_display = "Vietnam (06/2001)"
 thumbnail="tdm/vietnam-stamp.png"
-pays_weight = 700
-voyages_weight = 700
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 On a rencontré pas mal de voyageurs qui venaient du Vietnam et qui étaient déçus par les vietnamiens qu'ils avaient trouvés antipathiques. Et bien pas nous! On est tombé sur des gens accueillants et amicaux et qui ont presque toujours répondu à nos sourires - quand il ne les avaient pas provoqués. 
 

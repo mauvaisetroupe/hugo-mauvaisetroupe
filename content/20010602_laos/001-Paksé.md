@@ -1,11 +1,9 @@
 +++
 title="Paksé"
-voyages = ["Tour du monde 2001","Laos (06/2001)"]
+voyages = ["Laos (06-2001)"]
 date = "2001-06-02T12:00:00"
 pays = ["Laos"]
-thumbnail="header/laos20010602/1.jpg"
-pays_weight = 601
-voyages_weight = 601
+thumbnail="header/20010602_laos/1.jpg"
 +++
 ### 2 juin 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Bateau Pour Manaus"
-voyages = ["Tour du monde 2001","Bresil (10/2001)"]
+voyages = ["Bresil (10-2001)"]
 date = "2001-10-28T12:00:00"
 pays = ["Bresil"]
-thumbnail="header/bresil20011027/2.jpg"
-pays_weight = 1402
-voyages_weight = 1402
+thumbnail="header/20011027_bresil/2.jpg"
 +++
 ### 28 octobre 2001
 

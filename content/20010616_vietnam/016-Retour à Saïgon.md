@@ -1,11 +1,9 @@
 +++
 title="Retour À Saïgon"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-07-14T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/16.jpg"
-pays_weight = 716
-voyages_weight = 716
+thumbnail="header/20010616_vietnam/16.jpg"
 +++
 ###  14 juillet 2001
 

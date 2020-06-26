@@ -1,11 +1,9 @@
 +++
 title="En Route Pour Phnom Penh"
-voyages = ["Tour du monde 2001","Cambodge (07/2001)"]
+voyages = ["Cambodge (07-2001)"]
 date = "2001-07-15T12:00:00"
 pays = ["Cambodge"]
-thumbnail="header/cambodge20010715/1.jpg"
-pays_weight = 801
-voyages_weight = 801
+thumbnail="header/20010715_cambodge/1.jpg"
 +++
 ### 15 juillet 2001
 

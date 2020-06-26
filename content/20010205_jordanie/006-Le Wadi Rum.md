@@ -1,11 +1,9 @@
 +++
 title="Le Wadi Rum"
-voyages = ["Tour du monde 2001","Jordanie (02/2001)"]
+voyages = ["Jordanie (02-2001)"]
 date = "2001-02-12T12:00:00"
 pays = ["Jordanie"]
-thumbnail="header/jordanie20010205/6.jpg"
-pays_weight = 106
-voyages_weight = 106
+thumbnail="header/20010205_jordanie/6.jpg"
 +++
 ### 12 février 2001
 

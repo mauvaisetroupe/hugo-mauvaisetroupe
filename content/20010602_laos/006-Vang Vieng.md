@@ -1,11 +1,9 @@
 +++
 title="Vang Vieng"
-voyages = ["Tour du monde 2001","Laos (06/2001)"]
+voyages = ["Laos (06-2001)"]
 date = "2001-06-09T12:00:00"
 pays = ["Laos"]
-thumbnail="header/laos20010602/6.jpg"
-pays_weight = 606
-voyages_weight = 606
+thumbnail="header/20010602_laos/6.jpg"
 +++
 ### 9 juin 2001
 

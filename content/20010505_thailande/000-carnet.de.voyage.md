@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Thailande"
-voyages = ["Tour du monde 2001","Thailande (05/2001)"]
+voyages = ["Thailande (05-2001)"]
 date = "2001-05-05T05:00:00"
 pays = ["Thailande"]
-menu_display = "Thailande 05/2001"
+menu_display = "Thailande (05/2001)"
 thumbnail="tdm/thailande-stamp.png"
-pays_weight = 500
-voyages_weight = 500
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 Que de changements par rapport à l'Inde! On a vraiment atterri dans un autre monde. On est revenu au 21ème siècle en quelques sortes. Tant mieux et tant pis. 
 

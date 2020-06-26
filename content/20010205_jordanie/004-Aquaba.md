@@ -1,11 +1,9 @@
 +++
 title="Aquaba"
-voyages = ["Tour du monde 2001","Jordanie (02/2001)"]
+voyages = ["Jordanie (02-2001)"]
 date = "2001-02-08T12:00:00"
 pays = ["Jordanie"]
-thumbnail="header/jordanie20010205/4.jpg"
-pays_weight = 104
-voyages_weight = 104
+thumbnail="header/20010205_jordanie/4.jpg"
 +++
 ### 8 février 2001
 

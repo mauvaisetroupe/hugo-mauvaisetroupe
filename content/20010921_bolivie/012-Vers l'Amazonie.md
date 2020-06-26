@@ -1,11 +1,9 @@
 +++
 title="Vers L'Amazonie"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-19T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/12.jpg"
-pays_weight = 1312
-voyages_weight = 1312
+thumbnail="header/20010921_bolivie/12.jpg"
 +++
 ### 19 octobre 2001
 

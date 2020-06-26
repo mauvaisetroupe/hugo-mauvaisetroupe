@@ -1,11 +1,9 @@
 +++
 title="La Jungle"
-voyages = ["Tour du monde 2001","Nepal (04/2001)"]
+voyages = ["Nepal (04-2001)"]
 date = "2001-04-25T12:00:00"
 pays = ["Nepal"]
-thumbnail="header/nepal20010411/6.jpg"
-pays_weight = 306
-voyages_weight = 306
+thumbnail="header/20010411_nepal/6.jpg"
 +++
 ### 25 avril 2001
 

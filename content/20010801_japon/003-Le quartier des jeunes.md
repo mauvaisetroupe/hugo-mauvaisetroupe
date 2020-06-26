@@ -1,11 +1,9 @@
 +++
 title="Le Quartier Des Jeunes"
-voyages = ["Tour du monde 2001","Japon (08/2001)"]
+voyages = ["Japon (08-2001)"]
 date = "2001-08-03T12:00:00"
 pays = ["Japon"]
-thumbnail="header/japon20010801/3.jpg"
-pays_weight = 1003
-voyages_weight = 1003
+thumbnail="header/20010801_japon/3.jpg"
 +++
 ### 3 août 2001
 

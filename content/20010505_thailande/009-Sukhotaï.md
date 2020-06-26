@@ -1,11 +1,9 @@
 +++
 title="Sukhotaï"
-voyages = ["Tour du monde 2001","Thailande (05/2001)"]
+voyages = ["Thailande (05-2001)"]
 date = "2001-05-24T12:00:00"
 pays = ["Thailande"]
-thumbnail="header/thailande20010505/9.jpg"
-pays_weight = 509
-voyages_weight = 509
+thumbnail="header/20010505_thailande/9.jpg"
 +++
 ### 24 mai 2001
 

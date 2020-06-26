@@ -1,11 +1,9 @@
 +++
 title="La Visite De Jerash"
-voyages = ["Tour du monde 2001","Jordanie (02/2001)"]
+voyages = ["Jordanie (02-2001)"]
 date = "2001-02-06T12:00:00"
 pays = ["Jordanie"]
-thumbnail="header/jordanie20010205/2.jpg"
-pays_weight = 102
-voyages_weight = 102
+thumbnail="header/20010205_jordanie/2.jpg"
 +++
 ### 6 février 2001
 

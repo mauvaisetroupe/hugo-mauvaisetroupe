@@ -1,11 +1,9 @@
 +++
 title="Madurai"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-03-21T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/14.jpg"
-pays_weight = 214
-voyages_weight = 214
+thumbnail="header/20010218_inde/14.jpg"
 +++
 ### 21 mars 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Potosi"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-09-26T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/3.jpg"
-pays_weight = 1303
-voyages_weight = 1303
+thumbnail="header/20010921_bolivie/3.jpg"
 +++
 ### 26 septembre 2001
 

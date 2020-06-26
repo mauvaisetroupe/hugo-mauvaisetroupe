@@ -1,11 +1,9 @@
 +++
 title="Uyuni"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-09-29T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/4.jpg"
-pays_weight = 1304
-voyages_weight = 1304
+thumbnail="header/20010921_bolivie/4.jpg"
 +++
 ### 29 septembre 2001
 

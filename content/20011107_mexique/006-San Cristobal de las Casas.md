@@ -1,11 +1,9 @@
 +++
 title="San Cristobal De Las Casas"
-voyages = ["Tour du monde 2001","Mexique (11/2001)"]
+voyages = ["Mexique (11-2001)"]
 date = "2001-11-18T12:00:00"
 pays = ["Mexique"]
-thumbnail="header/mexique20011107/6.jpg"
-pays_weight = 1506
-voyages_weight = 1506
+thumbnail="header/20011107_mexique/6.jpg"
 +++
 ### 18 novembre 2001
 

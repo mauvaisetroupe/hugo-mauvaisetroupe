@@ -1,11 +1,9 @@
 +++
 title="San Juan De Chamula"
-voyages = ["Tour du monde 2001","Mexique (11/2001)"]
+voyages = ["Mexique (11-2001)"]
 date = "2001-11-20T12:00:00"
 pays = ["Mexique"]
-thumbnail="header/mexique20011107/7.jpg"
-pays_weight = 1507
-voyages_weight = 1507
+thumbnail="header/20011107_mexique/7.jpg"
 +++
 ### 20 novembre 2001
 

@@ -1,11 +1,9 @@
 +++
 title="Daarjeeling"
-voyages = ["Tour du monde 2001","Inde (04/2001)"]
+voyages = ["Inde (04-2001)"]
 date = "2001-04-28T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010428/1.jpg"
-pays_weight = 401
-voyages_weight = 401
+thumbnail="header/20010428_inde/1.jpg"
 +++
 ### 28 avril 2001
 

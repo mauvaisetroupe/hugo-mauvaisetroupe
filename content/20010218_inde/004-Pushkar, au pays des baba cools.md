@@ -1,11 +1,9 @@
 +++
 title="Pushkar, Au Pays Des Baba Cools"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-02-24T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/4.jpg"
-pays_weight = 204
-voyages_weight = 204
+thumbnail="header/20010218_inde/4.jpg"
 +++
 ### 24 février 2001
 

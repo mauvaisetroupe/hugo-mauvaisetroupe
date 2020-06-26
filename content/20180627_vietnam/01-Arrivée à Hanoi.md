@@ -1,11 +1,10 @@
 +++
-title="Carnet de Voyage : Vietnam"
-voyages = ["Vietnam (06/2018)"]
+title="Départ pour Hanoi..."
+voyages = ["Vietnam (06-2018)"]
 date = "2018-06-27"
 pays = ["Vietnam"]
 menu_display = "Vietnam 06/2018"
-thumbnail="header/vietnam2018/001-2018-06-26_18-38-04_183803.jpg"
-country_summary=true
+thumbnail="header/vietnam2018/001-2018-06-27_13-53-00.jpg"
 +++
 
 ##  mercredi 27 juin, départ pour Hanoï

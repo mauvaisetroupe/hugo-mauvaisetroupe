@@ -1,11 +1,9 @@
 +++
 title="Si Phan Don"
-voyages = ["Tour du monde 2001","Laos (06/2001)"]
+voyages = ["Laos (06-2001)"]
 date = "2001-06-04T12:00:00"
 pays = ["Laos"]
-thumbnail="header/laos20010602/2.jpg"
-pays_weight = 602
-voyages_weight = 602
+thumbnail="header/20010602_laos/2.jpg"
 +++
 ### 4 juin 2001
 

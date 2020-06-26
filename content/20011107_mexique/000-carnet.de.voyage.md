@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Mexique"
-voyages = ["Tour du monde 2001","Mexique (11/2001)"]
+voyages = ["Mexique (11-2001)"]
 date = "2001-11-08T05:00:00"
 pays = ["Mexique"]
-menu_display = "Mexique 11/2001"
+menu_display = "Mexique (11/2001)"
 thumbnail="tdm/mexique-stamp.png"
-pays_weight = 1500
-voyages_weight = 1500
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 
 {{< pagespays >}}

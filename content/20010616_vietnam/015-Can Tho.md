@@ -1,11 +1,9 @@
 +++
 title="Can Tho"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-07-13T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/15.jpg"
-pays_weight = 715
-voyages_weight = 715
+thumbnail="header/20010616_vietnam/15.jpg"
 +++
 ### 13 juillet 2001
 

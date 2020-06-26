@@ -1,11 +1,9 @@
 +++
 title="Angkor Et Encore"
-voyages = ["Tour du monde 2001","Cambodge (07/2001)"]
+voyages = ["Cambodge (07-2001)"]
 date = "2001-07-20T12:00:00"
 pays = ["Cambodge"]
-thumbnail="header/cambodge20010715/6.jpg"
-pays_weight = 806
-voyages_weight = 806
+thumbnail="header/20010715_cambodge/6.jpg"
 +++
 ### 20 juillet 2001
 

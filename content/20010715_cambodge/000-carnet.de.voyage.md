@@ -1,13 +1,12 @@
 +++
 title="Carnet de Voyage : Cambodge"
-voyages = ["Tour du monde 2001","Cambodge (07/2001)"]
+voyages = ["Cambodge (07-2001)"]
 date = "2001-07-15T05:00:00"
 pays = ["Cambodge"]
-menu_display = "Cambodge 07/2001"
+menu_display = "Cambodge (07/2001)"
 thumbnail="tdm/cambodge-stamp.png"
-pays_weight = 800
-voyages_weight = 800
 country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
 +++
 Le Cambodge est un pays qui sort d'une guerre civile et d'un véritable génocide. Il a une histoire récente très complexe, mais c'est aussi un pays où les gens sont très accueillants malgré la pauvreté de la plupart 
 

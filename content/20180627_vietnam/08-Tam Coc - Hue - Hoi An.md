@@ -1,6 +1,6 @@
 +++
 title="De Hanoi à Tam Coc - Visite éclair de Hué"
-voyages = ["Vietnam (06/2018)"]
+voyages = ["Vietnam (06-2018)"]
 date = "2018-07-11"
 pays = ["Vietnam"]
 thumbnail="header/vietnam2018/008-2018-07-11_13-02-03.jpg"

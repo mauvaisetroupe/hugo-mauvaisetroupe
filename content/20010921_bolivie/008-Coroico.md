@@ -1,11 +1,9 @@
 +++
 title="Coroico"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-06T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/8.jpg"
-pays_weight = 1308
-voyages_weight = 1308
+thumbnail="header/20010921_bolivie/8.jpg"
 +++
 ### 6 octobre 2001
 

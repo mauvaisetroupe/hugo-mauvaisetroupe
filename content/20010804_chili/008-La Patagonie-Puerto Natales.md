@@ -1,11 +1,9 @@
 +++
 title="La Patagonie-Puerto Natales"
-voyages = ["Tour du monde 2001","Chili (08/2001)"]
+voyages = ["Chili (08-2001)"]
 date = "2001-08-24T12:00:00"
 pays = ["Chili"]
-thumbnail="header/chili20010804/8.jpg"
-pays_weight = 1108
-voyages_weight = 1108
+thumbnail="header/20010804_chili/8.jpg"
 +++
 ### 24 août 2001
 

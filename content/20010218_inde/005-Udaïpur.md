@@ -1,11 +1,9 @@
 +++
 title="Udaïpur"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-02-26T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/5.jpg"
-pays_weight = 205
-voyages_weight = 205
+thumbnail="header/20010218_inde/5.jpg"
 +++
 ### 26 février 2001
 

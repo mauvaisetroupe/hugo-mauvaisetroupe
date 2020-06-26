@@ -1,11 +1,9 @@
 +++
 title="Sapa"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-06-21T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/3.jpg"
-pays_weight = 703
-voyages_weight = 703
+thumbnail="header/20010616_vietnam/3.jpg"
 +++
 ### 21 juin 2001
 

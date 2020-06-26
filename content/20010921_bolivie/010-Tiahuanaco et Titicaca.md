@@ -1,11 +1,9 @@
 +++
 title="Tiahuanaco Et Titicaca"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-10T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/10.jpg"
-pays_weight = 1310
-voyages_weight = 1310
+thumbnail="header/20010921_bolivie/10.jpg"
 +++
 ### 10 octobre 2001
 

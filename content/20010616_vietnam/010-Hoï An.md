@@ -1,11 +1,9 @@
 +++
 title="Hoï An"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-07-04T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/10.jpg"
-pays_weight = 710
-voyages_weight = 710
+thumbnail="header/20010616_vietnam/10.jpg"
 +++
 ###  4 juillet 2001
 

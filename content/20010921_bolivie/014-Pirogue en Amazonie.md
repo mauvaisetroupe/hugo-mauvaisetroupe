@@ -1,11 +1,9 @@
 +++
 title="Pirogue En Amazonie"
-voyages = ["Tour du monde 2001","Bolivie (09/2001)"]
+voyages = ["Bolivie (09-2001)"]
 date = "2001-10-24T12:00:00"
 pays = ["Bolivie"]
-thumbnail="header/bolivie20010921/14.jpg"
-pays_weight = 1314
-voyages_weight = 1314
+thumbnail="header/20010921_bolivie/14.jpg"
 +++
 ### 24 octobre 2001
 

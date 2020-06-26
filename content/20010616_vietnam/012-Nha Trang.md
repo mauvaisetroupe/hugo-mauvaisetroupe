@@ -1,11 +1,9 @@
 +++
 title="Nha Trang"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-07-07T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/12.jpg"
-pays_weight = 712
-voyages_weight = 712
+thumbnail="header/20010616_vietnam/12.jpg"
 +++
 ### 7 juillet 2001
 

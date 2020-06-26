@@ -1,11 +1,9 @@
 +++
 title="Vacances À Goa"
-voyages = ["Tour du monde 2001","Inde (02/2001)"]
+voyages = ["Inde (02-2001)"]
 date = "2001-03-03T12:00:00"
 pays = ["Inde"]
-thumbnail="header/inde20010218/7.jpg"
-pays_weight = 207
-voyages_weight = 207
+thumbnail="header/20010218_inde/7.jpg"
 +++
 ### 3 mars 2001
 

@@ -1,11 +1,9 @@
 +++
 title="My Son"
-voyages = ["Tour du monde 2001","Vietnam (06/2001)"]
+voyages = ["Vietnam (06-2001)"]
 date = "2001-07-05T12:00:00"
 pays = ["Vietnam"]
-thumbnail="header/vietnam20010616/11.jpg"
-pays_weight = 711
-voyages_weight = 711
+thumbnail="header/20010616_vietnam/11.jpg"
 +++
 ### 5 juillet 2001
 
