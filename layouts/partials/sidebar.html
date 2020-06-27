@@ -2,14 +2,18 @@
 
   <div class="sections sidebar">
   
-  
+
+{{$currentpaysName := "" }} 
+{{if isset .Params "pays"}}
+	{{$currentpaysName = index (.Params.pays) 0 }} 
+{{end}} 
 	
 {{if isset .Params "voyages"}}
 {{$currentpays := index (.Params.voyages) 0 }}
  
   
     <section class="sidebar">
-      <header>{{$currentpays}} - Les étapes</header>
+      <header>{{$currentpaysName}} - Les étapes</header>
       <div>
         <div class="articles sm">
 
