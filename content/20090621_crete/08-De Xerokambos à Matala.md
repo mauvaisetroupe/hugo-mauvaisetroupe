@@ -2,7 +2,7 @@
 voyages = ["20090621_crete"]
 date = "2009-07-05"
 pays = ["Grece"]
-title="De Xerokambos à Matala"
+title="De Xerokambos à Matala, visite de Gortine"
 thumbnail="header/20090621_crete/2009-07-04_15-07-02_8508.jpg"
 
 +++
@@ -28,5 +28,6 @@ En repartant, on décide de dormir à komos. Après un passgae bien involontaire
 
 {{< img src="/maps/20090621_crete/2009-07-05.png" alt="Le trajet" >}}
 
+{{< imagefolder  >}}
 
 

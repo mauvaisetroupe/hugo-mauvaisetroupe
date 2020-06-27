@@ -19,4 +19,5 @@ On passe ensuite par Spili dans la montagne et avec sa fontaine aux têtes de li
 
 {{< img src="/maps/20090621_crete/2009-07-06.png" alt="Le trajet" >}}
 
+{{< imagefolder  >}}
 

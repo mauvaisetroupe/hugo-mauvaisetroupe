@@ -43,4 +43,5 @@ On trouve un endroit pour se poser, au bout du parking. Il y a des endroits trè
 
 {{< img src="/maps/20090621_crete/2009-07-08.png" alt="Le trajet" >}}
 
+{{< imagefolder  >}}
 

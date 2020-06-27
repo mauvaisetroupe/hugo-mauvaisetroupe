@@ -1,0 +1,25 @@
+<figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
+
+	{{$folderURL := ""}}
+	{{$folderToExplor := ""}}
+	
+	{{if .Get "folder"}}
+		{{$folderURL = (.Get "folder")}}
+		{{$folderToExplor = print "/static/" $folderURL}}
+	{{else}}
+		{{$folderURL = print  "images/" $.Page.File.Dir $.Page.File.BaseFileName}}
+		{{$folderToExplor = print "/static/" $folderURL}}
+	{{end}}
+	
+	{{$folderURL = replace ($folderURL | absURL) "%5C" "/" }}
+	
+	{{ range readDir $folderToExplor }}
+		{{ $imgURL := print "" $folderURL "/" .Name | absURL}}
+		<p><img src="{{ $imgURL }}"/></p>
+	{{ end }}
+
+
+	
+</figure>
+
+

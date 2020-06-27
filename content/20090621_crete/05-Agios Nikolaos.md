@@ -37,3 +37,4 @@ Le soir, repas dehors, sur la plage, au son de la mer que le vent absent nous la
 {{< img src="/maps/20090621_crete/2009-06-29.png" alt="Le trajet" >}}
 
 
+{{< imagefolder>}}

@@ -10,8 +10,10 @@ country_summary=true
 
 +++
 
+{{< img src="/maps/20090621_crete/2009-06-21.png" alt="Le trajet" >}}
 
 ## Dimanche 21 juin 2009
+
 
 Départ de Moselle vers 15H00. Au programme quelque chose comme 1100 kilomètres par la route et 3 pays : France, Suisse et enfin Italie où le port ferry de Ancône nous attend patiemment. Enfin j'espère pour lui qu'il est patient, parce que le camping-car c'est chouette mais ce n'est pas très véloce.
 Cette année, avec notre camping-car familial de quasi 7 mètres de long, avec nos 3 sales gosses âgés de "presque 3" à "6 et demi" j'ai l'impression qu'on ne s'est pas trop mal débrouillé. On traverse la Suisse sans encombre sous un temps pas terrible pour la saison : c'est tout couvert et la température n'incite pas à rouler toutes fenêtres ouvertes!
@@ -29,4 +31,5 @@ Découverte ou plus exactement re-découverte du bateau (le même que l'année d
 
 Le soir ce sont les serveurs très attentionnés du bateau qui nous accueillent dans le resto self-service   à grands coups de gestes sympas qui embêtent un peu les enfants : "pourquoi il me porte mon plateau, je les trouve quand même un peu embêtant les serviteurs du bateau!"
 
-{{< img src="/maps/20090621_crete/2009-06-21.png" alt="Le trajet" >}}
+
+{{< imagefolder>}}
