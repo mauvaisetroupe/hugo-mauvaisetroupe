@@ -29,7 +29,11 @@ On mange un petit bout (dont une cheese pizza pas mauvaise du tout) on fait les 
 
 Resto à touriste avec hamburger, nems et bière en happy hour pour finir la journée (10000 vnd au lieu de 20000 la bière Larue, pas mauvaise du tout !!!). Ça se passe au resto l'Oasis… bonne ambiance avec son baby-foot et son Billard à dispo…
 
+
+
 ## samedi 30 juin, croisière sur la baie.
+
+{{< img src="/maps/20180627_vietnam/2018-06-30.png" alt="Le trajet" >}}
 
 Bus. Embarcadère Ben Beo avec un petit bateau. Et nous voilà sur notre bateau croisière !
 
@@ -54,6 +58,9 @@ Sortie nocturne pour voir le plancton. Impressionnant. A chaque fois qu'on donne
 Huy : "Maintenant vous savez qu'on n'a pas que des étoiles dans le ciel. On en a aussi dans l'eau" 
 
 ## dimanche 1er juillet, croisière baie Halong jour 2
+
+{{< img src="/maps/20180627_vietnam/2018-07-01.png" alt="Le trajet" >}}
+
 
 [Cerise]
 Cette nuitée, nous avons quelques peu crevouillé par la chaleur. En effet, la charmante clim s'eteignit bien sagement à la douce heure de 23h du soir. Heure,comme de bien entendu, où je ne dormais point zencore.
