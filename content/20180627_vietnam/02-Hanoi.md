@@ -43,7 +43,9 @@ Spectacle de marionnettes sur l'eau pour finir la journée culturelle. C'est tou
 
 On mange face à l'hôtel. Resto 100% vietnamien. On ne comprend pas tout ce qui se passe. Chaque fois que Marion montre un plat sur le menu (pourtant sous titré en anglais) la dame croit qu'on commande le plat! Pho, vermicelles au canard, une autre soupe qui ressemble mais bon c'est une autre soupe. Nems. Ça plaît moyen aux enfants qui trouvent tout de même de quoi se nourrir entre les légumes et le riz.
 
+{{< nextpost>}}
 
+{{< imagefolder>}}
 
 
 

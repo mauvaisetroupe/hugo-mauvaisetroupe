@@ -38,7 +38,9 @@ On va dormir sous l'atmosphère fraîche de nos chambres climatisées!
 
 Ah, oui, pour le premier repas au vietnam, on a acheté des soupe aux nouilles, genre soupe asiatique déshydratée. Mouai je sais, c'est un peu moyen comme premier repas. Et des gâteau aussi. Et des espèces de brioche au parfum café pas dégueu du tout (des "buns" c'était écrit, 15000 vnd)
 
+{{< nextpost>}}
 
+{{< imagefolder>}}
 
 
 
