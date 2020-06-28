@@ -1,5 +1,5 @@
 +++
-title="Départ vers Ancône"
+title="Carnet de Voyage - Crête 2009"
 voyages = ["20090621_crete"]
 date = "2009-06-21"
 pays = ["Grece"]
@@ -31,5 +31,6 @@ Découverte ou plus exactement re-découverte du bateau (le même que l'année d
 
 Le soir ce sont les serveurs très attentionnés du bateau qui nous accueillent dans le resto self-service   à grands coups de gestes sympas qui embêtent un peu les enfants : "pourquoi il me porte mon plateau, je les trouve quand même un peu embêtant les serviteurs du bateau!"
 
+{{< nextpost>}}
 
 {{< imagefolder>}}

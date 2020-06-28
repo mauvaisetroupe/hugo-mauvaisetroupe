@@ -46,8 +46,8 @@ Les soir juste après s'être couché, une voiture vient se garer, l'auto-radio 
 
 {{< img src="/maps/20090621_crete/2009-06-25.png" alt="Le trajet" >}}
 
+{{< nextpost>}}
+
 {{< imagefolder  >}}
-PPPP
-{{< imagefolder >}}
 
 

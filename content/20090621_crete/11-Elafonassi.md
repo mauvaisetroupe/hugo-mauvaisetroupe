@@ -17,6 +17,9 @@ Le site est vraiment chouette...
 
 Vers 11H00, l'île commence à être de plus en plus peuplée par les touristes qui se baladent et prennent des photos (qui ne le ferait pas!). Vers 13H00 on décide de retourner au camping-car pour se protéger des grosses chaleurs et pour aller manger un petit peu. On retraverse l'île jusqu'à arriver sur la plage en "contact" avec l'autre plage, celle de la terre "ferme". Et là surprise... c'est blindé! Tous les transats sont occupés. C'est un peu le supermarché de la plage... Ca reste beau mais faut écarter les gens pour le voir...
 
+
+{{< nextpost>}}
+
 {{< imagefolder  >}}
 
 

@@ -26,5 +26,7 @@ De la fêta dans la boutiques à quelques dizaines de mètres de là. "On pourra
 On déambule ensuite un peu dans le village à la recherche de la maison de la famille de Francis. On la retrouve assez facilement mais un peu au hasard quand même.
 Lui est français ou plus exactement chti. Elle est grecque. Le tout donne un couple accueillant que nous avions rencontré l'année dernière sur le bateau. Cette année, c'est la retraite, ils sont ici de puis avril et repartiront en septembre. Nous voilà donc en train de discuter avec la soeur, le beau-frère et la cousine. C'est un peu la pression, en août c'est le mariage de la fille institutrice à Athène : il faut remettre la maison en état... On repart avec un melon et une pastèque.
 
+{{< nextpost>}}
+
 {{< imagefolder  >}}
 

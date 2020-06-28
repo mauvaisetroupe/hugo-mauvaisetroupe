@@ -28,6 +28,8 @@ En repartant, on décide de dormir à komos. Après un passgae bien involontaire
 
 {{< img src="/maps/20090621_crete/2009-07-05.png" alt="Le trajet" >}}
 
+{{< nextpost>}}
+
 {{< imagefolder  >}}
 
 

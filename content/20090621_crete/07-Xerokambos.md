@@ -29,4 +29,6 @@ Journée plage à Xerokambos du côté de Ampelos bay. Les fonds sablonneux ento
 
 Juste à côté de nous c'est installé une famille de grecs qui passent visiblement le week-end à la plage. Ils sont venus en camions qui a servi au ravitaillement et qui servira la nuit d'endroit pour dormir...
 
+{{< nextpost>}}
+
 {{< imagefolder  >}}

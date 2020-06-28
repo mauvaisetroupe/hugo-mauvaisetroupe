@@ -32,4 +32,6 @@ Le matin, visite d'une grotte sous-marine. Enfin c'est comme ça que doivent la 
 Café chez les voisins. Lecture. Plage. Apéro pour fêter notre dernier jour ici. Repas
 La journée passe... et on en profite.
 
+{{< nextpost>}}
+
 {{< imagefolder>}}
