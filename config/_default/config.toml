@@ -1,7 +1,5 @@
-baseurl = "http://www.mauvaisetroupe.com/"
 theme = "hugo_theme_robust-master"
 buildDrafts = true
-title= "www.mauvaisetroupe.com"
 Paginate = 100
 
 [taxonomies]
