@@ -8,8 +8,11 @@ thumbnail="header/vietnam2018/002-2018-06-28_10-39-43_08376.jpg"
 
 ## jeudi 28 juin, Hanoï
 
+
 Première vraie journée à Hanoï.
 Petit déjeuner à l'hôtel et premier Pho pour Hippolyte (qui n'apprécie pas trop la coriandre) Marion et moi. Malo et Cerise iront vers un plus traditionnel (au moins en occident) pancakes au miel.
+
+{{< imagefolder folder="images/20180627_vietnam/02-Hanoi/seq1">}}
 
 On part à deux. On laisse les enfants à l'hôtel pour faire le tour des agences. On hésite : Sapa, Ha Giang. Le problème c'est la pluie.  Les innovations, les routes coupées. Il y a mené eu des morts dans le Nord du pays.
 
@@ -20,6 +23,9 @@ On fait deux ou trois agences dont GP travel, francophone, qui nous convaincre l
 J'en profite pour acheter une carte Sim (300000 vnd pour de la 4g, chez Vinaphone)
 
 On quitte difficilement nous chambres climatisées pour faire plaisir à Marion en soif de culture. Elle n'a pas l'air de se rendre compte qu'il fait pas loin de 40°C. On meurt littéralement de chaud. au secours !!!
+
+{{< picture-grid folder="images/20180627_vietnam/02-Hanoi/seq3">}}
+
 
 Repas rapide, pas cher et plutôt bon au Bánh Mì 25. Sandwich au pâté, végétarien, ou à l'omelette sur les fameuses petites chaises et tables en plastique rouge ou bleu.
 
@@ -38,14 +44,23 @@ Deux kilomètres plus loin, et quelques 30 ou 40 minutes de marche. Et on arrive
 
 Il faut vraiment vraiment trop chaud ! 
 
+{{< picture-grid folder="images/20180627_vietnam/02-Hanoi/seq4">}}
+
 On retourne ensuite du côté du lac.
 Spectacle de marionnettes sur l'eau pour finir la journée culturelle. C'est toujours aussi chouette même s'il est que ces musiques traditionnelles ne sont pas des plus dynamique. Difficile de garder l'oeil ouvert avec le décalage horaire. Mais bon le spectacle plaît aux enfants.
 
+{{< picture-grid folder="images/20180627_vietnam/02-Hanoi/seq5">}}
+
+
 On mange face à l'hôtel. Resto 100% vietnamien. On ne comprend pas tout ce qui se passe. Chaque fois que Marion montre un plat sur le menu (pourtant sous titré en anglais) la dame croit qu'on commande le plat! Pho, vermicelles au canard, une autre soupe qui ressemble mais bon c'est une autre soupe. Nems. Ça plaît moyen aux enfants qui trouvent tout de même de quoi se nourrir entre les légumes et le riz.
+
+
+{{< picture-grid folder="images/20180627_vietnam/02-Hanoi/seq6">}}
+
+
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
 
 
 

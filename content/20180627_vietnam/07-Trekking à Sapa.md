@@ -39,5 +39,5 @@ On dort à l'étage, sous les toits. La température est redescendu, c'est agré
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-grid folder="images/20180627_vietnam/07-Trekking à Sapa">}}
 

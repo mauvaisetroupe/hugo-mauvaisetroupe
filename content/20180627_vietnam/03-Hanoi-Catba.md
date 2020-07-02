@@ -25,14 +25,17 @@ On débarque donc avec nos gros sacs, et on fait deux trois hôtels le long de l
 On finit par laisser les enfants dans un café. Marion part avec un gars en scooter visiter un chambre qui a l'air toute neuve mais un peu excentré… et moi je remonte la rue des karaoké… C'est moi qui gagne. Je trouve un hôtel parfait, tout propret. Tenu par une famille dans le garçon parle quelques mots d'anglais. 
 On est au 7eme étage. Il y a un ascenseur, qui ne commence qu'au second. Les escaliers, eux, s'arrêtent au 6ème… bizarre…
 
+{{< picture-grid folder="images/20180627_vietnam/03-Hanoi-Catba/seq1">}}
+
 On mange un petit bout (dont une cheese pizza pas mauvaise du tout) on fait les agences… on finit par accepter la proposition de Catba Vision pour 500 USD : deux jours et une nuit dans la baie de halong et sa sœur jumelle celle de Lan ha
 
 Resto à touriste avec hamburger, nems et bière en happy hour pour finir la journée (10000 vnd au lieu de 20000 la bière Larue, pas mauvaise du tout !!!). Ça se passe au resto l'Oasis… bonne ambiance avec son baby-foot et son Billard à dispo…
 
+{{< picture-grid folder="images/20180627_vietnam/03-Hanoi-Catba/seq2">}}
+
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
 
 
 

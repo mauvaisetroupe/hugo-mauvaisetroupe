@@ -14,6 +14,8 @@ Après moultes tergiversations, cette année c'est le vietnam qui l'emporte. On 
 
 Bania est chez les cousins pour 10 jours puis chez une gardienne. Snap est bien installé avec sa chatière, sa gamelle, ses wc extérieurs et ses nounous. j'espère qu'elle ne va pas prendre la poudre d'escampette
 
+{{< imagefolder folder="images/20180627_vietnam/01-Arrivée à Hanoi/seq1" >}}
+
 Départ de la maison mardi à 15h direction francfort. Parking vers les cargos, dans la zone "holidays" (parking long terme), navette aéroport. Attente pas trop longue.
 On décolle à 20h40 avec un peu de retard. L'avion est immense. Bière thaïlandaise pour trinquer au départ. Dîner Thai, excellent.
 Nuit d'avion rude. 
@@ -32,16 +34,22 @@ Là, on se retrouve au milieu de scooters. Plein de scooters! Partout!
 
 Déposés devant l'hôtel, on a le droit à un petit verre de bienvenue. Les gens du Hanoï culture hotel ont l'air vraiment sympa. Ils nous montrent nos chambres. Et nous montent nos sac à dos. Il faut dire que les enfants sont au troisième étage chambre 302. Et nous on est au 5e étage. Chambre 501. Et avec cette chaleur, les étages sont éprouvants.
 
-Un petit peu de repos, et une balade, une première balade avec les enfants au vietnam. Direction le lac. La température est supportable. Cela rassure Cerise qui s'attendait à pire. Partout des vendeurs. Des petites boutiques, des odeurs. On était à Hanoï en 2001. Il y a sans doute plus de scooter et moins de vélo, mais la ville, la vieille ville, n'a pas fondamentalement changée.
+
+Un petit peu de repos, et une balade, une première balade avec les enfants au vietnam. Direction le lac. 
+
+{{< imagefolder folder="images/20180627_vietnam/01-Arrivée à Hanoi/seq2">}}
+
+La température est supportable. Cela rassure Cerise qui s'attendait à pire. Partout des vendeurs. Des petites boutiques, des odeurs. On était à Hanoï en 2001. Il y a sans doute plus de scooter et moins de vélo, mais la ville, la vieille ville, n'a pas fondamentalement changée.
+
+{{< picture-grid folder="images/20180627_vietnam/01-Arrivée à Hanoi/seq3">}}
+
 
 On va dormir sous l'atmosphère fraîche de nos chambres climatisées!
 
 Ah, oui, pour le premier repas au vietnam, on a acheté des soupe aux nouilles, genre soupe asiatique déshydratée. Mouai je sais, c'est un peu moyen comme premier repas. Et des gâteau aussi. Et des espèces de brioche au parfum café pas dégueu du tout (des "buns" c'était écrit, 15000 vnd)
 
+
 {{< nextpost>}}
-
-{{< imagefolder>}}
-
 
 
 

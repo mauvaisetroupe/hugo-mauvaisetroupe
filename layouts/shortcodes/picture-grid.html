@@ -1,57 +1,32 @@
 <style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
-.row {
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  -ms-flex-wrap: wrap; /* IE10 */
-  flex-wrap: wrap;
-  padding: 4px 0px 4px 0px;
-}
-
-/* Create four equal columns that sits next to each other */
-.column {
-  -ms-flex: 50%; /* IE10 */
-  flex: 50%;
-  max-width: 50%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-  }
-}
+    .left {
+        float: left;
+        width: 49%;
+		
+    }
+    .right {
+        float: right;
+        width: 49%;
+    }
+	.left, .right {
+		padding:2px;
+	}
+	
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    .group:after {
+        content:"";
+        display: table;
+        clear: both;
+    }
+    @media screen and (max-width: 800px) {
+        .left, .right {
+            float: none;
+            width: auto;
+        }
+    }
 
 
 </style>
@@ -73,37 +48,22 @@ body {
 	
 
 	{{$cpt:=0}}
-	
-	{{$columns := newScratch}}
-	{{ $empty   := slice}} 
-	
-	{{ $columns.Set "0" $empty }}
-	{{ $columns.Set "1" $empty }}
-	{{ $columns.Set "3" $empty }}
-	{{ $columns.Set "4" $empty }}
-
-	{{$currentColumn := 0}}
+<div class="group">
 	{{ range readDir $folderToExplor }}
-		{{$currentColumn = print "" (mod $cpt $nbColums)  }}
-			{{ $tmp:= ($columns.Get $currentColumn) }}
-			{{ $tmp:= $tmp | append . }}
-			{{ $columns.Set $currentColumn $tmp }}
+		{{ $imgURL := print "" $folderURL "/" .Name | absURL}}
+		
+		{{if eq (mod $cpt 2) 0 }}
+		<div class="left">
+			<img src="{{ $imgURL }}"/>
+		</div>
+		{{else}}
+		<div class="right">
+			<img src="{{ $imgURL }}"/>
+		</div>
+		{{end}}
+
 		{{$cpt = (add $cpt 1)}}
 	{{ end }}
-
-<div class="row"> 
-	{{range $column := (seq 0 (sub $nbColums 1)) }}
-		{{ $tmp2:= ($columns.Get (print "" $column)) }}
-		<div class = "column">
-		{{range $tmp2 }}
-			{{ $imgURL := print $folderURL "/" .Name | absURL}}
-
-			<img src="{{ $imgURL }}"/>			
-
-
-		{{end}}
-		</div>
-	{{end}}	
 </div>
 
 
