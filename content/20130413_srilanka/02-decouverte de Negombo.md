@@ -13,7 +13,7 @@ Deuxième journée à Negombo. Cette nuit il a plu.
 Les gouttières qui "dans le vide" dans la cour de l'hôtel augmentent l'effet sonore. On a l'impression que c'est le déluge.
 
 Lorsqu'on se lève, le temps et un peu couvert mais il fait chaud.
-P'tit déj, toast, confiture, oeufs aux plat, thé, et café pas bon, (le m6eme que chez Sri Lanka Airlines, je crois que je vais arrêter le café ici...)
+P'tit déj, toast, confiture, oeufs aux plat, thé, et café pas bon, (le même que chez Sri Lanka Airlines, je crois que je vais arrêter le café ici...)
 
 Pendant que marion se plonge dans Lonely et le Routard, c'est à mon tour d'aller m'amuser avec les enfants dans les vagues. Elles sont trop fortes, et te mettent une vraie claque de temps en temps. On s'amuse bien même si si garder un oeil sans arrêt sur chacun et un peu fatigant. 
 
