@@ -43,23 +43,19 @@
 		{{$folderToExplor = print "/static/" $folderURL}}
 	{{end}}
 	
-	{{$folderURL = replace ($folderURL ) "%5C" "PPP" }}
-	{{$folderURL = replace ($folderURL ) "%5c" "PPP" }}
+	{{$folderURL = replace ($folderURL | absURL) "%5C" "/" }}
 	
 
 	{{$cpt:=0}}
 <div class="group">
 	{{ range readDir $folderToExplor }}
 		{{ $imgURL := print "" $folderURL "/" .Name | absURL}}
+
 		
 		{{if eq (mod $cpt 2) 0 }}
-		<div class="left">
-			<img src="{{ $imgURL }}"/>
-		</div>
+		<div class="left"><img src="{{ $imgURL }}"/></div>
 		{{else}}
-		<div class="right">
-			<img src="{{ $imgURL }}"/>
-		</div>
+		<div class="right"><img src="{{ $imgURL }}"/></div>
 		{{end}}
 
 		{{$cpt = (add $cpt 1)}}

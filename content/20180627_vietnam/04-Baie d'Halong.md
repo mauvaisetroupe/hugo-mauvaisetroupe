@@ -36,7 +36,7 @@ Et enfin la bright cave (vérifier sur programme)
 
 Après le kayak, c'est une séance de jump drops le haut du bateau. Les enfants et leur nouveaux copains (surtout Ambroise) s'en donnent à cœur joie. Cerise un peu moins. Son titre de reine des méduses la bloque un peu. Faut dire que lors de notre sortie Kayak on a vu beaucoup, beaucoup de méduses. Des petites qui sont faits notre guide "friendly". Des plus grosses (elles sont énormes) qui ne font que gratter (mouais… gratter, brûler, vaut mieux pas vérifier surtout que lui ça ne lui ai jamais arrivé de se faire blessé par une méduse). Ah oui il en existe une troisième sorte, un peu plus foncée. Si j'ai bien compris, ça décharge électrique peut être mortelle...
 
-{{< imagefolder folder="images/20180627_vietnam/04-Baie d'Halong/seq5">}}
+{{< picture-folder folder="images/20180627_vietnam/04-Baie d'Halong/seq5">}}
 
 Dîner sur le bateau avec des frites ! Si, si.. le cuistot est vraiment super. Lorsqu'il fait la vaisselle à l'arrière du bateau dans ses bassines, il se met à chanter en vietnamien (où est-ce un dialecte ?)
 Notre petit famille mange en haut sur le pont.
@@ -47,7 +47,7 @@ Sortie nocturne pour voir le plancton. Impressionnant. A chaque fois qu'on donne
 Huy : "Maintenant vous savez qu'on n'a pas que des étoiles dans le ciel. On en a aussi dans l'eau" 
 
 
-{{< imagefolder folder="images/20180627_vietnam/04-Baie d'Halong/seq6">}}
+{{< picture-folder folder="images/20180627_vietnam/04-Baie d'Halong/seq6">}}
 
 
 
@@ -77,7 +77,7 @@ Kayak un peu flippant. On est censé entrer dans un triple lagon accessible par 
 
 Séance de jump tant attendu par Hippolyte. Monter en haut du bateau, vérifier s'il n'y a pas de Méduse, sauter à l'eau. Remonter en haut du bateau, vérifier les méduses, sauter à l'eau. Remonter en haut du bateau….
 
-{{< imagefolder folder="images/20180627_vietnam/04-Baie d'Halong/seq9">}}
+{{< picture-folder folder="images/20180627_vietnam/04-Baie d'Halong/seq9">}}
 
 
 Danny a de la chance. Il a créé il y a quelques temps une application pour iphone (Magic phone cleaner) qui lui permet, lui et sa femme (ils sont tout jeune, 31 et 24 ans) de vivre de leur rentes et de travailler en voyageant.. lui développe de nouvelles applications en espérant rencontrer à nouveau le succès. Son appli a été téléchargé plus d'un million de fois ! Il n'a pas voulu nous dire combien d'argent il avait gagné. Comme quoi même les Américains ne parle pas facilement d'argent...
@@ -86,7 +86,7 @@ Visite d'un resto flottant avec une cage sous le sol (il a fallu enlever des pla
 
 C'est ensuite le temps des au revoir.
 
-{{< imagefolder folder="images/20180627_vietnam/04-Baie d'Halong/seq10">}}
+{{< picture-folder folder="images/20180627_vietnam/04-Baie d'Halong/seq10">}}
  
 
 Arrivé à Catba, Marion et moi parcourons plusieurs fois la baie à la recherche d'un ATM qui fonctionne. On finit par changer de l'argent chez un bijoutier si prend nos Euros. Mais toujours pas nous Traveller check…

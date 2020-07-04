@@ -28,5 +28,5 @@ Lui est français ou plus exactement chti. Elle est grecque. Le tout donne un co
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 

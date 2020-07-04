@@ -7,7 +7,7 @@ thumbnail="header/20130413_srilanka/2013-04-15_15-07-42-DSC00210.JPG"
 
 +++
 
-Lundi 15 avril 2013.
+## Lundi 15 avril 2013.
 
 Deuxième journée à Negombo. Cette nuit il a plu.
 Les gouttières qui "dans le vide" dans la cour de l'hôtel augmentent l'effet sonore. On a l'impression que c'est le déluge.

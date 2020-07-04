@@ -7,17 +7,24 @@ thumbnail="header/vietnam2018/008-2018-07-11_13-02-03.jpg"
 +++
 
 
-## Mercredi 11/7 Visite éclair de Hué
+## Mercredi 11 juillet, Visite éclair de Hué
 
 On arrive à Hué à 7:00 du matin. Beaucoup de petits arrêts pour le chauffeur, réveil à chaque fois. Match France Belgique à 1h du matin. Crevaison qui réveille tout le monde. Ça tombe bien c'est la fin du match. Les enfants sont contents du résultat.
+
+{{< picture-folder  folder="images\20180627_vietnam\11-Tam Coc - Hue - Hoi An\seq1.1">}}
 
 On arrive à l'hôtel. On n'aura les chambres qu'à 14h, ce qui est logique. Même si on a quelquefois la chance de l'avoir dès notre arrivée comme ce fut le cas à Sapa.
 
 Visite de la cité Impériale. Comme dirait Cerise, je comprends pas bien ce qu'il y a à voir. Ils sont ou les bâtiments ?
 
+{{< picture-folder  folder="images\20180627_vietnam\11-Tam Coc - Hue - Hoi An\seq1.2">}}
+
 Taxi l'après midi pour un tombeau. Original, plutôt agréable. Valait-ce les 800K vnd?
 
-## Jeudi 12/7 Hué - Hoi An en mode touriste
+{{< picture-folder  folder="images\20180627_vietnam\11-Tam Coc - Hue - Hoi An\seq1.3">}}
+
+
+## Jeudi 12 juillet Hué - Hoi An en mode touriste
 
 Départ 8:00 de l'agence Thesinhtourist.
 Mini bus pour Hoi An avec quelques arrêts sur la route.
@@ -41,4 +48,4 @@ On mange dans un resto avec seulement quelques plats à la carte, dont le Cau La
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder  folder="images\20180627_vietnam\11-Tam Coc - Hue - Hoi An\seq2">}}

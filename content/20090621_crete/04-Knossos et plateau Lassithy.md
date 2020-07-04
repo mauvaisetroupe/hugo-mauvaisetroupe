@@ -35,5 +35,5 @@ Juste en face de là où on est garé, c'est le lieu de sortie de tous les (nomb
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 

@@ -6,7 +6,7 @@ pays = ["Vietnam"]
 thumbnail="header/vietnam2018/005-2018-07-04_10-31-19_103118.jpg"
 +++
 
-## mercredi 4/7 Trekking Sapa, premier jour
+## mercredi 4 juillet Trekking Sapa, premier jour
 
 On doit venir nous chercher à l'hôtel à 9:00.
 On est descendu pour le petit déjeuner à 8:30… on a bien failli partir le ventre vide. La dame de l'hôtel, elle, ne semble pas stressée. Il est 8:50, on entend le bruit d'un fouet dans un bol ? Nos omelettes ? Les pancakes des enfants ? Bref, le petit déj arrive, on l'engloutit en 5 minutes.

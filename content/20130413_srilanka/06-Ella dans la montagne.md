@@ -9,7 +9,7 @@ thumbnail="header/20130413_srilanka/2013-04-23_11-58-23-DSC00198.JPG"
 
 
 
-Dimanche 21 Avril 2013 à Udawalawe.
+## Dimanche 21 Avril 2013 à Udawalawe.
 
 Notre chauffeur et notre jeep sont prêts comme prévu à 5h30. Le réveil a été un peu rude même si les enfants sont plutôt contents de partir en "safari". 
 Je pense qu'ils ont encore quelques images du Sénégal en tête.
@@ -30,9 +30,10 @@ Après cette chouette expédition, retour à l'hôtel pour faire les sacs et se 
 On prend le bus vers Ella. Trois bus locaux avec des arrêts qui s'enchaînent sans temps mort.
 Les bus sont quelquefois un peu bondés, mais cela ne dure pas très longtemps. et puis nous, on a de la chance d'être assis à chaque fois, que demander de plus !?
 
+{{< img src="/maps/20130413_srilanka/2013-04-21.png" alt="Le trajet" >}}
 
 
-Lundi 22 Avril 2013, Ella Little Adam's Peak.
+## Lundi 22 Avril 2013, Ella Little Adam's Peak.
 
 Superbe balade dans les plantation de thé pour se rendre au Little Adam's peak. Balade très simple et jolie, seuls les derniers mètres sont rudes : plein de marches pour grimper sur environ 100 mètres. Très jolie vue. Récolte du thé, à l'aide d'un bâton pour égaliser les plants.
 
@@ -42,7 +43,9 @@ Ici, nous sommes au frais sous les grands pins, une petite brise nous rafraîchi
 
 
 
-Mardi 23 Avril 2013, visite de la Tea factory (800 roupies aller/retour plus attente en tuk-tuk.)
+## Mardi 23 Avril 2013, visite de la Tea factory 
+
+800 roupies aller/retour plus attente en tuk-tuk.
 
 Petite note : Au Sri Lanka, on se sent en sécurité, c'est vraiment chouette. très facile de voyager avec des enfants (les nôtres ont 6, 8 et 10 ans), on croise partout des gens avec des enfants même très petits (1 ou 2 ans). Ce qui ne transparaissait pas dans le guide, c'est la facilité à se déplacer. Il y a toujours un bus qui va où on veut et toujours quelqu'un pour nous mettre gentiment dans le bon bus ou sur le bon chemin.
 

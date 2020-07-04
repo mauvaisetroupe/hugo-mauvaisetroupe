@@ -8,9 +8,7 @@ thumbnail="header/20130413_srilanka/2013-04-16_18-10-00-DSC00393.JPG"
 +++
 
 
-
-
-Mardi 16 Avril 2013
+## Mardi 16 Avril 2013
 
 On était décidé pour le Nord, on va partir vers le Sud !  On paye l'hôtel (bien vérifier la note, petit déj en trop, taxi déjà payé...)
 150 roupies et 3 km plus tard, nous sommes à la bus station.
@@ -29,6 +27,9 @@ Il fait chaud , mais avec toutes les fenêtres ouvertes, il fait bon...
 Malo se souvient du Sénégal, des odeurs un peu fortes, des cacahuètes achetées dans le taxi brousse, il espère qu'on aura ici aussi des vendeurs ambulants !
 
 Cerise chante des chansons de Noël. Normal ! Il fait 35 degrés !
+
+{{< img src="/maps/20130413_srilanka/2013-04-16.png" alt="Le trajet" >}}
+
 
 Nous arrivons  vers 15h10 à Induruwa. On est arrêté au milieu de rien, le long d'une route très passante. Aucune indication, 2 dames à l'arrêt du bus, mais qui ne parlent pas anglais... On se renseigne dans un grand hôtel 130$ la nuit pour 5 (on a demandé), on trouve finalement quasi en face de l'arrêt de bus le Long Beach vraiment chouette à 2 000 roupies la chambre (+10%). 
 

@@ -8,7 +8,7 @@ thumbnail="header/20130413_srilanka/2013-04-28_13-46-08-DSC00841.JPG"
 +++
 
 
-Vendredi 26 Avril 2013, Sigiriya.
+## Vendredi 26 Avril 2013, Sigiriya.
 
 À quelle heure partir ? 8h sera le compromis entre l'heure suffisamment matinale pour éviter le soleil et suffisamment tardive pour ne pas brusquer les enfants.
 
@@ -29,12 +29,14 @@ Le bus nous laisse à un arrêt situé au croisement. un premier bus bondé ne s
 
 Nous voilà bien installés : Marion debout au fond du bus, Malo avec elle assis sur le sac de Marion, moi assis à l'avant (un gars m'a laissé sa place !) avec Hippo sur un genou et Cerise sur l'autre.
 
+{{< img src="/maps/20130413_srilanka/2013-04-26.png" alt="Le trajet" >}}
+
 Trincomalee, plutôt chouett cette ville ! On dirait un gros village avec plein de boutiques de tout partout. Et là, surprise, il y a des sortes de daims à côté du marché. Un homme très gentil arrive avec des haricots géants (~30-4 centimètres), les donne aux enfants et leur dit de les donner aux animaux. Ce qu'ils font, ravis. Ils les caressent "que c'est douuuux". Tuk-tuk pour Uppuveli et recherche d'un logement pour 5, abordable et sympa. Dur dur... Finalement, on opte pour le Aqua Inns Hôtel, très chouette, à 3 500 roupies (bonne saison), il n'y a que trois lits, dur dur.. Finalement, pour ne pas mourir de chaud, on vire les moustiquaires qui empêchent l'air du ventilo de passer...et... plouf ! Dans la belle piscine ! Le pied !
 
 Le soir, dîner en l'air, dans un beau cadre, face à la mer, à la lune et on voit défiler des barques de pêcheurs qui vont travailler dans la nuit.
 
 
-Samedi 27 Avril 2013, Uppuveli.
+## Samedi 27 Avril 2013, Uppuveli.
 
 Aujourd'hui, on profite de la plage, de la piscine, du restau, de la piscine, de la plage, de la piscine, du restau, et de la sieste dans le hamac !
 
@@ -43,7 +45,7 @@ la mer est à 35 degrés, on est tranquilles, c'est le pied, et on a les vagues 
 Dans une ruelle, on a trouvé une petit gargotte fort sympathique où on mange biens, contrairement à l'hôtel (riz pas bon, poisson cuit pas vidé... beurk.) En plus, il n'y a pas de plats Sri lankais à l'hôtel.
 
 
-Dimanche 28 Avril 2013, Uppuveli, Pigeon Island
+## Dimanche 28 Avril 2013, Uppuveli, Pigeon Island
 
 Lever à 8h, rendez vous à 8h30 à Aqua Dreams situé dans l'hôtel chic "Lotus". On est passé les voir hier après dîner, 9 000 roupies pour nous 5, soit 2 000 par adulte pour l'accès à Pigeon Island, 1 000 pour Cerise et gratuit pour les moins de 6 ans, Malo, Hippo, vous avez 5 ans. Indignés "ben non !!!" C'est le gars du club qui nous a dit de faire ça, ben ok, ça nous va. Et 4 000 roupies pour le bateau, les palmes, masques et tubas et même quelques biscuits. 
 
@@ -54,7 +56,7 @@ Les enfants se sont régalés en palmes, masques et tubas à plonger à 5 ou 6 m
 À 13h, on est vannés, le soleil tape et on se prépare pour le retour. Les enfants se sont presque endormis sur le bâteau (~20-25 minutes). En rentrant, on a regardé un petit film, la fin de "Chéri j'ai rétréci les gosses" et "Merlin l'enchanteur", puis piscine !
 
 
-Lundi 29 Avril 2013, Uppuveli, Glandouille et pêcheurs.
+## Lundi 29 Avril 2013, Uppuveli, Glandouille et pêcheurs.
 
 Comme d'hab, on se réveille vers 7h30 après une bonne nuit de sommeil.
 On entend la lettre à Élise ! Hop, Lionel saute dan son short, c'est la boulangerie qui passe ! Petit déjeuner sur la plage tout en allant voir les pêcheurs à 500 mètres de là à peine qui tirent leurs filets qu'ils sont une vingtaine à ramener. Ça dure bien 2 heures. Ils sont super coordonnés, un pied après l'autre dans le sable, ils remontent la plage en hâlant, puis arrivés en haut de la plage, ils lâchent la corde, redescendent, et reprennent la corde les pieds dans l'eau toujours en rythme.

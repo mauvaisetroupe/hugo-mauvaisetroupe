@@ -1,13 +1,14 @@
 +++
 title="Anuradhapura et retour vers Negombo"
 voyages = ["20130413_srilanka"]
-date = "2013-04-26"
+date = "2013-04-30"
 pays = ["Sri Lanka"]
 thumbnail="header/20130413_srilanka/2013-05-01_12-27-14-DSC00425.JPG"
+
 +++
 
 
-Mardi 30 Avril 2013
+## Mardi 30 Avril 2013
 
 de 8h à 11h, on a alterné entre plage et piscine. On profite, c'est cool. Il fait très chaud. Heureusement le bord de mer donne un peu d'air. On prend un tuk tuk jusqu'à Trinco (300 roupies) et hop, comme d'hab dans le bus qui part 10 minutes après, le temps d'acheter eau et provisions (samosas, biscuits). Sauf que là, on a vraiment eu du bol, on découvre qu'il n'y a que deux liaisons, une tôt le matin et une à 12h30... Ouf !
 
@@ -18,6 +19,10 @@ C'est terrible cette sensation de décoller irrésistiblement du siège, de s'en
 
 Tout le monde se précipite pour fermer les vitres parce que, des deux côtés, les branches cinglent violemment les visages qui traînent près des fenêtres à l'intérieur même du bus. On roule, on roule, et hop, en face, un gros camion... On fait quoi là !? Impossible de se croiser, il y a bien une entrée de rizière sur un côté mais des branches interdisent le passage au bus comme au camion, trop hauts. On s'arrête, on réfléchit. Et on guide le camion dans les broussailles. Ouf, ça passe tout juste, à dix centimètres près. Plus loin on croise un tuk tuk qui se range sur le côté à un centimètre du fossé...
 
+
+{{< img src="/maps/20130413_srilanka/2013-04-30.png" alt="Le trajet" >}}
+
+
 On rejoint la route. Arrivée à Anuradhapura, à 18h, on est bien fatigués, Titi dort. C'est une ville active, vivante. Un tuk tuk insiste pour nous emmener voir la guest house de son "brother". On hésite, la dernière fois on a u une excellente surprise à Sigiriya pour le Lion's Lodge. Alors on y va, pour voir. Près de la voie ferré, dans un mignon petit jardin, 6 chambres, le proprio est très très gentil, la chambre pour nous 5 (trois lits moyens) à 2 000 roupies et un jus d'avocat / papaye de bienvenue ! On reste.
 
 Très bonne adresse, le gars nous donnera même de l'ibuprofène pour Cerise qui se sent moyen (petit bobo infecté à la cuisse, sans doute un bouton de moustique gratté dans lequel est rentré un grain de sable ou de corail, bien enflé, bien douloureux et comme la pépette est un chouille doudouille, on galère une heure et demi pour lui faire percer le bouton et extraire le pue.  On renouvellera l'opération le lendemain. 
@@ -25,7 +30,7 @@ Très bonne adresse, le gars nous donnera même de l'ibuprofène pour Cerise qui
 En attendant, elle a ameuté tout l'hôtel, "ne peut plus nous faire confiance", on lui fait trop mal, elle va "appeler le Monsieur de l'hôtel si ça continue". De toute façon, vu le vacarme qu'elle fait, il est sûrement déjà au courant... Elle a de la fièvre, soleil ? Infection ? Peur ?
 
 
-Mercredi 1er Mai 2013, Anura et retour à Negombo.
+## Mercredi 1er Mai 2013, Anura et retour à Negombo.
 
 Le tuk tuk nous propose le tour d'Anuradhapura pour 9 500 roupies pui 9 000, puis 8 500, puis 8 000 last price. On le rappelle le lendemain matin, et finalement il nous propose une belle visite de 6 ou 7 lieux pour 6 000 roupies tout compris et nous explique un peu ce qu'on veut.
 De 9h30 à 13h, on visite les Dagobas, bodhi tree, ancien palais, on se brûle les pieds, c'est épouvantable, je n'arrive plus à marcher. Lionel et les enfants ont abandonné pour la dernière visite du palais, ils restent à l'extérieur. Je finis le tour de la dagoba en courant, je crois que mes pieds doivent fumer... Ce qui me rassure, c'est que je ne suis pas la seule ! Les Sri Lankais courent aussi...
@@ -40,10 +45,13 @@ C'est le premier mai, fête du travail... Le tuk tuk a peur qu'il n'y ait pas de
 
 Chacun a une place assise, ce qui n'est pas le cas de tous les passagers. Une banquette de 3 pour les enfants qui jouent au pouilleux et une de 2 pour nous. Cerise a envie de vomir... Arrivée 4 heures plus tard sous la pluie à Negombo. Tuk tuk et silver sands hôtel où on retrouve notre chambre familiale numéro 4.
 
+{{< img src="/maps/20130413_srilanka/2013-05-01.png" alt="Le trajet" >}}
 
 
 
-Jeudi 2 mai 2013, Marché aux poissons et plage.
+
+
+## Jeudi 2 mai 2013, Marché aux poissons et plage.
 
 Ce matin, direction le marché aux poissons de Negombo. On y admire les requis, des thons énormes, des barracudas aux grandes dents, des crabes de lagune et de mer, des crevettes de toutes tailles, un poisson perroquet qui devait être trop beau dans l'eau, des poulpes, un gros poisson rouge (dorade rose, paraît-il) etc. Et plein de poissons de toutes tailles, formes et couleurs.
 
@@ -51,7 +59,7 @@ Sur la plage, on admire le ballet des barques de pêcheurs qui viennent à vive 
 
 
 
-Résumé
+## Pour conclure...
 
 Incroyable Sri Lankais, toujours impeccables, pas suants et dégoulinants, avec des vêtements propres et pas froissés ni sales malgré la poussière, la chaleur et les heures de bus. On ne peut pas en dire autant de nous.
 

@@ -6,7 +6,7 @@ pays = ["Vietnam"]
 thumbnail="header/vietnam2018/011-2018-07-19_14-10-06_03716.JPG"
 +++
 
-## Mercredi 18/7 Hoi An - Hanoi
+## Mercredi 18 juillet Hoi An - Hanoi
 
 Troisième et dernier petit déjeuner à l'hôtel Osaka. La salade de légumes frais est parfaite. Enfin sauf qu'on sent de la biche l'oignon frais toute la journée !
 
@@ -26,7 +26,10 @@ Il pleut. Je ne sais pas si c'est la saison des pluies qui s'installe, ou juste 
 
 On pose nos affaires au Hanoi Culture Hostel. Il est 23:00. Un repas sur les petites chaises en plastique dans la rue face à l'hôtel. On ne reçoit pas vraiment ce qu'on pensait avoir commandé, et tour n'est pas fameux. Les aléas du voyage. Mais ça a le mérite d'être encore ouvert à une heure tardive pour les vietnamiens et d'être à quelques pas.
 
-## Jeudi 19/7 Hanoi
+{{< picture-folder folder="images\20180627_vietnam\14-Retour à Hanoi\seq1">}}
+
+
+## Jeudi 19 juillet Hanoi
 
 On quitte l'hôtel après avoir fait nos sacs qu'on laisse à l'accueil. Il est midi.
 
@@ -54,4 +57,4 @@ Retour vers l'hôtel, sous la pluie. Ça finit par saouler un peu.
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder folder="images\20180627_vietnam\14-Retour à Hanoi\seq2">}}

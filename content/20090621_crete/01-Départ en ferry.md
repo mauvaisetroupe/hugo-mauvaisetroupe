@@ -33,4 +33,4 @@ Le soir ce sont les serveurs très attentionnés du bateau qui nous accueillent 
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder>}}

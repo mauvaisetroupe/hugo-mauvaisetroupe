@@ -34,4 +34,4 @@ La journée passe... et on en profite.
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder>}}

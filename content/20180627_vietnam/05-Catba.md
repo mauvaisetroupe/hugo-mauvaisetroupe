@@ -24,5 +24,5 @@ On arrive à Sapa vers 2 heure du matin. On dort dans le bus jusqu'à 6 heures
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder>}}
 

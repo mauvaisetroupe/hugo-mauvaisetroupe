@@ -6,7 +6,7 @@ pays = ["Vietnam"]
 thumbnail="header/vietnam2018/010-2018-07-16_06-59-53_02938.JPG"
 +++
 
-## Dimanche 15/7 Changement d'hôtel à Hoi An
+## Dimanche 15 juillet Changement d'hôtel à Hoi An
 
 Petit déjeuner. On prépare nos sacs. Changement d'hôtel. On se rapproche de la plage, en s'installant au village de Tra Que le vegetable village entre Hoi An et la plage de Cam An.
 Montée de gamme, un peu de luxe pour finir notre voyage. Le prix à payer pour avoir une piscine au Osaka Riverside Villa.
@@ -19,8 +19,10 @@ Resto grec. Le souvlaki, pas loin de la plage. Grosses pitas grasses à souhait.
 
 Ce soir c'est finale de coupe du monde. 
 
+{{< picture-folder folder="images\20180627_vietnam\13-Hoi An Tra Que\seq1">}}
 
-## Lundi 16/7 Tra Que, temple et piscine
+
+## Lundi 16 juillet Tra Que, temple et piscine
 
 Petit déjeuner superbe à l'hôtel Osaka. Chacun reçoit un papier avec la liste des plats et boissons et des cases à cocher. On peut en cocher autant qu'on le souhaite. La classe ! Baguette, toast, beurre confiture, fromage, œufs sous toutes ses formes salade fraîche, tomates fries. Et j'en passe.
 
@@ -36,7 +38,9 @@ Il est plus de 16h. Retour à l'hôtel, piscine
 
 Resto à deux pas de l'hôtel. Moyen pour le prix. Mais le gars qui tient ça avec sa femme est sympa ! (Resto 339)
 
-## Mardi 17/7 Train Que, photographie et piscine
+{{< picture-grid folder="images\20180627_vietnam\13-Hoi An Tra Que\seq2">}}
+
+## Mardi 17 juillet Train Que, photographie et piscine
 
 Petit déj toujours aussi sympa avec le jus frais du jour.
 
@@ -52,4 +56,5 @@ La pluie comme tous les jours, finit par tomber. Elle sera un peu plus insistant
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder folder="images\20180627_vietnam\13-Hoi An Tra Que\seq3">}}
+

@@ -6,7 +6,7 @@ pays = ["Vietnam"]
 thumbnail="header/vietnam2018/005-2018-07-04_10-31-19_103118.jpg"
 +++
 
-## jeudi 5/7 Trekking à Sapa, deuxième jour
+## jeudi 5 juillet Trekking à Sapa, deuxième jour
 
 Petit déjeuner. Pancakes pour tout le monde. Thé. Café.
 
@@ -33,5 +33,5 @@ Dodo
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder>}}
 

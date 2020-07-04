@@ -7,7 +7,7 @@ thumbnail="header/vietnam2018/007-2018-07-08_12-01-35_00101.JPG"
 +++
 
 
-## Dimanche 8/7 Tam Coc, Les grottes de Trang An, grotte de Mua
+## Dimanche 8 juillet Tam Coc, Les grottes de Trang An, grotte de Mua
 
 On a loué des vélos aujourd'hui pour aller voir les grottes de trang an. Depuis ce matin il pleuvine où il pleuviote, je ne sais pas trop. J'espère qu'on va pas se prendre un énorme orage comme hier lors de notre balade en barque (qui est censé durer 3 heures)
 
@@ -45,7 +45,9 @@ On arrive à l'hôtel. Plus d'eau dans les salles de bains. Sniff sniff ! Les ga
 
 Un gars frappe à la porte. Il va ouvrir d'un air confiant, et peut-être même fier, le robinet de la salle de bain. De gros glou glou. Toujours pas d'eau. "Pas grave", il me dit que dans 5 minutes c'est réparé. J'espère qu'on aura de l'eau avant demain.
 
-## Lundi 9/7 Tam Coc et les environs
+{{< picture-folder folder="images/20180627_vietnam/10-Tam Coc/seq1">}}
+
+## Lundi 9 juillet Tam Coc et les environs
 
 Journée prolongation à Tam Coc. La piscine et le côté vacances au milieu de la famille vietnamienne qui tient la guesthouse a eu raison de notre programme.
 
@@ -65,7 +67,9 @@ On est complètement dégoûtants, les vélos aussi. Mais j'ai l'impression que 
 
 De retour à l'hôtel, c'est nettoyage au jet d'eau pour les vélos et pour nos sandales!!
 
-## Mardi 10/7 Glandouille à Tam Coc
+{{< picture-folder folder="images/20180627_vietnam/10-Tam Coc/seq2">}}
+
+## Mardi 10 juillet Glandouille à Tam Coc
 
 Il peut depuis 6h, ça fait maintenant 3 heures. J'espère que ça va s'arrêter, qu'on puisse profiter de notre dernière journée à Tam Coc. Ce soir nous prenons le sleeping bus pour Hué. On n'a pas mal hésité, arrêt ou pas à la dmz, bus ou train. Mais le train c'est vraiment cher (presque 60$ par personne) et surtout ce sont des compartiments couchettes de 4. Et on est 5…
 
@@ -81,5 +85,7 @@ On s'installe. Le bus est un peu pourri, le skaï des sièges est défoncé. C'e
 
 {{< nextpost>}}
 
-{{< imagefolder>}}
+{{< picture-folder folder="images/20180627_vietnam/10-Tam Coc/seq3">}}
+
+
 

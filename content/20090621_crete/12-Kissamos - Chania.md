@@ -32,4 +32,4 @@ Puis départ pour Souda où nous avons le check in à 20H pour un départ à 21H
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}

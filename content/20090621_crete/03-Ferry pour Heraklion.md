@@ -48,6 +48,6 @@ Les soir juste après s'être couché, une voiture vient se garer, l'auto-radio 
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 
 

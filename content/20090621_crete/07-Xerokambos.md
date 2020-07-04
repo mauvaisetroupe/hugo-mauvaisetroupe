@@ -31,4 +31,4 @@ Juste à côté de nous c'est installé une famille de grecs qui passent visible
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}

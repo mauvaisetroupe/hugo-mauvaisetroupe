@@ -8,7 +8,7 @@ thumbnail="header/20130413_srilanka/2013-04-26_10-05-56-DSC00348.JPG"
 +++
 
 
-Jeudi 25 Avril 2013, Kandy-Dambulla
+## Jeudi 25 Avril 2013, Kandy-Dambulla
 
 Balade autour du lac, petit déjeuner dans un endroit très chic (enfin qui le fut, les chaises et les teintures sont défraichies, mais c'est chouette) au service assez lent mais très souriant. Thé jus de fruits et viennoiseries de leur pâtisserie (Raja restaurant). Il n'y a que des Sri lankais en dehors d'un couple et nous. On rentre le long du lac, de ses poissons, cormorans, et nombreux amoureux.
 
@@ -16,6 +16,9 @@ Tuk-tuk pour la bus station, (200 roupies) et mini-bus climatisé pour Dambulla 
 
 C'est jour de pleine lune, donc fête bouddhiste. 
 Dans le bus, on a le droit à une comédie probablement Sri lankaise à la télé avec beaucoup de bruitages genre dessins-animés, il y a même le refrain de la panthère rose.
+
+{{< img src="/maps/20130413_srilanka/2013-04-25.png" alt="Le trajet" >}}
+
 
 À la sortie du bus, seulement deux heures se sont écoulées. Le mini-bus a foncé, bien plus qu'un bus classique !
 Un tuk-tuk rouge vient nous cueillir à la station. 200 roupies plus loin, nous sommes au temple de Dambulla. Le musée de bouddhiste est l'humble entrée du site avec un bouddha doré de trente mètres de haut et son cortège de statues de moines bouddhistes qui défilent vers le géant doré.

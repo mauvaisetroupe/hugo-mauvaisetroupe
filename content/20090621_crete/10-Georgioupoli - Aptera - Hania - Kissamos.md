@@ -45,5 +45,5 @@ On trouve un endroit pour se poser, au bout du parking. Il y a des endroits trè
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 

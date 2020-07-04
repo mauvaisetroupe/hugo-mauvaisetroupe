@@ -20,7 +20,7 @@ Vers 11H00, l'île commence à être de plus en plus peuplée par les touristes 
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 
 
 

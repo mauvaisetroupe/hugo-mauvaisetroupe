@@ -8,11 +8,14 @@ thumbnail="header/20130413_srilanka/2013-04-24_10-47-44-DSC00115.JPG"
 +++
 
 
-Mercredi 24 Avril 2013, Train de Ella à Kandy, danses, et temple de la dent.
+## Mercredi 24 Avril 2013, Train de Ella à Kandy, danses, et temple de la dent.
 
 Cette nuit, des écureuils ont fait un boucan incroyable en galopant sur le toit. ce matin, c'est le marché à Ella. Les gens vendent les produits de leurs jardins.
 
 À 9h10, nous sommes à la gare. Queue pour les billets de train. Seconde classe, 240 roupies pour un adulte, 120 pour un enfant et un demi ticket ça veut bien dire ce que ça veut dire, le train est à l'heure !
+
+{{< img src="/maps/20130413_srilanka/2013-04-24.png" alt="Le trajet" >}}
+
 
 Il est quasi vide. on trouve toutes les places qu'on veut sans problèmes. on a bien fait de ne pas réserver (>600 roupies par tête, enfant ou pas !) ni de prendre le wagon panoramique avec déjeuner, thé et café pour 1 600 roupies... D'après de nombreux contrôleurs, c'est souvent comme ça, plein de places. Ce n'est visiblement pas le cas dans l'autre sens vu les témoignages de voyageurs que nous avons croisé.
 

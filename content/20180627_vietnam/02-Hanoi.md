@@ -12,7 +12,7 @@ thumbnail="header/vietnam2018/002-2018-06-28_10-39-43_08376.jpg"
 Première vraie journée à Hanoï.
 Petit déjeuner à l'hôtel et premier Pho pour Hippolyte (qui n'apprécie pas trop la coriandre) Marion et moi. Malo et Cerise iront vers un plus traditionnel (au moins en occident) pancakes au miel.
 
-{{< imagefolder folder="images/20180627_vietnam/02-Hanoi/seq1">}}
+{{< picture-folder folder="images/20180627_vietnam/02-Hanoi/seq1">}}
 
 On part à deux. On laisse les enfants à l'hôtel pour faire le tour des agences. On hésite : Sapa, Ha Giang. Le problème c'est la pluie.  Les innovations, les routes coupées. Il y a mené eu des morts dans le Nord du pays.
 

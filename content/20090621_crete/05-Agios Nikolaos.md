@@ -39,4 +39,4 @@ Le soir, repas dehors, sur la plage, au son de la mer que le vent absent nous la
 {{< nextpost>}}
 
 
-{{< imagefolder>}}
+{{< picture-folder>}}

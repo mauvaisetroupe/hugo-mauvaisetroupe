@@ -30,6 +30,6 @@ En repartant, on décide de dormir à komos. Après un passgae bien involontaire
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 
 

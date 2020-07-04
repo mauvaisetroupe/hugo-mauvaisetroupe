@@ -21,5 +21,5 @@ On passe ensuite par Spili dans la montagne et avec sa fontaine aux têtes de li
 
 {{< nextpost>}}
 
-{{< imagefolder  >}}
+{{< picture-folder  >}}
 

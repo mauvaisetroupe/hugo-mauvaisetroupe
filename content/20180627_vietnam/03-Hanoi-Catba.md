@@ -7,7 +7,7 @@ thumbnail="header/vietnam2018/003-2018-07-01_14-27-24_09280.JPG"
 +++
 
 
-## Vendredi 29/06 Hanoï - Catba
+## Vendredi 29 juin Hanoï - Catba
 
 
 C'est l'anniversaire d'Hippolyte qui trouve que le bus pour son anniversaire c'est quand même un peu bof bof.
