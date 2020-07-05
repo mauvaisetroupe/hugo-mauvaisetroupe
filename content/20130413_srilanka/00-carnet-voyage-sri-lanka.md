@@ -3,7 +3,7 @@ title="Carnet de Voyage - Sri Lanka 2013"
 voyages = ["20130413_srilanka"]
 date = "2013-04-12"
 pays = ["Sri Lanka"]
-thumbnail="header/20130413_srilanka/2013-04-13_16-18-34-DSC00004.JPG"
+thumbnail="header/20130413_srilanka/2013-04-14_08-40-46-DSC00086.JPG"
 menu_display = "Sri Lanka 2013"
 country_summary=true
 

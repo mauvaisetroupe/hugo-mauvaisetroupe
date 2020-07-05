@@ -1,11 +1,10 @@
 +++
-title="Carnet de Voyage - Crête 2009"
+title="Départ en ferry"
 voyages = ["20090621_crete"]
 date = "2009-06-21"
 pays = ["Grece"]
 thumbnail="header/20090621_crete/2009-06-22_11-43-19_7348.jpg"
-menu_display = "Crête 2009"
-country_summary=true
+
 
 
 +++

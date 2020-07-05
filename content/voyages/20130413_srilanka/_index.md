@@ -1,5 +1,5 @@
 +++
 title="Sri Lanka 2013"
-thumbnail="header/nous5-stamp.png"
+thumbnail="header/20130413_srilanka/2013-04-13_20-45-36-DSC00062.JPG"
 inverseorder=true
 +++
