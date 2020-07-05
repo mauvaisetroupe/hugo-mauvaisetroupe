@@ -4,7 +4,7 @@ voyages = ["20130413_srilanka"]
 date = "2013-04-12"
 pays = ["Sri Lanka"]
 thumbnail="header/20130413_srilanka/2013-04-13_16-18-34-DSC00004.JPG"
-menu_display = "Sri Lank 2013"
+menu_display = "Sri Lanka 2013"
 country_summary=true
 
 
