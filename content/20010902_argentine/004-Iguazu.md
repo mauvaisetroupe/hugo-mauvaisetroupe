@@ -83,7 +83,7 @@ Grillades de boeuf, de poulet, boudin, viande en sauce, saucisses, etc. Il y
 avait même des spaghettis. Ca s'appelle le "tenedor libre".
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2410_70.17.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2410_70.17.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2413_70.14.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2416_70.11.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2420_70.7.jpg" title="-"  >}}
@@ -99,5 +99,5 @@ avait même des spaghettis. Ca s'appelle le "tenedor libre".
 {{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2454_71.9.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-13_2456_71.7.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0159 Puerto Iguazu/2001-09-14_2457_71.6.jpg" title="-"  >}}
-</DIV>
+
 

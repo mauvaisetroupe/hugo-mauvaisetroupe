@@ -65,7 +65,7 @@ Et ça, c'est chouette... On a fait une demi pellicule de photos pour immortalis
 l'instant, debout, assis, couchés...
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2204_64.7.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2204_64.7.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2206_64.5.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2208_64.3.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2211_65.36.jpg" title="-"  >}}
@@ -79,5 +79,5 @@ l'instant, debout, assis, couchés...
 {{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2221_65.26.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2224_65.23.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0152 Porvenir/2001-08-30_2227_65.20.jpg" title="-"  >}}
-</DIV>
+
 

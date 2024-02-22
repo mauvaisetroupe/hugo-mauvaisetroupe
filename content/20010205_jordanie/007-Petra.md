@@ -52,7 +52,7 @@ pierre à Petra. Sinon, il y avait TV5 à l'hôtel. On a regardé
 Julie Lescault. Immense, grandiose, majestueux... 
 
 
-<div id="TOTO">{{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-13_0103_5.7.jpg" title="Le Siq - le canyon"  >}}
+{{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-13_0103_5.7.jpg" title="Le Siq - le canyon"  >}}
 {{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-13_0105_5.6.jpg" title="Le Trésor du Pharaon"  >}}
 {{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-13_0109_7A.15.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-13_0110_5.3.jpg" title="Tombeau des rois"  >}}
@@ -62,5 +62,5 @@ Julie Lescault. Immense, grandiose, majestueux...
 {{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-14_0119_6.32.jpg" title="Cité nabatéenne…"  >}}
 {{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-14_0120_6.31.jpg" title="Dromadaire devant le trésor du pharaon"  >}}
 {{< figurepage src="2001 01 Jordanie/0009 Petra/2001-02-14_0121_6.30.jpg" title="Lionel au pied du monastère"  >}}
-</DIV>
+
 

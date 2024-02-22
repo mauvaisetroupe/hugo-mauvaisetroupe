@@ -149,11 +149,11 @@ lit et dodo.
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 03 Nepal/0039 Pokhara/2001-04-12_0527_17.4.jpg" title="Ecolier en vadrouille venu voir la cascade"  >}}
+{{< figurepage src="2001 03 Nepal/0039 Pokhara/2001-04-12_0527_17.4.jpg" title="Ecolier en vadrouille venu voir la cascade"  >}}
 {{< figurepage src="2001 03 Nepal/0039 Pokhara/2001-04-14_0531_18.36.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0039 Pokhara/2001-04-14_0533_18.34.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0039 Pokhara/2001-04-14_0534_18.33.jpg" title="Le panneau montre ce que cachent les vilains nuages"  >}}
 {{< figurepage src="2001 03 Nepal/0039 Pokhara/2001-04-15_0535_18.32.jpg" title="Machhpuchare (6993m) vu de Pokhare! Les neiges éternelles"  >}}
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-15_0537_18.30.jpg" title="Soupe au lit pour guérir"  >}}
-</DIV>
+
 

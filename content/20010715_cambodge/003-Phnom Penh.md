@@ -82,7 +82,7 @@ aura définitivement échappé...
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1690_50.17.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1690_50.17.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1693_50.14.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1695_50.12.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1696_50.11.jpg" title="-"  >}}
@@ -106,5 +106,5 @@ aura définitivement échappé...
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1736_51.7.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1738_51.5.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-17_1739_51.4.jpg" title="-"  >}}
-</DIV>
+
 

@@ -28,10 +28,10 @@ Il faut juste penser à un truc avant de partir : le passeport doit encore être
 
 Pour faire un visa, à part des dollars, il faut des photos d'identité...
 
-<div id="TOTO">	
+	
 {{< img src="/images/preparatifs/lionelPc.jpg" caption="Lionel devant le site" >}}
 {{< img src="/images/preparatifs/guides.jpg" caption="La tonne de guide" >}}
-<div> 	
+ 	
 
 ## Les vaccins
 

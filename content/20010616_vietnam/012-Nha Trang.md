@@ -105,7 +105,7 @@ encombrants et mal élevés. Le père et le fils, qui venaient apparemment de No
 Zélande, et n'hésitaient pas face au tourisme sexuel : on fonce...
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-07_1534_46.29.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-07_1534_46.29.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-07_1535_46.28.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-07_1537_46.26.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-07_1538_46.25.jpg" title="-"  >}}
@@ -131,5 +131,5 @@ Zélande, et n'hésitaient pas face au tourisme sexuel : on fonce...
 {{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-09_1567_47.32.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-09_1568_47.31.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0105 Nha Trang/2001-07-09_1573_47.26.jpg" title="-"  >}}
-</DIV>
+
 

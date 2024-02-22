@@ -117,7 +117,7 @@ guides qu'on a donné à Jéjé ainsi que nos sacs de couchage. Après la Bolivi
 on va au Brésil, eu Mexique et au Costa Rica. Je doute qu'on ait froid.
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0181 Tiwanaku/2001-10-10_2819_81.4.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0181 Tiwanaku/2001-10-10_2819_81.4.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0181 Tiwanaku/2001-10-10_2821_81.2.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0181 Tiwanaku/2001-10-10_2822_81.1.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0181 Tiwanaku/2001-10-10_2823_82.36.jpg" title="-"  >}}
@@ -142,5 +142,5 @@ on va au Brésil, eu Mexique et au Costa Rica. Je doute qu'on ait froid.
 {{< figurepage src="2001 14 Bolivie/0183 Copacabana/2001-10-12_2856_82.3.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0184 Copacabana - La Paz/2001-10-12_2859_83.36.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0185 La Paz/2001-10-13_2866_83.29.jpg" title="-"  >}}
-</DIV>
+
 

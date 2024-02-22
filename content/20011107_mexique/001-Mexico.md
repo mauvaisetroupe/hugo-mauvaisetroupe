@@ -64,9 +64,9 @@ de s'épargner 22 heures de bus et de prendre l'avion pour Mérida. Ce sera moin
 fatiguant et puis, ça nous fera gagner un jour de plage...
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0200 Mexico/2001-11-08_3126_91A.21.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0200 Mexico/2001-11-08_3126_91A.21.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0200 Mexico/2001-11-08_3127_91A.22.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0200 Mexico/2001-11-08_3129_91A.24.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0200 Mexico/2001-11-09_3131_91A.26.jpg" title="-"  >}}
-</DIV>
+
 

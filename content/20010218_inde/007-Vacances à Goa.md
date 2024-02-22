@@ -94,7 +94,7 @@ les repas des 6 derniers jours. Le changement, qu'elle dit, ça lui dérègle le
 intestins. Une vraie gonzesse celle-là ! 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0018 Colva Beach/2001-03-03_0237_9.9.jpg" title="Méga lessive à Colva Beach, on n'a plus rien à se mettre après 2 jours de transports. Malheureusement, ils vont faire brûler des tas à côté, tout va puer très très fort et il va falloir tout relaver! Si on avait su?"  >}}
+{{< figurepage src="2001 02 Inde/0018 Colva Beach/2001-03-03_0237_9.9.jpg" title="Méga lessive à Colva Beach, on n'a plus rien à se mettre après 2 jours de transports. Malheureusement, ils vont faire brûler des tas à côté, tout va puer très très fort et il va falloir tout relaver! Si on avait su?"  >}}
 {{< figurepage src="2001 02 Inde/0018 Colva Beach/2001-03-03_0238_10A.3.jpg" title="Deuxième soir à colva (Goa). Un repas pris dans un resto ambulant. Au menu, soupes chinoises. Ca change du 'pomfrette' d'hier sur la plage. Heu... le pomfrette c'est un poisson...."  >}}
 {{< figurepage src="2001 02 Inde/0019 Palolem/2001-03-04_0239_9.8.jpg" title="Arrivée à Palolem: cocotiers, plages, mer, le rêve!"  >}}
 {{< figurepage src="2001 02 Inde/0019 Palolem/2001-03-04_0242_10A.6.jpg" title="-"  >}}
@@ -112,5 +112,5 @@ intestins. Une vraie gonzesse celle-là !
 {{< figurepage src="2001 02 Inde/0019 Palolem/2001-03-07_0260_10A.21.jpg" title="Dans le hamac"  >}}
 {{< figurepage src="2001 02 Inde/0019 Palolem/2001-03-07_0261_10A.22.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0019 Palolem/2001-03-07_0262_10A.23.jpg" title="-"  >}}
-</DIV>
+
 

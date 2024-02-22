@@ -117,7 +117,7 @@ pas con... aider les gens à sortir de la misère qui rend fanatique plutôt que
 d'attiser la haine... à suivre.
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0170 Tarabuco/2001-09-23_2509_73.26.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0170 Tarabuco/2001-09-23_2509_73.26.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0170 Tarabuco/2001-09-23_2510_73.25.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0170 Tarabuco/2001-09-23_2519_73.16.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0170 Tarabuco/2001-09-23_2520_73.15.jpg" title="-"  >}}
@@ -136,5 +136,5 @@ d'attiser la haine... à suivre.
 {{< figurepage src="2001 14 Bolivie/0171 Sucre/2001-09-24_2553_74.18.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0171 Sucre/2001-09-24_2554_74.17.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0171 Sucre/2001-09-24_2557_74.14.jpg" title="-"  >}}
-</DIV>
+
 

@@ -68,7 +68,7 @@ cool!
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0823_26.31.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0823_26.31.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0824_26.30.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0825_26.29.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0827_26.27.jpg" title="-"  >}}
@@ -82,5 +82,5 @@ cool!
 {{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0841_26.13.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0066 Ayutthaya/2001-05-16_0843_26.11.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0067 Bangkok/2001-05-16_0847_26.8.jpg" title="-"  >}}
-</DIV>
+
 

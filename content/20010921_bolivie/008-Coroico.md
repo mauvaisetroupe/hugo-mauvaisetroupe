@@ -84,7 +84,7 @@ que Marion se crispe un peu. On ne voit guère à plus de 2 ou 3 mètres la rout
 plus. 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-06_2794_81.29.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-06_2794_81.29.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-07_2796_81.27.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-07_2797_81.26.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-07_2798_81.25.jpg" title="-"  >}}
@@ -92,5 +92,5 @@ plus.
 {{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-07_2803_81.20.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-07_2804_81.19.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0179 Coroico/2001-10-07_2805_81.18.jpg" title="-"  >}}
-</DIV>
+
 

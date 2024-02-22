@@ -133,7 +133,7 @@ place. Il y a quand même des pays et des époques où il ne fait pas bon d'êtr
 une femme!
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0014 Agra/2001-02-20_0135_6.27.jpg" title="La rue"  >}}
+{{< figurepage src="2001 02 Inde/0014 Agra/2001-02-20_0135_6.27.jpg" title="La rue"  >}}
 {{< figurepage src="2001 02 Inde/0014 Agra/2001-02-20_0136_6.26.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0014 Agra/2001-02-20_0137_6.25.jpg" title="La rue"  >}}
 {{< figurepage src="2001 02 Inde/0014 Agra/2001-02-20_0138_6.24.jpg" title="Lionel au boulot pour écrire la carnet de voyage"  >}}
@@ -148,5 +148,5 @@ une femme!
 {{< figurepage src="2001 02 Inde/0014 Agra/2001-02-21_0160_6.5.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0014 Agra/2001-02-21_0161_6.4.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0014 Agra/2001-02-21_0166_7A.32.jpg" title="Sur les flancs du Taj Mahl, deux 'châteaux' rouges."  >}}
-</DIV>
+
 

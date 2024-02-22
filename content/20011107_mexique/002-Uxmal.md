@@ -124,7 +124,7 @@ Tous ces corps dans ces collants moulants pendant la prière! Feriez mieux d'all
 à la messe! A leur décharge, il faut préciser que l'église est pleine... 
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3136_89.2.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3136_89.2.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3141_90.33.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3142_90.32.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3143_90.31.jpg" title="-"  >}}
@@ -135,5 +135,5 @@ Tous ces corps dans ces collants moulants pendant la prière! Feriez mieux d'all
 {{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3150_90.24.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3151_90.23.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0202 Uxmal/2001-11-11_3156_90.18.jpg" title="-"  >}}
-</DIV>
+
 

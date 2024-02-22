@@ -50,7 +50,7 @@ de viande coule dans la soupe, ce qui lui donne encore plus de goût.
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-26_0937_29.26.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-26_0937_29.26.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-26_0938_29.25.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-26_0940_29.23.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-26_0941_29.22.jpg" title="-"  >}}
@@ -68,5 +68,5 @@ de viande coule dans la soupe, ce qui lui donne encore plus de goût.
 {{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-27_0956_29.7.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-29_0960_29.3.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0073 Chiang Khan/2001-05-29_0961_29.2.jpg" title="-"  >}}
-</DIV>
+
 

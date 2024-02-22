@@ -87,7 +87,7 @@ mais d'excellents tacos. Il n'est ouvert que le soir et rempli de gens du coin,
 c'est bon signe en général.
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-18_3203_92.7.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-18_3203_92.7.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-18_3205_92.5.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-18_3207_92.3.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-19_3209_92.1.jpg" title="-"  >}}
@@ -97,5 +97,5 @@ c'est bon signe en général.
 {{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-20_3217_93.29.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-20_3218_93.28.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0207 San Cristobal De Las Casas/2001-11-20_3219_93.27.jpg" title="-"  >}}
-</DIV>
+
 

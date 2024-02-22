@@ -34,7 +34,7 @@ reprend espoir. Finalement, après avoir déposé tout le monde, il nous amène
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0083 Pakse/2001-06-06_1031_31.4.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0083 Pakse/2001-06-06_1031_31.4.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0083 Pakse/2001-06-06_1033_31.2.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0083 Pakse/2001-06-06_1034_31.1.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0083 Pakse/2001-06-06_1035_32.36.jpg" title="-"  >}}
@@ -53,5 +53,5 @@ reprend espoir. Finalement, après avoir déposé tout le monde, il nous amène
 {{< figurepage src="2001 07 Laos/0084 Savanakhet/2001-06-06_1052_32.19.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0084 Savanakhet/2001-06-06_1053_32.18.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0084 Savanakhet/2001-06-06_1055_32.16.jpg" title="-"  >}}
-</DIV>
+
 

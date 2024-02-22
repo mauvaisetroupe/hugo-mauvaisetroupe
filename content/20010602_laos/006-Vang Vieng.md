@@ -28,7 +28,7 @@ rocheux sont plantés ça et là de l'autre côté de la rivière.
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-09_1072_33.35.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-09_1072_33.35.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-09_1073_33.34.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-10_1075_33.32.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-10_1076_33.31.jpg" title="-"  >}}
@@ -50,5 +50,5 @@ rocheux sont plantés ça et là de l'autre côté de la rivière.
 {{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-10_1103_33.4.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-10_1104_33.3.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0086 Vang Vieng/2001-06-10_1105_33.2.jpg" title="-"  >}}
-</DIV>
+
 

@@ -40,7 +40,7 @@ chouette expérience même si le lendemain on se sent un peu
 crade! 
 
 
-<div id="TOTO">{{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0087_5.13.jpg" title="-"  >}}
+{{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0087_5.13.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0088_5.12.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0089_5.11.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0091_7A.4.jpg" title="-"  >}}
@@ -49,5 +49,5 @@ crade!
 {{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0098_7A.8.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0099_7A.9.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0008 Wadi Rum/2001-02-12_0101_7A.11.jpg" title="-"  >}}
-</DIV>
+
 

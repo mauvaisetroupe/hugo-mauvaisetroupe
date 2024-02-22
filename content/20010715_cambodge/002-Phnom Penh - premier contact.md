@@ -93,7 +93,7 @@ dynamique n'en possède pas une si forte proportion. En fait, depuis Bangkok,
 c'est la première fois qu'on voit pratiquement plus de voitures que de 2 roues!
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1668_49.3.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1668_49.3.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1669_49.2.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1670_49.1.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1671_50.36.jpg" title="-"  >}}
@@ -110,5 +110,5 @@ c'est la première fois qu'on voit pratiquement plus de voitures que de 2 roues!
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1686_50.21.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1688_50.19.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-16_1689_50.18.jpg" title="-"  >}}
-</DIV>
+
 

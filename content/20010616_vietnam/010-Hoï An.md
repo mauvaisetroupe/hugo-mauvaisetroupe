@@ -35,7 +35,7 @@ de soleil exceptionnel. Pas comme en Inde où le plus banal d'entre eux attirait
 les foules.
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0102 Hoi An/2001-07-04_1479_44.12.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0102 Hoi An/2001-07-04_1479_44.12.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0102 Hoi An/2001-07-04_1480_44.11.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0102 Hoi An/2001-07-04_1481_44.10.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0104 Hoi An/2001-07-05_1515_45.12.jpg" title="-"  >}}
@@ -52,5 +52,5 @@ les foules.
 {{< figurepage src="2001 08 Vietnam/0104 Hoi An/2001-07-06_1531_46.32.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0104 Hoi An/2001-07-06_1532_46.31.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0104 Hoi An/2001-07-06_1533_46.30.jpg" title="-"  >}}
-</DIV>
+
 

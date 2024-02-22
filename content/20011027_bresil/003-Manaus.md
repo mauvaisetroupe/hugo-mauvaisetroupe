@@ -126,6 +126,6 @@ Quelques chapelets plus loin, on atteint Rio de Janeiro... sous la pluie. Bof,
 on verra demain, il est tard, au lit.
 
 
-<div id="TOTO">{{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-31_3102_89.9.jpg" title="-"  >}}
-</DIV>
+{{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-31_3102_89.9.jpg" title="-"  >}}
+
 

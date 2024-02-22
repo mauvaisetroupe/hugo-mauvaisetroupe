@@ -59,7 +59,7 @@ Comme quoi ça a du bon, on a une vue dégagée désormais. Vers 17h00, une coli
 apparaît! Mais toujours pas d'arbres.
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1740_51.3.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1740_51.3.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1742_51.1.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1743_52.36.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1745_52.34.jpg" title="-"  >}}
@@ -68,5 +68,5 @@ apparaît! Mais toujours pas d'arbres.
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1750_52.29.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1751_52.28.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0111 Phnom Penh/2001-07-18_1753_52.26.jpg" title="-"  >}}
-</DIV>
+
 

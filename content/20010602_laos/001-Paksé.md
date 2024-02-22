@@ -91,11 +91,11 @@ Don Khong. Là, un superbe hôtel en teck nous tend les bras, planté au milieu
 d'un très chouette jardin où une fille tond l'herbe... au sécateur!!!
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0079 Pakse/2001-06-02_0997_30.2.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0079 Pakse/2001-06-02_0997_30.2.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0079 Pakse/2001-06-03_0998_30.1.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_0999_31.36.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1000_31.35.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1001_31.34.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1003_31.32.jpg" title="-"  >}}
-</DIV>
+
 

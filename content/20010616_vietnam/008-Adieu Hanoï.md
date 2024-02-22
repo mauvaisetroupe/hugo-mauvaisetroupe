@@ -45,10 +45,10 @@ il faut se battre pour qu'il ne prenne pas le ticket Nha Trang-Dalat, en plein
 milieu du parcours. 
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0099 Hanoi/2001-06-30_1433_43.22.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0099 Hanoi/2001-06-30_1433_43.22.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0099 Hanoi/2001-06-30_1434_43.21.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0099 Hanoi/2001-07-01_1435_43.20.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0099 Hanoi/2001-07-01_1436_43.19.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0099 Hanoi/2001-07-01_1437_43.18.jpg" title="-"  >}}
-</DIV>
+
 

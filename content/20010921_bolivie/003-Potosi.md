@@ -129,7 +129,7 @@ crème orné d'une large bande de tissu noir à la base. Ce sont les hommes qui
 la portent.
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0172 Sucre - Potosi/2001-09-26_2568_74.3.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0172 Sucre - Potosi/2001-09-26_2568_74.3.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0172 Sucre - Potosi/2001-09-26_2570_74.1.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0172 Sucre - Potosi/2001-09-26_2573_75.34.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0173 Potosi/2001-09-26_2575_75.32.jpg" title="-"  >}}
@@ -148,5 +148,5 @@ la portent.
 {{< figurepage src="2001 14 Bolivie/0173 Potosi/2001-09-29_2596_75.11.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0173 Potosi/2001-09-29_2597_75.10.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0173 Potosi/2001-09-29_2598_75.9.jpg" title="-"  >}}
-</DIV>
+
 

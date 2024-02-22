@@ -17,7 +17,7 @@ sont habillées, mais beaucoup de papis sont dans leurs grands pyjamas rayés.
 Certains ne les quittent pas de la journée.
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-26_1356_41.27.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-26_1356_41.27.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-27_1358_41.25.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-27_1359_41.24.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-27_1360_41.23.jpg" title="-"  >}}
@@ -31,5 +31,5 @@ Certains ne les quittent pas de la journée.
 {{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-27_1372_41.11.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-27_1373_41.10.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0095 Hanoi/2001-06-27_1374_41.9.jpg" title="-"  >}}
-</DIV>
+
 

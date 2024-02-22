@@ -112,7 +112,7 @@ de large. Bref, le festival continue! Vraiment, on ne regrette pas cette petite
 excursion du côté de Santa Rosa! Le soir, une douche, enfin, ça fait du bien!
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-24_2967_86.36.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-24_2967_86.36.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-24_2974_86.29.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-24_2977_86.26.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-24_2979_86.24.jpg" title="-"  >}}
@@ -144,5 +144,5 @@ excursion du côté de Santa Rosa! Le soir, une douche, enfin, ça fait du bien!
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-25_3051_88.24.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-25_3055_88.20.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-25_3056_88.19.jpg" title="-"  >}}
-</DIV>
+
 

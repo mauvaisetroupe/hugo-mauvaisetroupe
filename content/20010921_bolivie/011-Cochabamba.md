@@ -141,7 +141,7 @@ se retourner en encadrant bien le sac à dos avec l'appareil photo, malgré les
 cris de la dame "mister...". Tiens de l'anglais... 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0187 Cochabamba/2001-10-15_2870_83.25.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0187 Cochabamba/2001-10-15_2870_83.25.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0188 Punata/2001-10-16_2871_83.24.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0188 Punata/2001-10-16_2874_83.21.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0188 Punata/2001-10-16_2875_83.20.jpg" title="-"  >}}
@@ -163,5 +163,5 @@ cris de la dame "mister...". Tiens de l'anglais...
 {{< figurepage src="2001 14 Bolivie/0190 Cochabamba/2001-10-16_2905_84.26.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0190 Cochabamba/2001-10-16_2908_84.23.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0190 Cochabamba/2001-10-17_2910_84.21.jpg" title="-"  >}}
-</DIV>
+
 

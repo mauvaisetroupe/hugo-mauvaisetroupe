@@ -93,10 +93,10 @@ des villes indiennes.
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0028 Madurai/2001-03-21_0401_13.4.jpg" title="Couvert de dieux colorés"  >}}
+{{< figurepage src="2001 02 Inde/0028 Madurai/2001-03-21_0401_13.4.jpg" title="Couvert de dieux colorés"  >}}
 {{< figurepage src="2001 02 Inde/0028 Madurai/2001-03-21_0402_13.3.jpg" title="Couvert de dieux colorés"  >}}
 {{< figurepage src="2001 02 Inde/0028 Madurai/2001-03-21_0403_13.2.jpg" title="A l'intérieur du temple, des tailleurs en action!"  >}}
 {{< figurepage src="2001 02 Inde/0028 Madurai/2001-03-21_0404_13.1.jpg" title="Char à boeufs avec cornes colorées s'il vous plait..."  >}}
 {{< figurepage src="2001 02 Inde/0028 Madurai/2001-03-21_0405_15.36.jpg" title="Char à boeuf. Photo prise dans un quartier populaire après une très longue balade à pieds. C'est dans ce quartier que nous avons été cernés par une dizaine d'enfants intrigués dans voir des touristes dans leur rue"  >}}
-</DIV>
+
 

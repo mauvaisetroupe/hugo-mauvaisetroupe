@@ -72,12 +72,12 @@ du 4eme étage est superbe: mer rouge, Israël, Egypte. On a
 même eu droit à un feu d'artifice en Israël hier soir! 
 
 
-<div id="TOTO">{{< figurepage src="2001 01 Jordanie/0006 Amman/2001-02-08_0069_4A.22.jpg" title="-"  >}}
+{{< figurepage src="2001 01 Jordanie/0006 Amman/2001-02-08_0069_4A.22.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0071_4A.24.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0077_5.19.jpg" title="Vue de la ville, Israël en face"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0078_5.18.jpg" title="La nuit"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-10_0079_4A.25.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-10_0081_5.16.jpg" title="Le port"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-10_0083_5.14.jpg" title="Le thé sur la plage"  >}}
-</DIV>
+
 

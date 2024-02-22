@@ -71,7 +71,7 @@ la pleine lune et les étoiles sont magnifiques, très brillantes. Malgré tout,
 on n'aimerait vraiment pas vivre ici si loin de tout. 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0174 Potosi - Uyuni/2001-09-29_2600_75.7.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0174 Potosi - Uyuni/2001-09-29_2600_75.7.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0174 Potosi - Uyuni/2001-09-29_2604_75.3.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0174 Potosi - Uyuni/2001-09-29_2605_75.2.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0174 Potosi - Uyuni/2001-09-29_2606_75.1.jpg" title="-"  >}}
@@ -103,5 +103,5 @@ on n'aimerait vraiment pas vivre ici si loin de tout.
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-09-30/0011 San Juan/2001-09-30_2659_77.20.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-09-30/0011 San Juan/2001-09-30_2662_77.17.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-09-30/0011 San Juan/2001-09-30_2664_77.15.jpg" title="-"  >}}
-</DIV>
+
 

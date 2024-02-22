@@ -44,7 +44,7 @@ de Freak Street et la poste centrale.
 &nbsp; 
 
 
-<div id="TOTO">{{< figurepage src="2001 03 Nepal/0042 Kathmandou/2001-04-17_0602_19.1.jpg" title="Saddhus"  >}}
+{{< figurepage src="2001 03 Nepal/0042 Kathmandou/2001-04-17_0602_19.1.jpg" title="Saddhus"  >}}
 {{< figurepage src="2001 03 Nepal/0043 Patan/2001-04-19_0605_20.34.jpg" title="etals des marchands devant le temple"  >}}
 {{< figurepage src="2001 03 Nepal/0043 Patan/2001-04-19_0606_20.33.jpg" title="Vendeur de flûtes"  >}}
 {{< figurepage src="2001 03 Nepal/0044 Kathmandou/2001-04-19_0609_20.30.jpg" title="-"  >}}
@@ -54,5 +54,5 @@ de Freak Street et la poste centrale.
 {{< figurepage src="2001 03 Nepal/0044 Kathmandou/2001-04-20_0615_20.23.jpg" title="'Dur métier'"  >}}
 {{< figurepage src="2001 03 Nepal/0044 Kathmandou/2001-04-20_0617_20.21.jpg" title="Vélo rickshaw"  >}}
 {{< figurepage src="2001 03 Nepal/0044 Kathmandou/2001-04-20_0619_20.19.jpg" title="Vélo rickshaw protégé du soleil"  >}}
-</DIV>
+
 

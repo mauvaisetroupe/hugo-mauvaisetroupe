@@ -81,9 +81,9 @@ vrai bolivien qui se barre avec le sac. Pas cette fois-ci... On croise les doigt
 même si ce n'est que de la superstition. 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0178 La Paz/2001-10-04_2786_80.1.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0178 La Paz/2001-10-04_2786_80.1.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0178 La Paz/2001-10-05_2788_81.35.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0178 La Paz/2001-10-05_2791_81.32.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0178 La Paz/2001-10-05_2792_81.31.jpg" title="-"  >}}
-</DIV>
+
 

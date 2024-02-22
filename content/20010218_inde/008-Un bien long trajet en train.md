@@ -124,7 +124,7 @@ c'est que ça nous aura fait 24 heures de voyage et que c'est beaucoup plus symb
 que 23! Pourvu que ca ne s'aggrave pas. Et ce train qui ne désemplit pas.
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0020 Mangalore/2001-03-08_0265_9.4.jpg" title="Jolis ventilateurs au plafond. De Goa au Kérala, de Palolem à fort Cochin"  >}}
+{{< figurepage src="2001 02 Inde/0020 Mangalore/2001-03-08_0265_9.4.jpg" title="Jolis ventilateurs au plafond. De Goa au Kérala, de Palolem à fort Cochin"  >}}
 {{< figurepage src="2001 02 Inde/0020 Mangalore/2001-03-08_0266_9.3.jpg" title="-"  >}}
-</DIV>
+
 

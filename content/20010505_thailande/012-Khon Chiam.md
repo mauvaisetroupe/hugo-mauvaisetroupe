@@ -51,10 +51,10 @@ Une heure plus tard, à midi, on arrive à Phibun d'où on repart tout de suite
 en camion-bus pour Chong Mek, la frontière avec le Laos.
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0077 Khong Chiam/2001-06-01_0985_30.14.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0077 Khong Chiam/2001-06-01_0985_30.14.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0077 Khong Chiam/2001-06-01_0986_30.13.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0077 Khong Chiam/2001-06-01_0988_30.11.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0077 Khong Chiam/2001-06-01_0990_30.9.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0077 Khong Chiam/2001-06-01_0992_30.7.jpg" title="-"  >}}
-</DIV>
+
 

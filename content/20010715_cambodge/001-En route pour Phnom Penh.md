@@ -81,7 +81,7 @@ Au Vietnam, c'était foot, badminton et billard français. Ici, c'est volley
 et billard américain.
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0109 Moc Bai/2001-07-15_1654_49.17.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0109 Moc Bai/2001-07-15_1654_49.17.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0109 Moc Bai/2001-07-15_1655_49.16.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0110 Bavet/2001-07-15_1656_49.15.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0110 Bavet/2001-07-15_1657_49.14.jpg" title="-"  >}}
@@ -89,5 +89,5 @@ et billard américain.
 {{< figurepage src="2001 09 Cambodge/0110 Bavet/2001-07-15_1660_49.11.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0110 Bavet/2001-07-15_1665_49.6.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0110 Bavet/2001-07-15_1666_49.5.jpg" title="-"  >}}
-</DIV>
+
 

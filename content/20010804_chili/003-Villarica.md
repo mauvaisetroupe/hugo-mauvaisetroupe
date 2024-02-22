@@ -58,11 +58,11 @@ vélo. Par contre, dès qu´un plus fort que lui s'approchait, il se planquait..
 On lui a quand même donné un bout de notre bon chocolat qui réchauffe.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0136 Villarica/2001-08-11_1990_58.5.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0136 Villarica/2001-08-11_1990_58.5.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0137 Pucon/2001-08-12_1993_58.2.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0137 Pucon/2001-08-12_1994_58.1.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0137 Pucon/2001-08-12_1995_59.36.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0137 Pucon/2001-08-12_1997_59.34.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0137 Pucon/2001-08-12_2000_59.31.jpg" title="-"  >}}
-</DIV>
+
 

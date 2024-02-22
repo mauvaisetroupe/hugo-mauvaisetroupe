@@ -66,7 +66,7 @@ par la prostitution!!! Ils ont du le lui expliquer pendant 10 minutes avant
 qu'il ne se laisse convaincre... 
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1788_53.27.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1788_53.27.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1790_53.25.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1792_53.23.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1795_53.20.jpg" title="-"  >}}
@@ -78,5 +78,5 @@ qu'il ne se laisse convaincre...
 {{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1806_53.9.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1808_53.7.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0113 Angkor/2001-07-20_1810_53.5.jpg" title="-"  >}}
-</DIV>
+
 

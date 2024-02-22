@@ -63,11 +63,11 @@ delta, deux bus! Il y a de la place pour tout le monde." Nous, on est les dernie
 à partir, accompagnés de 12 autres visages pâles. Et on va direction... le Cambodge...
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1645_49.26.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1645_49.26.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1647_49.24.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1649_49.22.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1650_49.21.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1651_49.20.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0108 Saigon/2001-07-14_1652_49.19.jpg" title="-"  >}}
-</DIV>
+
 

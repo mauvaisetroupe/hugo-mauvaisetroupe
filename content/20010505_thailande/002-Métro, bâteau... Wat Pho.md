@@ -61,7 +61,7 @@ Quel bonheur de retrouver une cuisine avec des casseroles. Lionel revit et
 nous prépare son plat favori: des spaghettis bolognaise...
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-08_0745_23.1.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-08_0745_23.1.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-10_0746_24.36.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-10_0747_24.35.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-10_0748_24.34.jpg" title="-"  >}}
@@ -75,5 +75,5 @@ nous prépare son plat favori: des spaghettis bolognaise...
 {{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-10_0759_24.23.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-10_0760_24.22.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0059 Bangkok/2001-05-11_0762_24.20.jpg" title="-"  >}}
-</DIV>
+
 

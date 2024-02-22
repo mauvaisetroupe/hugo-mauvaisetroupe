@@ -73,7 +73,7 @@ je trouve que ça fait partie de la découverte culturelle du Chili! En plus,
 les interros elles sont sur des trucs qu'on n'a même pas vus.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2005_59.26.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2005_59.26.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2007_59.24.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2008_59.23.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2012_59.19.jpg" title="-"  >}}
@@ -85,5 +85,5 @@ les interros elles sont sur des trucs qu'on n'a même pas vus.
 {{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2025_59.6.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2028_59.3.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0138 Valdivia/2001-08-14_2030_59.1.jpg" title="-"  >}}
-</DIV>
+
 

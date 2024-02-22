@@ -112,7 +112,7 @@ on dort a Allepey qu'on a rejoint par bus, la grève s'est terminée comme prév
 à 18h00. 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-10_0267_10A.26.jpg" title="La route qui nous mène vers notre ballade sur les backwaters à côté de Cochin"  >}}
+{{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-10_0267_10A.26.jpg" title="La route qui nous mène vers notre ballade sur les backwaters à côté de Cochin"  >}}
 {{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-10_0269_10A.27.jpg" title="Transport de sable... payés une misère"  >}}
 {{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-10_0274_11.33.jpg" title="Marion et le rameur à l'avant de la pirogue"  >}}
 {{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-10_0277_11.30.jpg" title="Papy rameur"  >}}
@@ -136,5 +136,5 @@ on dort a Allepey qu'on a rejoint par bus, la grève s'est terminée comme prév
 {{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-12_0307_11.3.jpg" title="Restaurant ambulant dans lequel on a mangé des samosas... mais dans le sud, il n'y mettent pas de pommes de terre"  >}}
 {{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-12_0311_11.2.jpg" title="Filets chinois. Les pêcheurs relèvent le filet en descendant le mat servant de levier. Des pierres servent de contre-poids"  >}}
 {{< figurepage src="2001 02 Inde/0021 Cochin/2001-03-12_0313_12.36.jpg" title="Filets chinois. Les pêcheurs relèvent le filet en descendant le mat servant de levier. Des pierres servent de contre-poids"  >}}
-</DIV>
+
 

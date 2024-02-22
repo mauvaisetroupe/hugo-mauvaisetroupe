@@ -72,7 +72,7 @@ au village, quelques courses, un apéro et une bouffe préparée dans "notre" cu
 le tout avec notre camarade suisse. Une journée tranquille quoi!
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0162 Tilcara/2001-09-18_2482_72.17.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0162 Tilcara/2001-09-18_2482_72.17.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0162 Tilcara/2001-09-18_2483_72.16.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0162 Tilcara/2001-09-18_2484_72.15.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0162 Tilcara/2001-09-18_2485_72.14.jpg" title="-"  >}}
@@ -87,5 +87,5 @@ le tout avec notre camarade suisse. Une journée tranquille quoi!
 {{< figurepage src="2001 13 Argentine/0163 Purmamarca/2001-09-19_2496_72.3.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0163 Purmamarca/2001-09-19_2497_72.2.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0163 Purmamarca/2001-09-19_2498_72.1.jpg" title="-"  >}}
-</DIV>
+
 

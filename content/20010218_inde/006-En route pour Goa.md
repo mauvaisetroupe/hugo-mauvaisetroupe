@@ -131,6 +131,6 @@ et l'air ambiant rafraîchissant. Les 11 heures ont passé rapidement, incroyabl
 non? 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-28_0236_9.10.jpg" title="Bus 'DeLuxe' mais cauchemar de Lionel... le type qu'on voit assis au milieu est à cheval sur sa valise. Il ne va pas en décoller pendant 4 ou 5 heures!!! Vu les rebonds du bus, il devait avoir sacrément mal aux fesses. On a été étonnés quand il s'est levé qu'elle ne soit pas restée incristée dans ses fesses"  >}}
-</DIV>
+{{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-28_0236_9.10.jpg" title="Bus 'DeLuxe' mais cauchemar de Lionel... le type qu'on voit assis au milieu est à cheval sur sa valise. Il ne va pas en décoller pendant 4 ou 5 heures!!! Vu les rebonds du bus, il devait avoir sacrément mal aux fesses. On a été étonnés quand il s'est levé qu'elle ne soit pas restée incristée dans ses fesses"  >}}
+
 

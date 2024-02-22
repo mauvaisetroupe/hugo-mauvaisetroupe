@@ -51,7 +51,7 @@ la longueur, de part et d'autre de l'allée.
 A COMPLETER
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0067 Bangkok/2001-05-17_0850_26.5.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0067 Bangkok/2001-05-17_0850_26.5.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0067 Bangkok/2001-05-17_0853_26.2.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0067 Bangkok/2001-05-17_0854_26.1.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0068 Chiang Mai/2001-05-18_0855_27.36.jpg" title="-"  >}}
@@ -74,5 +74,5 @@ A COMPLETER
 {{< figurepage src="2001 06 Thailande/0068 Chiang Mai/2001-05-18_0878_27.13.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0068 Chiang Mai/2001-05-18_0879_27.12.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0068 Chiang Mai/2001-05-18_0880_27.11.jpg" title="-"  >}}
-</DIV>
+
 

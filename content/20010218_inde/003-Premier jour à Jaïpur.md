@@ -141,7 +141,7 @@ Ce soir nous sommes toujours dans nos transats sur la pelouse. La nuit tombe
 et nous admirons le ballet incertain des chauves souris.
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0170_6.1.jpg" title="Circulation"  >}}
+{{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0170_6.1.jpg" title="Circulation"  >}}
 {{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0171_8.36.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0172_8.35.jpg" title="Les vaches encombrent les carrefours…"  >}}
 {{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0176_8.33.jpg" title="Vélos et vélos-rickshaws dans les rues"  >}}
@@ -158,5 +158,5 @@ et nous admirons le ballet incertain des chauves souris.
 {{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0192_8.17.jpg" title="Dame balayant, avec sa fille"  >}}
 {{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0193_8.16.jpg" title="Etals de fruits et légumes sur le trottoire"  >}}
 {{< figurepage src="2001 02 Inde/0015 Jaipur/2001-02-22_0194_8.15.jpg" title="Vélo-rickshaw au repos devant une des portes de la Pink City"  >}}
-</DIV>
+
 

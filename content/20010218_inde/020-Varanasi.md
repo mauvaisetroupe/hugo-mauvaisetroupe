@@ -112,7 +112,7 @@ Le soir " puja " : prière commune mise en danse et en musique (clochettes)
 toute leur vie. 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0497_17.34.jpg" title="Cheval aux oreilles en forme de coeur (quand il les rabat en avant)"  >}}
+{{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0497_17.34.jpg" title="Cheval aux oreilles en forme de coeur (quand il les rabat en avant)"  >}}
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0499_17.32.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0502_17.29.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0503_17.28.jpg" title="-"  >}}
@@ -122,5 +122,5 @@ toute leur vie.
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0513_17.18.jpg" title="Saddhu"  >}}
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-09_0519_17.12.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-09_0525_17.6.jpg" title="La puja (prièreà en 'son, musique et danse' le soir au bord du Gange"  >}}
-</DIV>
+
 

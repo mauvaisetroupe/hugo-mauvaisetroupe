@@ -86,7 +86,7 @@ des portes sont mauvais et on baigne dans un épais brouillard de poussière!
 Bonne nuit...
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-02/0019 Sol de manana/2001-10-02_2713_78.2.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-02/0019 Sol de manana/2001-10-02_2713_78.2.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-02/0019 Sol de manana/2001-10-02_2715_79.36.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-02/0020 Agua Minerale/2001-10-02_2720_79.31.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-02/0022 Laguna verde/2001-10-02_2729_79.22.jpg" title="-"  >}}
@@ -114,5 +114,5 @@ Bonne nuit...
 {{< figurepage src="2001 14 Bolivie/0177 Uyuni/2001-10-03_2782_80.5.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0177 Uyuni/2001-10-03_2784_80.3.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0177 Uyuni/2001-10-03_2785_80.2.jpg" title="-"  >}}
-</DIV>
+
 

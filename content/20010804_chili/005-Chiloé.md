@@ -97,7 +97,7 @@ et cette dame qui ramasse les algues. C'est pour les sushis du Japon. Ah, et
 il reste l'église en bois.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0139 Castro/2001-08-16_2032_60.35.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0139 Castro/2001-08-16_2032_60.35.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0139 Castro/2001-08-16_2033_60.34.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0139 Castro/2001-08-16_2034_60.33.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0139 Castro/2001-08-16_2038_60.29.jpg" title="-"  >}}
@@ -108,5 +108,5 @@ il reste l'église en bois.
 {{< figurepage src="2001 12 Chili/0142 Achao/2001-08-17_2048_60.19.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0142 Achao/2001-08-17_2051_60.16.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0142 Achao/2001-08-17_2052_60.15.jpg" title="-"  >}}
-</DIV>
+
 

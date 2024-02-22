@@ -35,11 +35,11 @@ très gaies et souvent le chapeau de paille pointu. Honnêtement, je ne suis pas
 aussi en Inde avec les jolis saris colorés.
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1147_35.32.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1147_35.32.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1149_35.30.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1150_35.29.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1152_35.27.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1153_35.26.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0089 Vientiane/2001-06-15_1154_35.25.jpg" title="-"  >}}
-</DIV>
+
 

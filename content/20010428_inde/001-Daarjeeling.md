@@ -45,7 +45,7 @@ de s'exploser la tête et de gémir!
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0694_22.16.jpg" title="-"  >}}
+{{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0694_22.16.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0696_22.14.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0698_22.12.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0699_22.11.jpg" title="-"  >}}
@@ -54,5 +54,5 @@ de s'exploser la tête et de gémir!
 {{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0705_22.5.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0706_22.4.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0049 Darjeeling/2001-05-01_0708_22.2.jpg" title="-"  >}}
-</DIV>
+
 

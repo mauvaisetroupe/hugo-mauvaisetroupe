@@ -44,7 +44,7 @@ un nombre incalculable de choses avec trois mots d'anglais ! Et j'ai tout compri
 ! C'était rigolo et sympa. Du coup, il est revenu deux fois avec son vélo. 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-26_0212_9.34.jpg" title="City Palace by night! Palais du Maharadja"  >}}
+{{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-26_0212_9.34.jpg" title="City Palace by night! Palais du Maharadja"  >}}
 {{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-27_0214_9.32.jpg" title="Linge, cheveux, corps: lavages dans la vase du lac Picchola"  >}}
 {{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-27_0215_9.31.jpg" title="Chèvre citadine sur le marché"  >}}
 {{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-27_0216_9.30.jpg" title="Marché improvisé sur les marches du rond-point. Il fait chaud, sortons les parapluies!"  >}}
@@ -60,5 +60,5 @@ un nombre incalculable de choses avec trois mots d'anglais ! Et j'ai tout compri
 {{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-28_0231_9.15.jpg" title="Lionel au balcon dominant le Mor Chowk (cour des paons)"  >}}
 {{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-28_0232_9.14.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0017 Udaipur/2001-02-28_0234_9.12.jpg" title="Vue sur les toits depuis le resto Anna (la belle vue compense un peu la qualité)"  >}}
-</DIV>
+
 

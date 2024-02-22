@@ -75,11 +75,11 @@ une charrette accrochée à l'arrière (genre pousse pousse mais derrière), ça
 fout vachement moins la trouille!
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-12_1584_47.15.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-12_1584_47.15.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-12_1586_47.13.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-12_1588_47.11.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-12_1589_47.10.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-12_1591_47.8.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1607_48.28.jpg" title="-"  >}}
-</DIV>
+
 

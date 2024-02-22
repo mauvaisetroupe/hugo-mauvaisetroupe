@@ -98,7 +98,7 @@ soleil en attendant d'être chargées. Un peu plus loin encore, la "machine à
 briques" qui génère un boudin de briques qu'il reste à découper.
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-12_1106_33.1.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-12_1106_33.1.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-12_1109_34.34.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-12_1111_34.32.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-12_1112_34.31.jpg" title="-"  >}}
@@ -114,5 +114,5 @@ briques" qui génère un boudin de briques qu'il reste à découper.
 {{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-13_1133_34.10.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-13_1138_34.5.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0087 Luang Prabang/2001-06-13_1140_34.3.jpg" title="-"  >}}
-</DIV>
+
 

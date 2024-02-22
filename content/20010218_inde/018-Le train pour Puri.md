@@ -137,7 +137,7 @@ Dommage ce cote pervers developpe a cause du tourisme.
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0035 Puri/2001-04-02_0492_16.3.jpg" title="La maison aux fourmis :-)"  >}}
+{{< figurepage src="2001 02 Inde/0035 Puri/2001-04-02_0492_16.3.jpg" title="La maison aux fourmis :-)"  >}}
 {{< figurepage src="2001 02 Inde/0035 Puri/2001-04-02_0493_16.2.jpg" title="Petit déj pour 25 roupis..."  >}}
-</DIV>
+
 

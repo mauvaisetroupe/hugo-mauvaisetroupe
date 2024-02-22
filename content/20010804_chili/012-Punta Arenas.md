@@ -47,7 +47,7 @@ Sinon elle tricote et bouquine toute la journée dans sa maison bien chauffée.
 Le canapé attend qui veut papoter avec elle et rigoler, elle adore rigoler.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-01_2233_65.14.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-01_2233_65.14.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-01_2234_65.13.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-01_2235_65.12.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-02_2236_65.11.jpg" title="-"  >}}
@@ -55,5 +55,5 @@ Le canapé attend qui veut papoter avec elle et rigoler, elle adore rigoler.
 {{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-02_2240_65.7.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0153 Punta Arenas/2001-09-02_2241_65.6.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0154 Frontière/2001-09-02_2242_65.5.jpg" title="test"  >}}
-</DIV>
+
 

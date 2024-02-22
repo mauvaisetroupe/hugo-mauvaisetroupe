@@ -42,7 +42,7 @@ de remplacer la monnaie nationale. D'ailleurs dans les banques, avec notre carte
 visa, on ne peut retirer que des dollars, pas de riels... incroyable!
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1754_52.25.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1754_52.25.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1758_52.21.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1759_52.20.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1762_52.17.jpg" title="-"  >}}
@@ -62,5 +62,5 @@ visa, on ne peut retirer que des dollars, pas de riels... incroyable!
 {{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1784_53.31.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1785_53.30.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0112 Siam Reap/2001-07-19_1786_53.29.jpg" title="-"  >}}
-</DIV>
+
 

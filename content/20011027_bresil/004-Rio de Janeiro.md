@@ -82,12 +82,12 @@ trente à Rio. Il fait plus frais. On est repassé de l'autre côté de l'équat
 et ici, c'est l'hiver!
 
 
-<div id="TOTO">{{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-05_3106_91A.1.jpg" title="-"  >}}
+{{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-05_3106_91A.1.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-05_3107_91A.2.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-05_3108_91A.3.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-05_3110_91A.5.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-06_3116_91A.11.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-06_3118_91A.13.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0199 Rio De Janeiro/2001-11-06_3124_91A.19.jpg" title="-"  >}}
-</DIV>
+
 

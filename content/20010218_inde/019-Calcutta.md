@@ -120,7 +120,7 @@ de bus qui n'arrête pas de crier pour trouver d'autres clients. Mais où on va
 les mettre?
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0036 Calcutta/2001-04-04_0494_16.1.jpg" title="Resto près de Sudder Street... Marion en train de choisir son petit déj indien"  >}}
+{{< figurepage src="2001 02 Inde/0036 Calcutta/2001-04-04_0494_16.1.jpg" title="Resto près de Sudder Street... Marion en train de choisir son petit déj indien"  >}}
 {{< figurepage src="2001 02 Inde/0037 Varanasi/2001-04-08_0514_17.17.jpg" title="Saddhu"  >}}
-</DIV>
+
 

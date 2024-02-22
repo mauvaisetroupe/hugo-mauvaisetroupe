@@ -40,7 +40,7 @@ tous les 20 mètres les passants, les dames qui lavent leur linge ou les autres
 bateaux. Quel labyrinthe!
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1593_47.6.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1593_47.6.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1596_47.3.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1598_47.1.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1606_48.29.jpg" title="-"  >}}
@@ -62,5 +62,5 @@ bateaux. Quel labyrinthe!
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1641_49.30.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1642_49.29.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0107 Can Tho/2001-07-13_1643_49.28.jpg" title="-"  >}}
-</DIV>
+
 

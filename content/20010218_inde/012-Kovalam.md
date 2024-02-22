@@ -76,7 +76,7 @@ dans un quartier très tolérant ou on peut voir cote a cote une cathédrale, un
 temple hindou et une mosquée. 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0024 Trivandrum/2001-03-15_0347_14A.7.jpg" title="-"  >}}
+{{< figurepage src="2001 02 Inde/0024 Trivandrum/2001-03-15_0347_14A.7.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0025 Kovalam/2001-03-16_0348_12.11.jpg" title="Le phare... on se croirait presque en Bretagne. Seul le ciel bleu et la temprérature nous en empêche :-)"  >}}
 {{< figurepage src="2001 02 Inde/0025 Kovalam/2001-03-17_0350_12.10.jpg" title="Les pecheurs hâlent le filet"  >}}
 {{< figurepage src="2001 02 Inde/0025 Kovalam/2001-03-17_0351_12.9.jpg" title="Les pecheurs hâlent le filet"  >}}
@@ -92,5 +92,5 @@ temple hindou et une mosquée.
 {{< figurepage src="2001 02 Inde/0026 Trivandrum/2001-03-17_0362_14A.11.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0026 Trivandrum/2001-03-17_0363_14A.12.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0026 Trivandrum/2001-03-18_0366_14A.15.jpg" title="-"  >}}
-</DIV>
+
 

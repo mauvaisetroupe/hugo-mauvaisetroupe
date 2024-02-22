@@ -75,7 +75,7 @@ on va être bourré!
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-21_1233_37.18.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-21_1233_37.18.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-21_1234_37.17.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-21_1235_37.16.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-21_1236_37.15.jpg" title="-"  >}}
@@ -102,5 +102,5 @@ on va être bourré!
 {{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-22_1281_38.6.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-22_1282_38.5.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0091 Sapa/2001-06-22_1283_38.4.jpg" title="-"  >}}
-</DIV>
+
 

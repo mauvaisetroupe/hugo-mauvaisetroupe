@@ -85,7 +85,7 @@ Ce soir, c'est la fête: pisco sour (2/3 pisco, 1/3 jus de citron, sucre glace,
 un blanc d'oeuf et shaker) et king crab, un énorme crabe rouge excellent.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0150 Puerto Natales/2001-08-28_2177_64.34.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0150 Puerto Natales/2001-08-28_2177_64.34.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0150 Puerto Natales/2001-08-28_2178_64.33.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0150 Puerto Natales/2001-08-28_2180_64.31.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0150 Puerto Natales/2001-08-28_2181_64.30.jpg" title="-"  >}}
@@ -100,5 +100,5 @@ un blanc d'oeuf et shaker) et king crab, un énorme crabe rouge excellent.
 {{< figurepage src="2001 12 Chili/0151 Fuerte Bulnes/2001-08-29_2200_64.11.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0151 Fuerte Bulnes/2001-08-29_2201_64.10.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0151 Fuerte Bulnes/2001-08-29_2202_64.9.jpg" title="-"  >}}
-</DIV>
+
 

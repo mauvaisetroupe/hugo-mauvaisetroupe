@@ -69,11 +69,11 @@ samba brésilienne. La traversée de l'Amazonie en bus... comme dans un film.
 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0195 Rurrenabaque - Guaranamerin/2001-10-26_3062_88.13.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0195 Rurrenabaque - Guaranamerin/2001-10-26_3062_88.13.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0195 Rurrenabaque - Guaranamerin/2001-10-26_3064_88.11.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0195 Rurrenabaque - Guaranamerin/2001-10-26_3066_88.9.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0195 Rurrenabaque - Guaranamerin/2001-10-26_3067_88.8.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0195 Rurrenabaque - Guaranamerin/2001-10-26_3068_88.7.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0196 Guaranamerin/2001-10-27_3073_88.2.jpg" title="-"  >}}
-</DIV>
+
 

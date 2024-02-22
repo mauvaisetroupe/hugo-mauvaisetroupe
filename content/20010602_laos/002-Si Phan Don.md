@@ -24,7 +24,7 @@ plus dures des camions -arrêtons d'appeler ça des bus- qui font la navette.
 A COMPLETER
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1004_31.31.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1004_31.31.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1005_31.30.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1006_31.29.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-03_1007_31.28.jpg" title="-"  >}}
@@ -38,5 +38,5 @@ A COMPLETER
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-04_1016_31.19.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-04_1017_31.18.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0080 Don Khong/2001-06-04_1018_31.17.jpg" title="-"  >}}
-</DIV>
+
 

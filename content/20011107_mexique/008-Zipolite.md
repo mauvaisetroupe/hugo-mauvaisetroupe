@@ -58,10 +58,10 @@ On passe la nuit à Potchutla dans un hôtel où la serrure de la porte nous obl
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0210 Zipolite/2001-11-25_3268_94.14.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0210 Zipolite/2001-11-25_3268_94.14.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0210 Zipolite/2001-11-26_3270_94.12.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0210 Zipolite/2001-11-26_3271_94.11.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0210 Zipolite/2001-11-27_3273_94.9.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0210 Zipolite/2001-11-27_3274_94.8.jpg" title="-"  >}}
-</DIV>
+
 

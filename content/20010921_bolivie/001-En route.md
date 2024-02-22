@@ -101,10 +101,10 @@ le bus se marre... A 23h00, on arrive et on trouve tout de suite une chambre.
 Dodo bien mérité.
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0165 La Quiaca/2001-09-21_2502_73.33.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0165 La Quiaca/2001-09-21_2502_73.33.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0165 La Quiaca/2001-09-21_2503_73.32.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0168 Villazone/2001-09-21_2504_73.31.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0169 Tupiza/2001-09-21_2505_73.30.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0169 Tupiza/2001-09-22_2506_73.29.jpg" title="-"  >}}
-</DIV>
+
 

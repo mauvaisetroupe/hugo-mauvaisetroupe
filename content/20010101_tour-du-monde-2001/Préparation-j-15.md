@@ -33,10 +33,9 @@ Il a fallu également penser aux cartes VISA. Les trois que nous avions expirent
 
 Ca y est, nous sommes assurés. Histoire d'être couverts en cas d'hospitalisation ou de rapatriement pendant notre tour du monde. Car si on est couvert par la sécurité sociale en rentrant, pour le rapatriement et les frais à l'étranger, ce n'est pas aussi simple sans assurance...
 	
-<div id="TOTO">	
+	
 {{< img src="/images/preparatifs/papiers.jpg" caption="Passeports, permis, billets d'avion ..." >}}
 {{< img src="/images/preparatifs/bouffe.jpg" caption="Les derniers repas à la française (sniff)" >}}
-<div>  	
 
 En attendant, on se fait des petites bouffes sympas en oubliant que le repas va être composé de riz (en Asie) pendant 6 mois et de pommes de terre (en Amérique du Sud) le reste du temps. En fait, on n'arrête pas de "bouffer" tout ce qui nous tombe sous la dent !!!
 

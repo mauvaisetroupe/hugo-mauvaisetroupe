@@ -50,12 +50,12 @@ le contenu puis se chargent de l'emballer. Fort bien la plupart du temps. Et
 comme on ne voyage pas avec nos cartons d'envois, c'est bien pratique!
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1574_47.25.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1574_47.25.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1575_47.24.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1576_47.23.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1577_47.22.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1579_47.20.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1581_47.18.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0106 Saigon/2001-07-11_1582_47.17.jpg" title="-"  >}}
-</DIV>
+
 

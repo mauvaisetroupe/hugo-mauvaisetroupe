@@ -67,7 +67,7 @@ l'ouverture de l'usine, leur cuisinière et nous, dans notre chambre à lits sup
 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0012 Salaar/2001-10-01_2667_77.12.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0012 Salaar/2001-10-01_2667_77.12.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0012 Salaar/2001-10-01_2669_77.10.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0013 Volcan Ollague/2001-10-01_2672_77.7.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0014 Vallee volcanique/2001-10-01_2675_77.4.jpg" title="-"  >}}
@@ -87,5 +87,5 @@ l'ouverture de l'usine, leur cuisinière et nous, dans notre chambre à lits sup
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0019 Sol de manana/2001-10-01_2708_78.7.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0019 Sol de manana/2001-10-01_2709_78.6.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0176 Salaar Uyuni/2001-10-01/0019 Sol de manana/2001-10-01_2710_78.5.jpg" title="-"  >}}
-</DIV>
+
 

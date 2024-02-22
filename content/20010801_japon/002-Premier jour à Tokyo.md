@@ -75,7 +75,7 @@ l'éteindre). Ha, la fraîcheur! On s'enfonce dans nos lits moelleux et c'est
 parti pour une bonne nuit.
 
 
-<div id="TOTO">{{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1859_55.28.jpg" title="-"  >}}
+{{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1859_55.28.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1860_55.27.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1862_55.25.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1863_55.24.jpg" title="-"  >}}
@@ -101,5 +101,5 @@ parti pour une bonne nuit.
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1922_56.1.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1925_57.34.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1933_57.26.jpg" title="-"  >}}
-</DIV>
+
 

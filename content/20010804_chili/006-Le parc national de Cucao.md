@@ -48,7 +48,7 @@ si tout à l'heure on était juste à moitié mouillés, le vent et la pluie ont
 réussi à nous avoir complètement.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0143 Castro/2001-08-18_2054_60.13.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0143 Castro/2001-08-18_2054_60.13.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0143 Castro/2001-08-18_2055_60.12.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0144 Cucao/2001-08-19_2056_60.11.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0144 Cucao/2001-08-19_2057_60.10.jpg" title="-"  >}}
@@ -56,5 +56,5 @@ réussi à nous avoir complètement.
 {{< figurepage src="2001 12 Chili/0144 Cucao/2001-08-19_2062_60.5.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0144 Cucao/2001-08-19_2065_60.2.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0145 Castro/2001-08-19_2066_60.1.jpg" title="-"  >}}
-</DIV>
+
 

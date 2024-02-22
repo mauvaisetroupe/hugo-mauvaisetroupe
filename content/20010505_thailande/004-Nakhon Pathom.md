@@ -52,11 +52,11 @@ et tout ce qui va avec, c'est peut-être pour se maîtriser dans les embouteilla
 car il faut vraiment du sang froid!
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0064 Nakhon Pathom/2001-05-14_0809_25.9.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0064 Nakhon Pathom/2001-05-14_0809_25.9.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0064 Nakhon Pathom/2001-05-14_0811_25.7.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0064 Nakhon Pathom/2001-05-14_0812_25.6.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0064 Nakhon Pathom/2001-05-14_0816_25.2.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0064 Nakhon Pathom/2001-05-14_0817_25.1.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0065 Bangkok/2001-05-14_0819_26.35.jpg" title="-"  >}}
-</DIV>
+
 

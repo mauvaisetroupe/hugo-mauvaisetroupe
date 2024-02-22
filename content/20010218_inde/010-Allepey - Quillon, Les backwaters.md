@@ -27,7 +27,7 @@ Mais bon, ce soir, on se fait un resto au bord de la mer! Pas vous!
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0315_12.34.jpg" title="Transport d'herbe seche"  >}}
+{{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0315_12.34.jpg" title="Transport d'herbe seche"  >}}
 {{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0317_12.32.jpg" title="Le bain des buffles"  >}}
 {{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0324_12.25.jpg" title="Douche et jeux d'eau"  >}}
 {{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0325_12.24.jpg" title="Les écoliers attendant le bateau"  >}}
@@ -39,5 +39,5 @@ Mais bon, ce soir, on se fait un resto au bord de la mer! Pas vous!
 {{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0336_12.16.jpg" title="Manoeuvres sur une embarcation improvisée en coques de noix de coco!!!"  >}}
 {{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0337_12.15.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0022 Allepey/2001-03-13_0338_10A.34.jpg" title="-"  >}}
-</DIV>
+
 

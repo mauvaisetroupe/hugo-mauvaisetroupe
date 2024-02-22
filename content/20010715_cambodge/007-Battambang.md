@@ -109,7 +109,7 @@ est cassée! Heureusement, on est à Battambang, on n'a donc pas trop à pousser
 Tant pis pour Phnom Banan, on n'y ira pas...
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-21_1812_53.3.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-21_1812_53.3.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-21_1813_53.2.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-21_1814_53.1.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-23_1815_54.36.jpg" title="-"  >}}
@@ -126,5 +126,5 @@ Tant pis pour Phnom Banan, on n'y ira pas...
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-23_1828_54.23.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-23_1830_54.21.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-23_1833_54.18.jpg" title="-"  >}}
-</DIV>
+
 

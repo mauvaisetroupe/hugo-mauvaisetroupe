@@ -24,7 +24,7 @@ de vêtements militaires (il y en a aussi au Cambodge) 0 à 80 ans! Quelle mode!
 Quatre heures plus tard, nous sommes à Bangkok...
 
 
-<div id="TOTO">{{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-24_1834_54.17.jpg" title="-"  >}}
+{{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-24_1834_54.17.jpg" title="-"  >}}
 {{< figurepage src="2001 09 Cambodge/0131 Battambang/2001-07-24_1835_54.16.jpg" title="-"  >}}
-</DIV>
+
 

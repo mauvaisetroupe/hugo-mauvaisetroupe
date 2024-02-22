@@ -77,12 +77,12 @@ Et ce n'est pas désagréable, ces rythmes latinos, du coup, cela attire les gen
 et beaucoup donnent. Tous pour ainsi dire.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-06_1977_58.18.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-06_1977_58.18.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-06_1978_58.17.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-06_1981_58.14.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-06_1982_58.13.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-07_1983_58.12.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-07_1984_58.11.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-07_1987_58.8.jpg" title="-"  >}}
-</DIV>
+
 

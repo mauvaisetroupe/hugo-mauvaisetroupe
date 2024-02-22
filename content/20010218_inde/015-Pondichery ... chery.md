@@ -72,7 +72,7 @@ on y voit des cultures de: cocotiers, bananiers, citrons, mangues, patates,
 tomates, riz, ble, cannes a sucre et d'autres qu'on ne connait pas.
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0029 Pondichery/2001-03-23_0406_15.35.jpg" title="Gandhi square. Le long de la plage, dans la ville 'blanche', la partie francophone, le quartiers des colonisateurs"  >}}
+{{< figurepage src="2001 02 Inde/0029 Pondichery/2001-03-23_0406_15.35.jpg" title="Gandhi square. Le long de la plage, dans la ville 'blanche', la partie francophone, le quartiers des colonisateurs"  >}}
 {{< figurepage src="2001 02 Inde/0029 Pondichery/2001-03-23_0407_15.34.jpg" title="Dans le parc autour du 'government place'. Une mamie s'endort sur un banc. a noter que nous, nous avions les pieds qui touchaient le sol :-)"  >}}
 {{< figurepage src="2001 02 Inde/0029 Pondichery/2001-03-23_0408_15.33.jpg" title="vendeur de fleurs"  >}}
 {{< figurepage src="2001 02 Inde/0029 Pondichery/2001-03-23_0409_14A.18.jpg" title="Ganesh en personne devant le temple"  >}}
@@ -105,5 +105,5 @@ tomates, riz, ble, cannes a sucre et d'autres qu'on ne connait pas.
 {{< figurepage src="2001 02 Inde/0031 Pondichery/2001-03-25_0442_15.3.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0031 Pondichery/2001-03-25_0443_15.2.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0031 Pondichery/2001-03-25_0444_15.1.jpg" title="Dernier repas à Pondicherry dans un très bon resto végétarien. Plat à volonté (thali)"  >}}
-</DIV>
+
 

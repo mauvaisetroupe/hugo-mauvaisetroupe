@@ -116,8 +116,8 @@ fiers. Même si tous leurs passagers doivent se geler. En plus, elle n'est pas
 vraiment utile, il fait nuit, il pleut et l'air dehors est limite frisquet!
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0205 Isla Mujeres/2001-11-15_3184_92.26.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0205 Isla Mujeres/2001-11-15_3184_92.26.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0205 Isla Mujeres/2001-11-15_3185_92.25.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0205 Isla Mujeres/2001-11-15_3186_92.24.jpg" title="-"  >}}
-</DIV>
+
 

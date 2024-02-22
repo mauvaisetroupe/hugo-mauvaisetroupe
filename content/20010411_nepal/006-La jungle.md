@@ -121,7 +121,7 @@ il est 13H00, on a notre hôtel. Plutôt rapide, hier à 8H00 du mat' on attenda
 notre bus et nous voilà déjà arrivés!!!
 
 
-<div id="TOTO">{{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-25_0658_21.16.jpg" title="-"  >}}
+{{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-25_0658_21.16.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-25_0661_21.13.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-25_0663_21.11.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-25_0666_21.8.jpg" title="-"  >}}
@@ -132,5 +132,5 @@ notre bus et nous voilà déjà arrivés!!!
 {{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-26_0677_22.33.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-26_0678_22.32.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0048 Chittwan/2001-04-26_0684_22.26.jpg" title="-"  >}}
-</DIV>
+
 

@@ -69,7 +69,7 @@ réussissent à avoir des enfants, parce qu'ici, il y a quand même beaucoup de
 monde et que cela doit être drôlement balaise de trouver un peu d'intimité!
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0093 Hoa Lu/2001-06-25_1294_39.17.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0093 Hoa Lu/2001-06-25_1294_39.17.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0093 Hoa Lu/2001-06-25_1299_39.12.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0093 Hoa Lu/2001-06-25_1303_39.8.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0093 Hoa Lu/2001-06-25_1306_39.5.jpg" title="-"  >}}
@@ -88,5 +88,5 @@ monde et que cela doit être drôlement balaise de trouver un peu d'intimité!
 {{< figurepage src="2001 08 Vietnam/0094 Thien Thu/2001-06-26_1346_40.1.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0094 Thien Thu/2001-06-26_1352_41.31.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0094 Thien Thu/2001-06-26_1354_41.29.jpg" title="-"  >}}
-</DIV>
+
 

@@ -86,7 +86,7 @@ ca, pas de vaisselle! Vivement que mon bananier pousse... ou que j'ai une machin
 a laver! 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0033 Tirukalikundram/2001-03-27_0458_14A.35.jpg" title="Temple de Shiva. Ici, c'est en fait Ganesh (l'éléphant) qui trône sur le toit du temple faisant partie d'un grand ensemble (ce nest pas du plastique mais de la roche!)"  >}}
+{{< figurepage src="2001 02 Inde/0033 Tirukalikundram/2001-03-27_0458_14A.35.jpg" title="Temple de Shiva. Ici, c'est en fait Ganesh (l'éléphant) qui trône sur le toit du temple faisant partie d'un grand ensemble (ce nest pas du plastique mais de la roche!)"  >}}
 {{< figurepage src="2001 02 Inde/0033 Tirukalikundram/2001-03-27_0460_16.35.jpg" title="Vue depuis le temple du haut sur le grand temple du bas :-)"  >}}
 {{< figurepage src="2001 02 Inde/0033 Tirukalikundram/2001-03-27_0462_16.33.jpg" title="Malgré l'horrible chaleur que dégagent les marches, Marion m'oblige à monter les escaliers pour prendre une photo d'en haut (en fait, photo truquée, on était en train de descendre...)"  >}}
 {{< figurepage src="2001 02 Inde/0033 Tirukalikundram/2001-03-27_0464_16.31.jpg" title="-"  >}}
@@ -103,5 +103,5 @@ a laver!
 {{< figurepage src="2001 02 Inde/0034 Mahabalipuram/2001-03-28_0483_16.12.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0034 Mahabalipuram/2001-03-28_0484_16.11.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0034 Mahabalipuram/2001-03-29_0487_16.8.jpg" title="-"  >}}
-</DIV>
+
 

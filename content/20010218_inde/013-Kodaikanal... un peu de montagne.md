@@ -83,7 +83,7 @@ mis les coudes en avant et je me suis lancee dans le tas, prenant de l'elan
 sur le marche pied! Non mais, j'avais pas envie de redescendre a Madurai!
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-19_0368_13.35.jpg" title="-"  >}}
+{{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-19_0368_13.35.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-19_0370_13.34.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-19_0371_13.33.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-19_0372_13.32.jpg" title="-"  >}}
@@ -107,5 +107,5 @@ sur le marche pied! Non mais, j'avais pas envie de redescendre a Madurai!
 {{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-20_0396_13.9.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-20_0399_13.6.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0027 Kodaikanal/2001-03-20_0400_13.5.jpg" title="-"  >}}
-</DIV>
+
 

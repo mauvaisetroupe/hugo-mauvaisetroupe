@@ -36,7 +36,7 @@ Et même que c'est la plus haute du monde. Ou du Japon, mais je ne sais pas s'il
 en existe d'autres, alors peut-être que c'est pareil.
 
 
-<div id="TOTO">{{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1937_57.22.jpg" title="-"  >}}
+{{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-02_1937_57.22.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-03_1939_57.20.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-03_1940_57.19.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-03_1941_57.18.jpg" title="-"  >}}
@@ -47,5 +47,5 @@ en existe d'autres, alors peut-être que c'est pareil.
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-03_1949_57.10.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-03_1951_57.8.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-03_1952_57.7.jpg" title="-"  >}}
-</DIV>
+
 

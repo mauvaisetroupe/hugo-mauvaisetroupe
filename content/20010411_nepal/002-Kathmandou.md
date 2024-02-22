@@ -17,7 +17,7 @@ bracelets ou de poteries, ou de temps a autres pour prier et appliquer les geste
 rituels (faire une offrande, tourner sur soi-même, etc.). 
 
 
-<div id="TOTO">{{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0539_18.28.jpg" title="Etal de marchand"  >}}
+{{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0539_18.28.jpg" title="Etal de marchand"  >}}
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0540_18.27.jpg" title="Vue partielle de Durbar square"  >}}
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0541_18.26.jpg" title="Marchand d'on ne sait quoi en plume de paon... éventails? plumeaux?"  >}}
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0542_18.25.jpg" title="Vélo rickshaw au repos"  >}}
@@ -49,5 +49,5 @@ rituels (faire une offrande, tourner sur soi-même, etc.).
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0583_19.20.jpg" title="On a retrouvé le père Noêl et ses guirelandes"  >}}
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0584_19.19.jpg" title="Sur les marches d'un temple"  >}}
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0585_19.18.jpg" title="vélo rickshaw devant un temple"  >}}
-</DIV>
+
 

@@ -116,7 +116,7 @@ C'est même plutôt marrant de marcher sur le pont du bateau, on se sent lourd,
 lourd, lourd, écrasé au sol, et après léger, léger, léger.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0146 Puerto Montt/2001-08-22_2068_61.35.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0146 Puerto Montt/2001-08-22_2068_61.35.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-22_2070_61.33.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-23_2072_61.31.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-23_2073_61.30.jpg" title="-"  >}}
@@ -136,5 +136,5 @@ lourd, lourd, écrasé au sol, et après léger, léger, léger.
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-23_2097_61.6.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-23_2098_61.5.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-23_2099_61.4.jpg" title="-"  >}}
-</DIV>
+
 

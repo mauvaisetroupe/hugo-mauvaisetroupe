@@ -94,7 +94,7 @@ en cafés du Chiapas fou de littérature mexicaine et française. Le soir, tacos
 tout comme à midi, on va finir par se transformer en tortillas!
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3225_93.21.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3225_93.21.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3227_93.19.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3229_93.17.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3230_93.16.jpg" title="-"  >}}
@@ -112,5 +112,5 @@ tout comme à midi, on va finir par se transformer en tortillas!
 {{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3254_94.28.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3257_94.25.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0208 San Juan de Chamula/2001-11-20_3259_94.23.jpg" title="-"  >}}
-</DIV>
+
 

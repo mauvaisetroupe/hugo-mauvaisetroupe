@@ -87,7 +87,7 @@ soupe à la carotte, petite assiette de spaghetti ensuite, viande avec des frite
 et un peu de salade, dessert (un flanc) et café. Sympa cette ville. 
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3187_92.23.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3187_92.23.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3189_92.21.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3192_92.18.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3197_92.13.jpg" title="-"  >}}
@@ -96,5 +96,5 @@ et un peu de salade, dessert (un flanc) et café. Sympa cette ville.
 {{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3200_92.10.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3201_92.9.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0206 Palenque/2001-11-17_3202_92.8.jpg" title="-"  >}}
-</DIV>
+
 

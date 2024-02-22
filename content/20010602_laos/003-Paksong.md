@@ -18,7 +18,7 @@ thaïlandais un mot peut vouloir dire quelque chose et son contraire selon l'int
 Nos pauvres oreilles ne sont pas habituées à tous ses sons. 
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0081 Pakse/2001-06-05_1020_31.15.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0081 Pakse/2001-06-05_1020_31.15.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0081 Pakse/2001-06-05_1021_31.14.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0081 Pakse/2001-06-05_1022_31.13.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0081 Pakse/2001-06-05_1023_31.12.jpg" title="-"  >}}
@@ -28,5 +28,5 @@ Nos pauvres oreilles ne sont pas habituées à tous ses sons.
 {{< figurepage src="2001 07 Laos/0082 Paksong/2001-06-05_1027_31.8.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0082 Paksong/2001-06-05_1029_31.6.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0082 Paksong/2001-06-05_1030_31.5.jpg" title="-"  >}}
-</DIV>
+
 

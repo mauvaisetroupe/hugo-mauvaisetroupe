@@ -87,7 +87,7 @@ MAis tout cela se paye, ...50 dollars. Autour de Buenos Aires, c'est la pampa,
 avec de grandes étendues avec des vaches partout, on est au pays de la viande.
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-08_2358_69.33.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-08_2358_69.33.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-08_2360_69.31.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-08_2361_69.30.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-08_2362_69.29.jpg" title="-"  >}}
@@ -110,5 +110,5 @@ avec de grandes étendues avec des vaches partout, on est au pays de la viande.
 {{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-09_2388_69.3.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-09_2390_69.1.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0158 Buenos Aires/2001-09-09_2391_70.36.jpg" title="-"  >}}
-</DIV>
+
 

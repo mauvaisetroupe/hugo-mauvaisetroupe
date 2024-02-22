@@ -28,7 +28,7 @@ A COMPLETER
 &nbsp; 
 
 
-<div id="TOTO">{{< figurepage src="2001 03 Nepal/0045 Bhaktapur/2001-04-21_0621_20.17.jpg" title="-"  >}}
+{{< figurepage src="2001 03 Nepal/0045 Bhaktapur/2001-04-21_0621_20.17.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0045 Bhaktapur/2001-04-21_0622_20.16.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0045 Bhaktapur/2001-04-21_0626_20.12.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0045 Bhaktapur/2001-04-21_0630_20.8.jpg" title="Jeux sur la montée des marches"  >}}
@@ -48,5 +48,5 @@ A COMPLETER
 {{< figurepage src="2001 03 Nepal/0046 Kathmandou/2001-04-22_0649_21.25.jpg" title="Je serais mieux ailleurs..."  >}}
 {{< figurepage src="2001 03 Nepal/0047 Bhaktapur/2001-04-24_0651_21.23.jpg" title="Potiers"  >}}
 {{< figurepage src="2001 03 Nepal/0047 Bhaktapur/2001-04-24_0652_21.22.jpg" title="La place des potiers"  >}}
-</DIV>
+
 

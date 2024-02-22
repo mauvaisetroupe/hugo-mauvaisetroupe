@@ -49,7 +49,7 @@ lorsque les barques des pêcheurs commencent à agiter leurs lampes pièges à p
 au loin.
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1482_44.9.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1482_44.9.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1483_44.8.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1485_44.6.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1487_44.4.jpg" title="-"  >}}
@@ -66,5 +66,5 @@ au loin.
 {{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1506_45.21.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1509_45.18.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0103 My Son/2001-07-05_1512_45.15.jpg" title="-"  >}}
-</DIV>
+
 

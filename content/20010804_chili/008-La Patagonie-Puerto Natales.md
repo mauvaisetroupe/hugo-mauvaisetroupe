@@ -49,12 +49,12 @@ nous. Comme à la maison, en plus, à l'apéro il y a du chorizo, du fromage et
 un petit vin rouge.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-24_2102_61.1.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-24_2102_61.1.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-24_2106_62.33.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-24_2109_62.30.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-25_2121_62.18.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0147 El Magallanes/2001-08-25_2123_62.16.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0148 Puerto Natales/2001-08-25_2131_62.8.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0148 Puerto Natales/2001-08-25_2133_62.6.jpg" title="-"  >}}
-</DIV>
+
 

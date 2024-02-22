@@ -133,7 +133,7 @@ une sortie, resté coincé par la pluie sous le porche de la poste, rentré en
 courant, une bonne sousoupe et au lit!
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1182_36.33.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1182_36.33.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1183_36.32.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1185_36.30.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1186_36.29.jpg" title="-"  >}}
@@ -148,5 +148,5 @@ courant, une bonne sousoupe et au lit!
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1216_37.35.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1217_37.34.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1219_37.32.jpg" title="-"  >}}
-</DIV>
+
 

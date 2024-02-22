@@ -94,7 +94,7 @@ excellent de sauter du haut du bateau et de faire un gros plouf! Le soir, on
 est rétamé et en plus, Lionel a mal aux fesses! 
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0096 Halong/2001-06-28_1377_41.6.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0096 Halong/2001-06-28_1377_41.6.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0096 Halong/2001-06-28_1381_41.2.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0096 Halong/2001-06-28_1387_42.32.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0096 Halong/2001-06-28_1389_42.30.jpg" title="-"  >}}
@@ -115,5 +115,5 @@ est rétamé et en plus, Lionel a mal aux fesses!
 {{< figurepage src="2001 08 Vietnam/0098 Halong/2001-06-30_1427_43.28.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0098 Halong/2001-06-30_1429_43.26.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0098 Halong/2001-06-30_1430_43.25.jpg" title="-"  >}}
-</DIV>
+
 

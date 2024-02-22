@@ -144,10 +144,10 @@ on a lâché nos deux derniers dinards au duty free pour s'acheter
 du chocolat!
 
 
-<div id="TOTO">{{< figurepage src="2001 01 Jordanie/0010 Amman/2001-02-16_0124_7A.19.jpg" title="-"  >}}
+{{< figurepage src="2001 01 Jordanie/0010 Amman/2001-02-16_0124_7A.19.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0010 Amman/2001-02-16_0125_7A.20.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0011 Azraq/2001-02-16_0126_7A.21.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0011 Azraq/2001-02-16_0127_7A.22.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0012 Amman/2001-02-17_0128_7A.23.jpg" title="-"  >}}
-</DIV>
+
 

@@ -112,7 +112,7 @@ la peau sensible et de refuser l'argile verte (qui sentait
 tout de même un peu la boue!) 
 
 
-<div id="TOTO">{{< figurepage src="2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0026_2.9.jpg" title="-"  >}}
+{{< figurepage src="2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0026_2.9.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0027_2.8.jpg" title="Marchand de tapis"  >}}
 {{< figurepage src="2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0036_2.2.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0004 Avant Kerak/2001-02-07_0041_3.22.jpg" title="Famille de bédouins, amis de Khaled, croisés sur la route"  >}}
@@ -125,5 +125,5 @@ tout de même un peu la boue!)
 {{< figurepage src="2001 01 Jordanie/0005 Mer Morte/2001-02-07_0063_4A.16.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0005 Mer Morte/2001-02-07_0066_4A.19.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0005 Mer Morte/2001-02-07_0067_4A.20.jpg" title="-"  >}}
-</DIV>
+
 

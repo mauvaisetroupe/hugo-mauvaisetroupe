@@ -52,8 +52,8 @@ traditionnels eux aussi. Très sympa et surprenant lorsqu'on se rend compte à
 la fin que les marionnettistes sont dans l'eau jusqu'à la taille! 
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0092 Hanoi/2001-06-24_1289_39.22.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0092 Hanoi/2001-06-24_1289_39.22.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0092 Hanoi/2001-06-24_1290_39.21.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0092 Hanoi/2001-06-24_1291_39.20.jpg" title="-"  >}}
-</DIV>
+
 

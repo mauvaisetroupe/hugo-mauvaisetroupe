@@ -22,7 +22,7 @@ doigt au pouce...
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-07_1057_32.14.jpg" title="-"  >}}
+{{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-07_1057_32.14.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-07_1059_32.12.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-08_1061_32.10.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-08_1062_32.9.jpg" title="-"  >}}
@@ -30,5 +30,5 @@ doigt au pouce...
 {{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-08_1066_32.5.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-08_1067_32.4.jpg" title="-"  >}}
 {{< figurepage src="2001 07 Laos/0085 Vientiane/2001-06-08_1069_32.2.jpg" title="-"  >}}
-</DIV>
+
 

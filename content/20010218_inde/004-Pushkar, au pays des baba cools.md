@@ -88,12 +88,12 @@ c'est le fruit du délire humain et de sa cupidité. A suivre pour le maïs tran
 et le clonage débile. 
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-24_0205_8.4.jpg" title="Ablutions du matin sur le lac"  >}}
+{{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-24_0205_8.4.jpg" title="Ablutions du matin sur le lac"  >}}
 {{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-24_0206_8.3.jpg" title="Nos orteils font bronzette pour éviter tout malentendu, les traces 'sales', c'est le bronzage sandales!"  >}}
 {{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-24_0207_8.2.jpg" title="Ghat vu de notre hôtel-palais. Au fond, monastère où nous sommes montés avec nos petits pieds!"  >}}
 {{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-24_0208_10A.2.jpg" title="Une rue un peu atypique de Pushkar. Les autres sont remplies de boutiques de fringues pour baba cools et de petits restos. Ici, c'est la rue des restos indiens."  >}}
 {{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-25_0209_8.1.jpg" title="Indienne ramassant du bois avec sa chèvre"  >}}
 {{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-25_0210_9.36.jpg" title="Montée au monastère sous un soleil torride!"  >}}
 {{< figurepage src="2001 02 Inde/0016 Pushkar/2001-02-26_0211_9.35.jpg" title="Sur les ghats le matin: ablutions, toilette, lessive"  >}}
-</DIV>
+
 

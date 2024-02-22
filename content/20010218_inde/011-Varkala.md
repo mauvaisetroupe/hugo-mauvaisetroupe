@@ -63,10 +63,10 @@ a l'eau... " C'est mon jour... La salière vient d'exploser dans mon assiette...
 Plutôt salé mon plat ce soir! "
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0023 Varkala/2001-03-14_0340_12.14.jpg" title="-"  >}}
+{{< figurepage src="2001 02 Inde/0023 Varkala/2001-03-14_0340_12.14.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0023 Varkala/2001-03-14_0341_12.13.jpg" title="Falaise rouge de Varkala"  >}}
 {{< figurepage src="2001 02 Inde/0023 Varkala/2001-03-14_0342_14A.3.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0023 Varkala/2001-03-14_0346_14A.6.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0023 Varkala/2001-03-14_0343_12.12.jpg" title="Chez le coiffeur perché sur un fauteil de barbier (il n'est pas très grand le coiffeur....)"  >}}
-</DIV>
+
 

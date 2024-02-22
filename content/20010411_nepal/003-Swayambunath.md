@@ -51,7 +51,7 @@ il a fallu gravir une montagne (encore!) des graviers pour atteindre la porte
 &nbsp; 
 
 
-<div id="TOTO">{{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0589_19.14.jpg" title="Fossé sur la route... ça pousse comme des orties !!!"  >}}
+{{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0589_19.14.jpg" title="Fossé sur la route... ça pousse comme des orties !!!"  >}}
 {{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0592_19.11.jpg" title="Marches menant au temple"  >}}
 {{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0593_19.10.jpg" title="'Chapeau' de la stuppa... immense"  >}}
 {{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0594_19.9.jpg" title="Pélerins en tenue traditionnelle faisant tourner les moulins à prières"  >}}
@@ -61,5 +61,5 @@ il a fallu gravir une montagne (encore!) des graviers pour atteindre la porte
 {{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0598_19.5.jpg" title="Mone en baskets"  >}}
 {{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0599_19.4.jpg" title="-"  >}}
 {{< figurepage src="2001 03 Nepal/0041 Swayambunath/2001-04-17_0600_19.3.jpg" title="-"  >}}
-</DIV>
+
 

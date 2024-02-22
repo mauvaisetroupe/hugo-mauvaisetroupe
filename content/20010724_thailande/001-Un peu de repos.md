@@ -53,7 +53,7 @@ Jérémy et Violette. Qu'est-ce qu'on était bien ici. On a presque du mal à re
 Mais il reste tant à découvrir. 
 
 
-<div id="TOTO">{{< figurepage src="2001 10 Thailande/0132 Aranyaprathet/2001-07-24_1836_54.15.jpg" title="-"  >}}
+{{< figurepage src="2001 10 Thailande/0132 Aranyaprathet/2001-07-24_1836_54.15.jpg" title="-"  >}}
 {{< figurepage src="2001 10 Thailande/0132 Aranyaprathet/2001-07-24_1837_54.14.jpg" title="-"  >}}
 {{< figurepage src="2001 10 Thailande/0133 Bangkok/2001-07-27_1838_54.13.jpg" title="-"  >}}
 {{< figurepage src="2001 10 Thailande/0133 Bangkok/2001-07-27_1839_54.12.jpg" title="-"  >}}
@@ -67,5 +67,5 @@ Mais il reste tant à découvrir.
 {{< figurepage src="2001 10 Thailande/0133 Bangkok/2001-07-30_1850_54.1.jpg" title="-"  >}}
 {{< figurepage src="2001 10 Thailande/0133 Bangkok/2001-07-31_1851_55.36.jpg" title="-"  >}}
 {{< figurepage src="2001 10 Thailande/0133 Bangkok/2001-07-31_1854_55.33.jpg" title="-"  >}}
-</DIV>
+
 

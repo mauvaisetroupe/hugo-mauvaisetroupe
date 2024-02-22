@@ -101,7 +101,7 @@ droit de faire le menu. "Et avec ça ma ptite dame?" Une entrecôte de boeuf,
 on est au pays du meilleur steack du monde oui ou non?
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2251_66.33.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2251_66.33.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2260_66.24.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2262_66.22.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2263_66.21.jpg" title="-"  >}}
@@ -112,5 +112,5 @@ on est au pays du meilleur steack du monde oui ou non?
 {{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2285_67.34.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2289_67.30.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0155 Perito Moreno/2001-09-03_2291_67.28.jpg" title="-"  >}}
-</DIV>
+
 

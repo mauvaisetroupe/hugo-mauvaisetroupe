@@ -62,7 +62,7 @@ finit ses études pour devenir avocat, spécialiste du droit des entreprises.
 Il en connaît du monde ce Jéjé... 
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-08_2806_81.17.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-08_2806_81.17.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-09_2807_81.16.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-09_2808_81.15.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-09_2809_81.14.jpg" title="-"  >}}
@@ -71,5 +71,5 @@ Il en connaît du monde ce Jéjé...
 {{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-09_2815_81.8.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-09_2816_81.7.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0180 La Paz/2001-10-09_2817_81.6.jpg" title="-"  >}}
-</DIV>
+
 

@@ -75,7 +75,7 @@ où volent les lucioles. On se couche sous NOTRE toit de chaume pour écouter
 le concert de la nuit. Les grenouilles, les oiseaux et tous les insectes.
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-22_2932_85.35.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-22_2932_85.35.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-22_2934_85.33.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-22_2939_85.28.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-22_2942_85.25.jpg" title="-"  >}}
@@ -92,5 +92,5 @@ le concert de la nuit. Les grenouilles, les oiseaux et tous les insectes.
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-23_2965_85.2.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-23_2966_85.1.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0194 Rurrenabaque/2001-10-24_2996_86.7.jpg" title="-"  >}}
-</DIV>
+
 

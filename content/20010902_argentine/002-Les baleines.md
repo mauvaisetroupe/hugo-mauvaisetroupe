@@ -103,7 +103,7 @@ cassette qu'ils passent est minable et le chauffeur aimable comme une porte
 de prison. 
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2296_67.23.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2296_67.23.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2297_67.22.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2299_67.20.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2301_67.18.jpg" title="-"  >}}
@@ -117,5 +117,5 @@ de prison.
 {{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2342_68.13.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2347_68.8.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0157 Puerto Madryn/2001-09-06_2352_68.3.jpg" title="-"  >}}
-</DIV>
+
 

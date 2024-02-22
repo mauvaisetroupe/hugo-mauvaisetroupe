@@ -36,7 +36,7 @@ de le louper, il est énorme. Il faudra y retourner demain.
 &nbsp; 
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0075 Chonnabot/2001-05-30_0964_30.35.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0075 Chonnabot/2001-05-30_0964_30.35.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0075 Chonnabot/2001-05-30_0965_30.34.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0075 Chonnabot/2001-05-30_0966_30.33.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0075 Chonnabot/2001-05-30_0967_30.32.jpg" title="-"  >}}
@@ -54,5 +54,5 @@ de le louper, il est énorme. Il faudra y retourner demain.
 {{< figurepage src="2001 06 Thailande/0076 Khon Kaen/2001-05-30_0980_30.19.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0076 Khon Kaen/2001-05-30_0982_30.17.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0076 Khon Kaen/2001-05-30_0984_30.15.jpg" title="-"  >}}
-</DIV>
+
 

@@ -64,11 +64,11 @@ finie? Comprends pas, pas vu passer! 8H00, on part à travers le superbe aéropo
 chercher notre avion pour Bangkok.
 
 
-<div id="TOTO">{{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-02_0714_23.32.jpg" title="-"  >}}
+{{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-02_0714_23.32.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-02_0715_23.31.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-03_0717_23.29.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-03_0718_23.28.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-03_0719_23.27.jpg" title="-"  >}}
 {{< figurepage src="2001 04 Inde/0050 Calcutta/2001-05-03_0721_23.25.jpg" title="-"  >}}
-</DIV>
+
 

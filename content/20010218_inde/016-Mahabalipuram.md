@@ -100,9 +100,9 @@ je le comprends tout à fait, mais ce n'est pas une raison pour acheter 10 fois
 la même chose, même si c'est à 10 vendeurs différents.
 
 
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0032 Mahabalipuram/2001-03-26_0445_14A.22.jpg" title="Lessive chez Frida et Emilie"  >}}
+{{< figurepage src="2001 02 Inde/0032 Mahabalipuram/2001-03-26_0445_14A.22.jpg" title="Lessive chez Frida et Emilie"  >}}
 {{< figurepage src="2001 02 Inde/0032 Mahabalipuram/2001-03-26_0450_14A.27.jpg" title="Photo posée (mais pas pour nous)"  >}}
 {{< figurepage src="2001 02 Inde/0032 Mahabalipuram/2001-03-26_0452_14A.29.jpg" title="Lionel et le petit 'guide'"  >}}
 {{< figurepage src="2001 02 Inde/0032 Mahabalipuram/2001-03-26_0456_14A.33.jpg" title="L'homme qui valait des milliards... Septs éléphants attelés par un anglais n'ont pas pu la faire tomber..."  >}}
-</DIV>
+
 

@@ -91,10 +91,10 @@ retrouver les indiens (nettoyeurs d'oreils compris) même s'ils sont toujours
 aussi exaspérants et mauvais en orientation. 
 
 
-
-<div id="TOTO">{{< figurepage src="2001 02 Inde/0013 Delhi/2001-02-18_0129_7A.24.jpg" title="Bus De Luxe avec ventilo.... premier transport indien. Mais pas le dernier..."  >}}
+LLLLLLLLLLLLLLLLLL
+{{< figure src="2001 02 Inde/0013 Delhi/2001-02-18_0129_7A.24.jpg" title="Bus De Luxe avec ventilo.... premier transport indien. Mais pas le dernier..."  >}}
 {{< figurepage src="2001 02 Inde/0013 Delhi/2001-02-19_0130_7A.25.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0013 Delhi/2001-02-19_0131_7A.26.jpg" title="-"  >}}
 {{< figurepage src="2001 02 Inde/0013 Delhi/2001-02-19_0132_7A.27.jpg" title="-"  >}}
-</DIV>
+
 

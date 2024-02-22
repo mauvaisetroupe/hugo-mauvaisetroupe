@@ -109,7 +109,7 @@ leur hamac, la musique rythme le tout par dessus le terrible bruit du moteur.
 Ce soir, on se couche tôt, tant d'activités, ça use... 
 
 
-<div id="TOTO">{{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-28_3075_89.36.jpg" title="-"  >}}
+{{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-28_3075_89.36.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-28_3076_89.35.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-28_3079_89.32.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-28_3082_89.29.jpg" title="-"  >}}
@@ -123,5 +123,5 @@ Ce soir, on se couche tôt, tant d'activités, ça use...
 {{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-31_3100_89.11.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-31_3101_89.10.jpg" title="-"  >}}
 {{< figurepage src="2001 15 Bresil/0198 Portho Belho - Manaus/2001-10-31_3103_89.8.jpg" title="-"  >}}
-</DIV>
+
 

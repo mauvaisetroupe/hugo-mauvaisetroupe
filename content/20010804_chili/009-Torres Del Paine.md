@@ -68,7 +68,7 @@ on arrive à 23h30 chez Alexandro. Trop tard pour le resto, on cuisine donc.
 Purée steack précédés d'un bon apéro, on en a tous les 4 bien besoin.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-26_2136_62.3.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-26_2136_62.3.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-26_2138_62.1.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-26_2143_63.32.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-26_2148_63.27.jpg" title="-"  >}}
@@ -83,5 +83,5 @@ Purée steack précédés d'un bon apéro, on en a tous les 4 bien besoin.
 {{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-27_2169_63.6.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-27_2171_63.4.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0149 Torres del Paine/2001-08-27_2172_63.3.jpg" title="-"  >}}
-</DIV>
+
 

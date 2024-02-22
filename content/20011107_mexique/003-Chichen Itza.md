@@ -91,7 +91,7 @@ Ca fait maintenant dix mois que l'on mange au resto, alors pour marquer le coup,
 ce soir on reste tranquille tous les deux... Santé!
 
 
-<div id="TOTO">{{< figurepage src="2001 16 Mexique/0203 Chichen Itza/2001-11-12_3161_90.13.jpg" title="-"  >}}
+{{< figurepage src="2001 16 Mexique/0203 Chichen Itza/2001-11-12_3161_90.13.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0203 Chichen Itza/2001-11-12_3163_90.11.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0203 Chichen Itza/2001-11-12_3166_90.8.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0203 Chichen Itza/2001-11-12_3167_90.7.jpg" title="-"  >}}
@@ -105,5 +105,5 @@ ce soir on reste tranquille tous les deux... Santé!
 {{< figurepage src="2001 16 Mexique/0204 Merida/2001-11-13_3180_92.30.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0204 Merida/2001-11-13_3181_92.29.jpg" title="-"  >}}
 {{< figurepage src="2001 16 Mexique/0204 Merida/2001-11-13_3182_92.28.jpg" title="-"  >}}
-</DIV>
+
 

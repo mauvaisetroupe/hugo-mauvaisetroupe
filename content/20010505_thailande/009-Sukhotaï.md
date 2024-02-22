@@ -43,12 +43,12 @@ Nous irons dîner au marché de nuit vachement sympa avec ses loupiotes partout
 et très animé. 
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0923_28.4.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0923_28.4.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0924_28.3.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0926_28.1.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0927_29.36.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0929_29.34.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0930_29.33.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0071 Sukhotai/2001-05-24_0931_29.32.jpg" title="-"  >}}
-</DIV>
+
 

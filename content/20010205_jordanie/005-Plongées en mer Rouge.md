@@ -39,11 +39,11 @@ Eau à 22 degrès, sandwich aux falafels et coca pour se remettre
 entre les plongées. Top cool! 
 
 
-<div id="TOTO">{{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0072_5.24.jpg" title="Murène"  >}}
+{{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0072_5.24.jpg" title="Murène"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0073_5.23.jpg" title="Anémone et son poisson clown"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0074_5.22.jpg" title="Picasso"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0075_5.21.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-09_0076_5.20.jpg" title="-"  >}}
 {{< figurepage src="2001 01 Jordanie/0007 Aquaba/2001-02-11_0086_7A.2.jpg" title="-"  >}}
-</DIV>
+
 

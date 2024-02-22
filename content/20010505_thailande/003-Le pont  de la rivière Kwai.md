@@ -50,7 +50,7 @@ ce que les poissons commencent à manger mes pieds! Quand on ne voit pas le fond
 &nbsp;
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0060 Kanchanaburi/2001-05-11_0767_24.15.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0060 Kanchanaburi/2001-05-11_0767_24.15.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0060 Kanchanaburi/2001-05-11_0768_24.14.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0060 Kanchanaburi/2001-05-11_0770_24.12.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0061 Erawan/2001-05-12_0772_24.10.jpg" title="-"  >}}
@@ -70,5 +70,5 @@ ce que les poissons commencent à manger mes pieds! Quand on ne voit pas le fond
 {{< figurepage src="2001 06 Thailande/0063 Kanchanaburi/2001-05-13_0803_25.15.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0063 Kanchanaburi/2001-05-13_0806_25.12.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0063 Kanchanaburi/2001-05-13_0807_25.11.jpg" title="-"  >}}
-</DIV>
+
 

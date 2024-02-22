@@ -112,7 +112,7 @@ Cochon de lait-purée au déjeuner, poulet rôti-légumes en salade au dîner po
 moi. Je varie les plaisirs. Lionel s'est abonné, poulet-frites à tous les repas.
 
 
-<div id="TOTO">{{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-04_1955_57.4.jpg" title="-"  >}}
+{{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-04_1955_57.4.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-04_1956_57.3.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-04_1957_57.2.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-04_1959_58.36.jpg" title="-"  >}}
@@ -126,5 +126,5 @@ moi. Je varie les plaisirs. Lionel s'est abonné, poulet-frites à tous les repa
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-05_1974_58.21.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-05_1975_58.20.jpg" title="-"  >}}
 {{< figurepage src="2001 12 Chili/0135 Santiago/2001-08-05_1976_58.19.jpg" title="-"  >}}
-</DIV>
+
 

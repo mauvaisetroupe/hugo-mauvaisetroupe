@@ -117,7 +117,7 @@ que c'est une ville fatigante et qui rend sourd. On a les oreilles bouchées
 partout, même des bras, des chevilles, des oreilles! Fait chaud...
 
 
-<div id="TOTO">{{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-16_1156_35.23.jpg" title="-"  >}}
+{{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-16_1156_35.23.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-16_1158_35.21.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-16_1160_35.19.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-16_1162_35.17.jpg" title="-"  >}}
@@ -137,5 +137,5 @@ partout, même des bras, des chevilles, des oreilles! Fait chaud...
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1210_36.5.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1211_36.4.jpg" title="-"  >}}
 {{< figurepage src="2001 08 Vietnam/0090 Hanoi/2001-06-17_1214_36.1.jpg" title="-"  >}}
-</DIV>
+
 

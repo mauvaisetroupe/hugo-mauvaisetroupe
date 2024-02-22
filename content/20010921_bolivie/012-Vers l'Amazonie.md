@@ -136,7 +136,7 @@ A 3H30 du matin, c'est dans la bonne humeur qu'on réveille un hôtelier charman
 Une bonne douche et bonne nuit!
 
 
-<div id="TOTO">{{< figurepage src="2001 14 Bolivie/0191 Santa cruz/2001-10-20_2913_84.18.jpg" title="-"  >}}
+{{< figurepage src="2001 14 Bolivie/0191 Santa cruz/2001-10-20_2913_84.18.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0192 Trinidad/2001-10-21_2914_84.17.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0192 Trinidad/2001-10-21_2916_84.15.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0192 Trinidad/2001-10-21_2918_84.13.jpg" title="-"  >}}
@@ -145,5 +145,5 @@ Une bonne douche et bonne nuit!
 {{< figurepage src="2001 14 Bolivie/0193 Trinidad - Rurrenabaque/2001-10-21_2924_84.7.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0193 Trinidad - Rurrenabaque/2001-10-21_2925_84.6.jpg" title="-"  >}}
 {{< figurepage src="2001 14 Bolivie/0193 Trinidad - Rurrenabaque/2001-10-21_2926_84.5.jpg" title="-"  >}}
-</DIV>
+
 

@@ -73,7 +73,7 @@ Retour en stop dans un pick-up couvert ET climatisé! Trop cool. Puis retour
 sur Bangkok dans les embouteillages des jours fériés...
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0052 Bangkok/2001-05-05_0725_23.21.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0052 Bangkok/2001-05-05_0725_23.21.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0053 Pak Chong (vers)/2001-05-06_0727_23.19.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0053 Pak Chong (vers)/2001-05-06_0729_23.17.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0053 Pak Chong (vers)/2001-05-06_0730_23.16.jpg" title="-"  >}}
@@ -83,5 +83,5 @@ sur Bangkok dans les embouteillages des jours fériés...
 {{< figurepage src="2001 06 Thailande/0056 Pak Chong/2001-05-07_0741_23.5.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0056 Pak Chong/2001-05-07_0743_23.3.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0056 Pak Chong/2001-05-07_0744_23.2.jpg" title="-"  >}}
-</DIV>
+
 

@@ -69,7 +69,7 @@ très développés, dans ce quartier on voit peu de véhicules motorisés mais b
 de vélos et de piétons. C'est une ambiance presque feutrée.
 
 
-<div id="TOTO">{{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-01_1857_55.30.jpg" title="-"  >}}
+{{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-01_1857_55.30.jpg" title="-"  >}}
 {{< figurepage src="2001 11 Japon/0134 Tokyo/2001-08-01_1858_55.29.jpg" title="-"  >}}
-</DIV>
+
 

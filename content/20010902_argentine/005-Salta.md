@@ -108,7 +108,7 @@ Salta est une ville plutôt agréable. On a lu dans notre guide qu'elle était
 la plus belle ville d'Argentine. Ah bon. 
 
 
-<div id="TOTO">{{< figurepage src="2001 13 Argentine/0160 Campo Quijano/2001-09-16_2458_71.5.jpg" title="-"  >}}
+{{< figurepage src="2001 13 Argentine/0160 Campo Quijano/2001-09-16_2458_71.5.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0160 Campo Quijano/2001-09-16_2460_71.3.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0160 Campo Quijano/2001-09-16_2461_71.2.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0160 Campo Quijano/2001-09-16_2462_71.1.jpg" title="-"  >}}
@@ -124,5 +124,5 @@ la plus belle ville d'Argentine. Ah bon.
 {{< figurepage src="2001 13 Argentine/0160 Campo Quijano/2001-09-16_2478_72.21.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0161 Salta/2001-09-17_2480_72.19.jpg" title="-"  >}}
 {{< figurepage src="2001 13 Argentine/0161 Salta/2001-09-17_2481_72.18.jpg" title="-"  >}}
-</DIV>
+
 

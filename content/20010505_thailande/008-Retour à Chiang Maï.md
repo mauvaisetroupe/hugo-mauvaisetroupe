@@ -80,11 +80,11 @@ de route plus tard, on débarque affamés à Sukhotaï, une ancienne capitale du
 Siam.
 
 
-<div id="TOTO">{{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-22_0916_28.11.jpg" title="-"  >}}
+{{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-22_0916_28.11.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-23_0918_28.9.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-23_0919_28.8.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-23_0920_28.7.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-23_0921_28.6.jpg" title="-"  >}}
 {{< figurepage src="2001 06 Thailande/0070 Chang Mai/2001-05-23_0922_28.5.jpg" title="-"  >}}
-</DIV>
+
 

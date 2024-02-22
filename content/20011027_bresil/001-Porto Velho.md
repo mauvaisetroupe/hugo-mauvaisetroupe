@@ -86,6 +86,6 @@ dans la cabine, on ne va pas mourir de chaud. C'est chouette de dormir dans
 un lit.
 
 
-<div id="TOTO">{{< figurepage src="2001 15 Bresil/0197 Gujanamerin/2001-10-27_3074_88.1.jpg" title="-"  >}}
-</DIV>
+{{< figurepage src="2001 15 Bresil/0197 Gujanamerin/2001-10-27_3074_88.1.jpg" title="-"  >}}
+
 
