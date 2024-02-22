@@ -3,9 +3,9 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
 {{ with .Site.Params.contact }}<meta name="contact" content="{{ . }}">{{ end }}
-{{ .Hugo.Generator }}
+{{ hugo.Generator }}
 
-{{ with .RSSLink }}<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ . }}">{{ end }}
+{{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ . }}">{{ end }}
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.png" type="image/png">
