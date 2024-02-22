@@ -19,20 +19,20 @@ Je me demande où nous serions si on était parti ce matin à la même heure (8h
 
 17h55, on embarque. Destination Dakar ! On survole le Sahara, c'est vraiment superbe. Et immense. 
 
-{{< picture-folder folder="images\20120404_senegal\01-depart-dakar\seq2"  >}}
+{{< picture-folder folder="images/20120404_senegal/01-depart-dakar/seq2"  >}}
 
 Titi (Hippolyte) est ravi de cet avion et essaie tout : manger, boire, dormir, appeler le steward à peu près 200 fois, aller chercher des verres d'eau pour tout le monde, etc, etc... Tout l'enchante. Il mange de bon appétit et teste tout, y compris le poivre.
 
-{{< picture-folder folder="images\20120404_senegal\01-depart-dakar\seq1"  >}}
+{{< picture-folder folder="images/20120404_senegal/01-depart-dakar/seq1"  >}}
 
 
 On arrive à Dakar à 23h00. On se dépêche pour ne pas avoir à trop faire la queue à la douane. De tout façon, on aurait doublé tout le monde : on nous ouvre un bureau spécial pour les familles avec enfants ! Comme le dit Malo "pour une fois que c'est pratique d'avoir des enfants..." L'officier présent dans sa guérite fait précautionneusement son travail. Il remplit le second volet des papiers d'immigration remplis par nos soins dans l'avion. Il nous rend les papiers. On passe la douane. On marche 10 mètres, un gars affalé sur une chaise nous les demande à nouveau. il les compte : 1, 2, 3, 4, et 5, le compte est bon, on peut passer. Dehors, un taxi nous attend, envoyé par notre hôtel, le "Keur Mithiou". Une pancarte avec mon prénom (Lionel) !
 
-{{< picture-folder folder="images\20120404_senegal\01-depart-dakar\seq3"  >}}
+{{< picture-folder folder="images/20120404_senegal/01-depart-dakar/seq3"  >}}
 
 Quelques minutes plus tard, nous sommes dans notre grande chambre et ses cinq lits. Le tout pour 24 000 francs CFA par nuit (soit 36,55 euros)... La seule ombre au tableau : pas d'eau dans la salle de bain privative, ni dans les toilettes... On verra demain.
 
-{{< picture-folder folder="images\20120404_senegal\01-depart-dakar\seq4"  >}}
+{{< picture-folder folder="images/20120404_senegal/01-depart-dakar/seq4"  >}}
 
 
 {{< nextpost>}}

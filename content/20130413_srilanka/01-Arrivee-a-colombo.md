@@ -19,7 +19,7 @@ On a 1h pour changer de terminal. Non, finalement 2h, l'avion de Colombo (capita
 Les enfants jouent dans la grande fusée faite pour eux. Bien pratique.
 Les enfants sont épatés de voir tant d'avions.
 
-{{< picture-folder folder="images\20130413_srilanka\01-Arrivee-a-colombo\seq1" >}}
+{{< picture-folder folder="images/20130413_srilanka/01-Arrivee-a-colombo/seq1" >}}
 
 
 
@@ -36,7 +36,7 @@ Les hôtesses, très attentionnée, proposent aux enfants de manger une heure av
 - Fish ou Chicken? Poulet! 
 La tronche de cerises quand elle goûte le plat! C'est super épicé mais délicieux (riz, dalh,poulet curry). Ca promet pour le voyage!!! 
 
-{{< picture-folder folder="images\20130413_srilanka\01-Arrivee-a-colombo\seq2" >}}
+{{< picture-folder folder="images/20130413_srilanka/01-Arrivee-a-colombo/seq2" >}}
 
 Le vol dure 10 heures. On dort comme on peut.
 
@@ -51,19 +51,19 @@ On atterrit vers 11H00, heure locale en France. Il est 7h30. L'aéroport est gra
 
 Un monsieur aux traits sympas nous attend et nous guide vers un taxi. On a réservé une guest-house sur internet : le Silversands à Negombo.
 
-{{< picture-folder folder="images\20130413_srilanka\01-Arrivee-a-colombo\seq3.1" >}}
+{{< picture-folder folder="images/20130413_srilanka/01-Arrivee-a-colombo/seq3.1" >}}
 
 Il fait beau, il fait très chaud, 32 ou 34 degrés. La plage est déserte, immense et plutôt propre. Marion et les enfants s'éclatent dans les vagues. Je m'endors un peu sur le sable. Le soleil est moins chaud, il est quelque chose comme 16H00. 
 
-{{< picture-folder folder="images\20130413_srilanka\01-Arrivee-a-colombo\seq3.2" >}}
+{{< picture-folder folder="images/20130413_srilanka/01-Arrivee-a-colombo/seq3.2" >}}
 
 Avant d'aller à la plage et malgré l'impatience des enfants, on a mangé à un petit resto, juste la porte à côté de l'hôtel. Toasts au jambon fromage tomates, frites, fried noodles. 2000 roupies pour 5. 
 
-{{< picture-folder folder="images\20130413_srilanka\01-Arrivee-a-colombo\seq4" >}}
+{{< picture-folder folder="images/20130413_srilanka/01-Arrivee-a-colombo/seq4" >}}
 
 Le soir, repas à l'hôtel : une pâte bolognaise (bof bof la viande "hachée"), curry végétarien. 
 
 Il ne nous en faut pas plus. A 8H00, tout le monde dort. Marion la première.
 
-{{< picture-folder folder="images\20130413_srilanka\01-Arrivee-a-colombo\seq5" >}}
+{{< picture-folder folder="images/20130413_srilanka/01-Arrivee-a-colombo/seq5" >}}
 

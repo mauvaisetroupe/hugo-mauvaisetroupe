@@ -26,7 +26,7 @@ Il pleut. Je ne sais pas si c'est la saison des pluies qui s'installe, ou juste 
 
 On pose nos affaires au Hanoi Culture Hostel. Il est 23:00. Un repas sur les petites chaises en plastique dans la rue face à l'hôtel. On ne reçoit pas vraiment ce qu'on pensait avoir commandé, et tour n'est pas fameux. Les aléas du voyage. Mais ça a le mérite d'être encore ouvert à une heure tardive pour les vietnamiens et d'être à quelques pas.
 
-{{< picture-folder folder="images\20180627_vietnam\14-Retour à Hanoi\seq1">}}
+{{< picture-folder folder="images/20180627_vietnam/14-Retour à Hanoi/seq1">}}
 
 
 ## Jeudi 19 juillet Hanoi
@@ -57,4 +57,4 @@ Retour vers l'hôtel, sous la pluie. Ça finit par saouler un peu.
 
 {{< nextpost>}}
 
-{{< picture-folder folder="images\20180627_vietnam\14-Retour à Hanoi\seq2">}}
+{{< picture-folder folder="images/20180627_vietnam/14-Retour à Hanoi/seq2">}}

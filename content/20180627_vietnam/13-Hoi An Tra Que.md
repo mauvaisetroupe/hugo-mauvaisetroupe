@@ -19,7 +19,7 @@ Resto grec. Le souvlaki, pas loin de la plage. Grosses pitas grasses à souhait.
 
 Ce soir c'est finale de coupe du monde. 
 
-{{< picture-folder folder="images\20180627_vietnam\13-Hoi An Tra Que\seq1">}}
+{{< picture-folder folder="images/20180627_vietnam/13-Hoi An Tra Que/seq1">}}
 
 
 ## Lundi 16 juillet Tra Que, temple et piscine
@@ -38,7 +38,7 @@ Il est plus de 16h. Retour à l'hôtel, piscine
 
 Resto à deux pas de l'hôtel. Moyen pour le prix. Mais le gars qui tient ça avec sa femme est sympa ! (Resto 339)
 
-{{< picture-grid folder="images\20180627_vietnam\13-Hoi An Tra Que\seq2">}}
+{{< picture-grid folder="images/20180627_vietnam/13-Hoi An Tra Que/seq2">}}
 
 ## Mardi 17 juillet Train Que, photographie et piscine
 
@@ -56,5 +56,5 @@ La pluie comme tous les jours, finit par tomber. Elle sera un peu plus insistant
 
 {{< nextpost>}}
 
-{{< picture-folder folder="images\20180627_vietnam\13-Hoi An Tra Que\seq3">}}
+{{< picture-folder folder="images/20180627_vietnam/13-Hoi An Tra Que/seq3">}}
 

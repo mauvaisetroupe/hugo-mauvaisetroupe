@@ -17,7 +17,7 @@ thumbnail="header/20130413_srilanka/2013-04-20_12-43-43-DSC00879.JPG"
 On se lève à 8h30 aujourd'hui, on déménage! Direction la main road et on attend le bus pour Matara. On ne s'y arrêtera pas. les baleines sont encore là, mais pour les voir, il faut 6 heures de balade en mer. Vu la patience des enfants, on décide de zapper. Ils attendent d'être plus grands pour découvrir les baleines. 
 
 
-{{< picture-folder folder="images\20130413_srilanka\06-De Unawatuna a Embilipitiya\seq1">}}
+{{< picture-folder folder="images/20130413_srilanka/06-De Unawatuna a Embilipitiya/seq1">}}
 
 Ce qui est bien, c'est que les gens ayant peu de véhicules particuliers, les transports en communs sont très développés. Nous n'attendons donc pas très longtemps pour avoir le bus, un peu plein, mais ça va, on s'en sort bien et nos sacs sont dans la soute (=> poussière!) 
 
@@ -30,12 +30,12 @@ Une demi heure plus tard, nous sommes prêts à partir, ça tombe bien, le bus s
 Encore une fois, il y a une soute pour nos deux gros sacs à dos, ils ressortiront gris de poussière, mais ils ne nous encombront pas. 
 
 
-{{< picture-folder folder="images\20130413_srilanka\06-De Unawatuna a Embilipitiya\seq2.1">}}
+{{< picture-folder folder="images/20130413_srilanka/06-De Unawatuna a Embilipitiya/seq2.1">}}
 
 
 Bus très chargé, nous sommes heureusement assis tous les cinq, mais cerise a des gens assis quasi sur sa tête de temps en temps...
 
-{{< picture-folder folder="images\20130413_srilanka\06-De Unawatuna a Embilipitiya\seq2.2">}}
+{{< picture-folder folder="images/20130413_srilanka/06-De Unawatuna a Embilipitiya/seq2.2">}}
 
 
 Tout le long de la route, il y a des micro épiceries. Forcément, il n'y a pas de super marché alors il y a plein de boutiques, des dizaines et des dizaines.
@@ -49,15 +49,15 @@ On arrive suant à *Embilipitiya* et on trouve le Sarath Chandra Guest House à 
 Ils nous proposent une grande chambre avec trois grands lits (120 ou 130 environ) et avec air climatisé! On n'a jamais eu ça! Et tout ça pour la modique somme de 4 000 roupies (environ 25) par personne! On est ravi!
 Douche générale, repos, puis petit tour en ville fort sympathique. Une vraie ville très vivante. 
 
-{{< picture-folder folder="images\20130413_srilanka\06-De Unawatuna a Embilipitiya\seq3.1">}}
+{{< picture-folder folder="images/20130413_srilanka/06-De Unawatuna a Embilipitiya/seq3.1">}}
 
 Et au grand bonheur des enfants, découverte des singes sur les toits de l'hôtel.
 
-{{< picture-folder folder="images\20130413_srilanka\06-De Unawatuna a Embilipitiya\seq3.2">}}
+{{< picture-folder folder="images/20130413_srilanka/06-De Unawatuna a Embilipitiya/seq3.2">}}
 
 On fait des provisions pour demain : petit déjeuner et pique nique. C'est que demain, on se lève à 5h pour aller voir les éléphants!
 
-{{< picture-folder folder="images\20130413_srilanka\06-De Unawatuna a Embilipitiya\seq4">}}
+{{< picture-folder folder="images/20130413_srilanka/06-De Unawatuna a Embilipitiya/seq4">}}
 
 
 On a arrangé ça avec l'hôtel ou plus exactement ils ont tout arrangé pour nous. Pour 3 850 roupies, notre jeep nous attendra à 5h30 avec le chauffeur et nous conduira dans le parc.
