@@ -3,7 +3,7 @@ title="Trekking à Sapa, deuxième jour"
 voyages = ["20180627_vietnam"]
 date = "2018-07-05"
 pays = ["Vietnam"]
-thumbnail="header/vietnam2018/005-2018-07-04_10-31-19_103118.jpg"
+thumbnail="header/vietnam2018/2018-07-04_11-34-23_00041.JPG"
 +++
 
 ## jeudi 5 juillet Trekking à Sapa, deuxième jour

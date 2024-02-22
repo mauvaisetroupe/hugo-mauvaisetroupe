@@ -1,3 +1,4 @@
+{{ $headline :=  print .Title  " - " .Site.Title }}
 <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -6,7 +7,7 @@
       "@type": "WebPage",
       "@id":"{{ .Site.BaseURL }}"
     },
-    "headline": "{{ .Title }} - {{ .Site.Title }}",
+    "headline": {{ $headline }},
     "image": {
       "@type": "ImageObject",
       "url": "{{ .Site.BaseURL }}{{ .Params.thumbnail | default "images/default.png" }}",
@@ -29,6 +30,6 @@
         "height": 60
       }
     },
-    "description": "{{ .Description | default .Summary }}"
+    "description": {{ .Description | default .Summary }}
   }
 </script>

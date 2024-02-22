@@ -1,0 +1,198 @@
+<!--
+
+
+
+1:[org.dom4j.tree.DefaultElement@15af049 [Element: <Picture attributes: [org.dom4j.tree.DefaultAttribute@196eed5 [Attribute: name id value "IMG_0917.JPG"], org.dom4j.tree.DefaultAttribute@af4627 [Attribute: name path value "C:\cuba\CF0008\DCIM\209CANON\IMG_0917.JPG"], org.dom4j.tree.DefaultAttribute@126aaca [Attribute: name rotation value "Défaut"], org.dom4j.tree.DefaultAttribute@f0691c [Attribute: name date value "31/03/2005 00:33:51"], org.dom4j.tree.DefaultAttribute@1d53f5b [Attribute: name eventDate value "30/03/2005"], org.dom4j.tree.DefaultAttribute@1423820 [Attribute: name place value ""], org.dom4j.tree.DefaultAttribute@1e91485 [Attribute: name town value "Viñales"], org.dom4j.tree.DefaultAttribute@184be29 [Attribute: name countryName value "Cuba"], org.dom4j.tree.DefaultAttribute@72fe25 [Attribute: name description value "Sur le toit-terrasse de notre casa"], org.dom4j.tree.DefaultAttribute@9ed5d6 [Attribute: name photohtml.filename value "IMG_0917.JPG.html"], org.dom4j.tree.DefaultAttribute@477b4e [Attribute: name photohtml.absolute.path value "D:\sites\marion.lionel\marion.lionel\voyages-test\pays\cuba\navigation\IMG_0917.JPG.html"]]/>]]
+
+2:[org.dom4j.tree.DefaultElement@15af049 [Element: <Picture attributes: [org.dom4j.tree.DefaultAttribute@196eed5 [Attribute: name id value "IMG_0917.JPG"], org.dom4j.tree.DefaultAttribute@af4627 [Attribute: name path value "C:\cuba\CF0008\DCIM\209CANON\IMG_0917.JPG"], org.dom4j.tree.DefaultAttribute@126aaca [Attribute: name rotation value "Défaut"], org.dom4j.tree.DefaultAttribute@f0691c [Attribute: name date value "31/03/2005 00:33:51"], org.dom4j.tree.DefaultAttribute@1d53f5b [Attribute: name eventDate value "30/03/2005"], org.dom4j.tree.DefaultAttribute@1423820 [Attribute: name place value ""], org.dom4j.tree.DefaultAttribute@1e91485 [Attribute: name town value "Viñales"], org.dom4j.tree.DefaultAttribute@184be29 [Attribute: name countryName value "Cuba"], org.dom4j.tree.DefaultAttribute@72fe25 [Attribute: name description value "Sur le toit-terrasse de notre casa"], org.dom4j.tree.DefaultAttribute@9ed5d6 [Attribute: name photohtml.filename value "IMG_0917.JPG.html"], org.dom4j.tree.DefaultAttribute@477b4e [Attribute: name photohtml.absolute.path value "D:\sites\marion.lionel\marion.lionel\voyages-test\pays\cuba\navigation\IMG_0917.JPG.html"]]/>]]
+
+-->
+
+
+<html>
+<head>
+
+<title>Marion et Lionel voyagent</title>
+
+<link href="../../../../css/styles.css" rel="stylesheet">
+<script language="JavaScript">
+function saveCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000))
+		var expires = "; expires="+date.toGMTString()
+	}
+	else expires = ""
+	document.cookie = name+"="+value+expires+"; path=/"
+}
+function readCookie(name) {
+	var nameEQ = name + "="
+	var ca = document.cookie.split(';')
+	for(var i=0;i<ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length)
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length)
+	}
+	return '';
+}
+function setSlideShowCookie() {
+	saveCookie('slideShow', 'true');
+}
+
+function moveOn() {
+	document.location.href = 'IMG_0920.JPG.html';
+}
+function stopSlideShow() {
+	try {
+		clearTimeout(timeout);
+	} catch(e) {
+	}
+	saveCookie('slideShow', '', -1);
+}
+
+var timeout = null;
+function initPage() {
+	if (readCookie('slideShow') == 'true') {
+
+		timeout = setTimeout('moveOn()', 4000);
+
+
+	}
+}
+</script>
+</head>
+<body topmargin="0" marginheight="0" onload="initPage();" ID="slide" background="../../../../images/bgvisionneuse.gif">
+<table width="800" border="0" cellpadding="3">
+  <tr>
+    <td>&nbsp;</td>
+<!--
+
+
+-->    
+<td><font size="4" color="#FFFFFF" face="Tahoma"> / Viñales 
+      </font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif">( 
+      / 485)</font></td>
+  </tr>
+  <tr>
+    <td valign="top"> 
+      <table border="0" cellspacing="0" cellpadding="0" width="185">
+        <tr> 
+          <td colspan="3" width="185" class="ImagePaneHeader" valign="middle">Image 
+            activities</td>
+        </tr>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><a href="../le_tour_de_juan.html" class="ImagePaneRow"><img src="../../../../images/FolderUp.gif" border="0" align="absmiddle" style="margin-right: 5px;" width="16" height="16"/>Retour au récit</a></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><a href="../photos_le_tour_de_juan.html" class="ImagePaneRow"><img src="../../../../images/FolderUp.gif" border="0" align="absmiddle" style="margin-right: 5px;" width="16" height="16"/>Retour à la liste des photos</a></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <script language="JavaScript">
+if (readCookie('slideShow') == 'true') {
+	document.write("<tr>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"	<td width=\"183\" class=\"ImagePaneRow\"><a onclick=\"stopSlideShow(); document.location.reload(false); return false;\" href=\"#\" class=\"ImagePaneRow\"><img src=\"../../../../images/Slideshow.gif\" border=\"0\" align=\"absmiddle\" style=\"margin-right: 5px;\"/>Stop diaporama</a></td>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"</tr>");
+} else {
+	document.write("<tr>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"	<td width=\"183\" class=\"ImagePaneRow\"><a onclick=\"setSlideShowCookie();\" href=\"..//IMG_0920.JPG.html\" class=\"ImagePaneRow\"><img src=\"../../../../images/Slideshow.gif\" border=\"0\" align=\"absmiddle\" style=\"margin-right: 5px;\"/>Diaporama</a></td>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"</tr>");
+}
+</script>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><a onClick="stopSlideShow();" href="IMG_0920.JPG.html" class="ImagePaneRow"><img src="../../../../images/Forward.gif" border="0" align="absmiddle" style="margin-right: 5px;"/>Image 
+            suivante </a></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><!----><a onClick="stopSlideShow();" href="IMG_0917.JPG.html" class="ImagePaneRow"><img src="../../../../images/Back.gif" border="0" align="absmiddle" style="margin-right: 5px;"/>Image 
+            pr&eacute;c&eacute;dente </a><!----></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="185" colspan="3" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+      </table>
+<br>
+      
+<table border="0" cellspacing="0" cellpadding="0" width="185" id="Table1">
+        
+<tr> 
+          
+<td colspan="3" width="185" class="InfoPaneHeader">Information</td>
+</tr>
+        
+<tr> 
+          
+<td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+<td width="183" class="InfoPaneRow"><u>Date</u>: 31/03/2005 00:34:45</td>
+<td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+</tr>
+        
+<tr> 
+          
+<td width="1" class="InfoPaneFrame">&nbsp;</td>
+<td width="183" class="InfoPaneRow"><u>Pays</u>: Cuba</td>
+<td width="1" class="InfoPaneFrame">&nbsp;</td>
+</tr>
+<tr>
+<td width="1" class="InfoPaneFrame">&nbsp;</td>
+<td width="183" class="InfoPaneRow"><u>Ville</u>: Viñales</td>
+<td width="1" class="InfoPaneFrame">&nbsp;</td>
+</tr>
+        
+<tr> 
+          
+<td width="1" class="InfoPaneFrame">&nbsp;</td>
+<td width="183" class="InfoPaneRow"><u>Lieu</u>: </td>
+<td width="1" class="InfoPaneFrame">&nbsp;</td>
+</tr>
+        
+<tr> 
+          
+<td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+<td width="183" class="InfoPaneRow"> 
+            
+<p><u>Description</u>: Sur le toit-terrasse de notre casa<br>
+              <br>
+            </p>
+</td>
+<td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+</tr>
+        
+<tr> 
+          
+<td width="185" colspan="3" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+</tr>
+      
+</table>
+      
+    </td>
+    <td>
+      <table border="0" cellspacing="0" cellpadding="0" width="627" height="644">
+        <tr valign="top" align="left" > 
+          <td height="618"> 
+            <table bgcolor="#FFFFFF" align="left" border=0 cellspacing="3" cellpadding="0">
+              <tr bgcolor="#FFFFFF" valign="top" > 
+                <td align="right"> <img src="../pictures/600/IMG_0919.JPG" border=0></td>
+              </tr>
+            </table>
+          </td>
+          <td height="618">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!--img src="../../../../images/Untitled.gif" width="436" height="35"--> 
+
+</body>
+</html>

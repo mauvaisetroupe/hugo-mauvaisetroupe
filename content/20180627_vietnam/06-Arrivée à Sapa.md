@@ -3,7 +3,7 @@ title="Sapa et Cat Cat"
 voyages = ["20180627_vietnam"]
 date = "2018-07-03"
 pays = ["Vietnam"]
-thumbnail="header/vietnam2018/004-2018-07-02_12-21-48.jpg"
+thumbnail="header/vietnam2018/2018-07-03_14-33-33_09651.JPG"
 +++
 
 

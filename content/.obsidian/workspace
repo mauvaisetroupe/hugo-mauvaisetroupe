@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "ef92259c5f1375a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "87944876db36f497",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dd52d92d5895ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2017cffd76d45791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78d8c2184aef909e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b28c6c23dca4457e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9999e08b1dc75ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "47054b291d6af13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f09378cfa11e4a2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "87944876db36f497",
+  "lastOpenFiles": [
+    "20010205_jordanie/006-Le Wadi Rum.md",
+    "20010205_jordanie/005-Plongées en mer Rouge.md",
+    "20010205_jordanie/000-carnet.de.voyage.md",
+    "20010205_jordanie/_index.md"
+  ]
+}

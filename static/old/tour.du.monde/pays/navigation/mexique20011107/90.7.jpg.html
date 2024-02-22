@@ -1,0 +1,156 @@
+<html>
+<head>
+<title>Marion et Lionel voyagent</title>
+
+<link href="../../../../css/styles.css" rel="stylesheet"></head>
+<script language="JavaScript">
+function saveCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000))
+		var expires = "; expires="+date.toGMTString()
+	}
+	else expires = ""
+	document.cookie = name+"="+value+expires+"; path=/"
+}
+function readCookie(name) {
+	var nameEQ = name + "="
+	var ca = document.cookie.split(';')
+	for(var i=0;i<ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length)
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length)
+	}
+	return '';
+}
+function setSlideShowCookie() {
+	saveCookie('slideShow', 'true');
+}
+
+function moveOn() {
+	document.location.href = '../mexique20011107/90.6.jpg.html';
+}
+function stopSlideShow() {
+	try {
+		clearTimeout(timeout);
+	} catch(e) {
+	}
+	saveCookie('slideShow', '', -1);
+}
+
+var timeout = null;
+function initPage() {
+	if (readCookie('slideShow') == 'true') {
+
+		timeout = setTimeout('moveOn()', 4000);
+
+
+	}
+}
+</script>
+<body topmargin="0" marginheight="0" onload="initPage();" ID="slide" background="../../../../images/bgvisionneuse.gif">
+<table width="800" border="0" cellpadding="3">
+  <tr>
+    <td>&nbsp;</td>
+    <td><font size="4" color="#FFFFFF" face="Tahoma">Mexique/Chichen Itza 
+      </font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif">(19 
+      / 75)</font></td>
+  </tr>
+  <tr>
+    <td valign="top"> 
+      <table border="0" cellspacing="0" cellpadding="0" width="185">
+        <tr> 
+          <td colspan="3" width="185" class="ImagePaneHeader" valign="middle">Image 
+            activities</td>
+        </tr>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><a href="javascript:close()" class="ImagePaneRow"><img src="../../../../images/FolderUp.gif" border="0" align="absmiddle" style="margin-right: 5px;" width="16" height="16"/>Fermer</a></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <script language="JavaScript">
+if (readCookie('slideShow') == 'true') {
+	document.write("<tr>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"	<td width=\"183\" class=\"ImagePaneRow\"><a onclick=\"stopSlideShow(); document.location.reload(false); return false;\" href=\"#\" class=\"ImagePaneRow\"><img src=\"../../../../images/Slideshow.gif\" border=\"0\" align=\"absmiddle\" style=\"margin-right: 5px;\"/>Stop diaporama</a></td>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"</tr>");
+} else {
+	document.write("<tr>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"	<td width=\"183\" class=\"ImagePaneRow\"><a onclick=\"setSlideShowCookie();\" href=\"../mexique20011107/90.6.jpg.html\" class=\"ImagePaneRow\"><img src=\"../../../../images/Slideshow.gif\" border=\"0\" align=\"absmiddle\" style=\"margin-right: 5px;\"/>Diaporama</a></td>" +
+	"	<td width=\"1\" class=\"ImagePaneFrame\"><img src=\"../../../../images/1x1.gif\" width=\"1\" height=\"1\"/></td>" +
+	"</tr>");
+}
+</script>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><a onClick="stopSlideShow();" href="../mexique20011107/90.6.jpg.html" class="ImagePaneRow"><img src="../../../../images/Forward.gif" border="0" align="absmiddle" style="margin-right: 5px;"/>Image 
+            suivante </a></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="ImagePaneRow"><a onClick="stopSlideShow();" href="../mexique20011107/90.8.jpg.html" class="ImagePaneRow"><img src="../../../../images/Back.gif" border="0" align="absmiddle" style="margin-right: 5px;"/>Image 
+            pr&eacute;c&eacute;dente </a></td>
+          <td width="1" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="185" colspan="3" class="ImagePaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+      </table>
+<br>
+      <table border="0" cellspacing="0" cellpadding="0" width="185" id="Table1">
+        <tr> 
+          <td colspan="3" width="185" class="InfoPaneHeader">Information</td>
+        </tr>
+        <tr> 
+          <td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="InfoPaneRow"><u>Date</u>: 2001-11-12</td>
+          <td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="1" class="InfoPaneFrame">&nbsp;</td>
+          <td width="183" class="InfoPaneRow"><u>Pays</u>: Mexique</td>
+          <td width="1" class="InfoPaneFrame">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="1" class="InfoPaneFrame">&nbsp;</td>
+          <td width="183" class="InfoPaneRow"><u>Lieux</u>: Chichen Itza</td>
+          <td width="1" class="InfoPaneFrame">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+          <td width="183" class="InfoPaneRow"> 
+            <p><u>Description</u>: <br>
+              <br>
+            </p>
+          </td>
+          <td width="1" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+        <tr> 
+          <td width="185" colspan="3" class="InfoPaneFrame"><img src="../../../../images/1x1.gif" width="1" height="1"/></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td>
+      <table border="0" cellspacing="0" cellpadding="0" width="627" height="644">
+        <tr valign="top" align="left" > 
+          <td height="618"> 
+            <table bgcolor="#FFFFFF" align="left" border=0 cellspacing="3" cellpadding="0">
+              <tr bgcolor="#FFFFFF" valign="top" > 
+                <td align="right"> <img src="../../pictures/mexique20011107/600/90.7.jpg" border=0></td>
+              </tr>
+            </table>
+          </td>
+          <td height="618">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!--img src="../../../../images/Untitled.gif" width="436" height="35"--> 
+
+</body>
+</html>

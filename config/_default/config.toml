@@ -2,6 +2,9 @@ theme = "hugo_theme_robust-master"
 buildDrafts = true
 Paginate = 100
 
+[blackfriday]
+ smartypants = true
+
 [taxonomies]
 pays = "pays"
 voyage = "voyages"

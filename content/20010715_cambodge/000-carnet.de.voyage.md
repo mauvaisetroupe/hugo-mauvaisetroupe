@@ -1,10 +1,10 @@
 +++
-title="Carnet de Voyage : Cambodge"
+title="Carnet de Voyage : Cambodge 2001"
 voyages = ["20010715_cambodge"]
 date = "2001-07-15T05:00:00"
 pays = ["Cambodge"]
 menu_display = "Cambodge 2001"
-thumbnail="tdm/cambodge-stamp.png"
+thumbnail="tdm/cambodge-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
 +++

@@ -1,0 +1,21 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: 500; color: #FFFFFF; background-color: #000000}
+
+a {  color: #3333FF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold}
+
+a:hover { text-decoration: none}
+
+b {  color: #FFFF66}
+
+.caption {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #CCFFFF; font-style: italic; text-align: center}
+
+.lionel {  }
+
+.TitrePays {  font-size: 14pt; font-weight: bold; color: #FFFF00; font-family: Verdana, Arial, Helvetica, sans-serif; text-align: left}
+
+.commentaire {  font-family: "Courier New", Courier, mono; font-size: 9pt; border-color: #CC0000 black black; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; border: #000066; border-top-width: thin}
+.TitrePagePays { font-size: 14pt; font-weight: normal; color: #FFFF00; font-family: Verdana, Arial, Helvetica, sans-serif; text-align: left }
+.menuvoyage {  color: #FFFFFF; text-decoration: none; font-weight: 900}
+p { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; text-align: justify}
+li { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; text-align: left}
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: #FFFFFF}
+.TitrePage { font-size: 12pt; font-weight: normal; color: #FFFF00; font-family: Verdana, Arial, Helvetica, sans-serif; text-align: left ; text-decoration: underline}

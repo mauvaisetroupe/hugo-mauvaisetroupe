@@ -1,10 +1,10 @@
 +++
-title="Carnet de Voyage : Nepal"
+title="Carnet de Voyage : Nepal 2001"
 voyages = ["20010411_nepal"]
 date = "2001-04-10T05:00:00"
 pays = ["Nepal"]
 menu_display = "Nepal 2001"
-thumbnail="tdm/nepal-stamp.png"
+thumbnail="tdm/nepal-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
 +++
