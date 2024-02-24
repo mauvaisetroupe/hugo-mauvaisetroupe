@@ -6,17 +6,19 @@ pays = ["Turquie"]
 +++
 
 
-Vendredi 16 Juillet
+## Vendredi 16 Juillet
 
 On va à la piscine, et on prend la route.
+
+{{< img src="/maps/20100627_turquie/11-foca.png" alt="Le trajet" >}}
 
 La Turquie c'est très vide sur les montagnes, plaines... Très peuplé dans les villes et le littoral. J'ai l'impression de me faire pigeonner sur le prix des fruits et légumes (pêches délicieuses, cerises, abricots, melons, pastèques, tomates, concombres), il y a des serres partout.
 
 
-Samedi 17 Juillet
+## Samedi 17 Juillet
 
 
-Dimanche 18 Juillet.
+## Dimanche 18 Juillet.
 
 La jeune canadienne sous tente nous avait dit que le coin où on garait le camping car était animé. C'était vendredi, on trouvait qu'elle exagérait un peu... Et puis samedi, c'est vrai que cela a commencé à se remplir. Mais aujourd'hui, c'est dimanche, et visiblement, c'est la journée de sortie en Turquie.
 
@@ -36,3 +38,6 @@ Maïs grillé par les voisins du matin ! Aujourd'hui, on ne mourra pas de faim !
 Plus tard une famille vient visiter le camping car. Le turc qui a travaillé à Paris/Versailles chez Renault revient discuter camping car avec eux et nous. Puis juste avec eux, toujours autour de notre table. La famille de maïs grillé m'invite à m'asseoir sur des coussins et à discuter. La fille (19 ans je crois) Gül Alagöz parle un peu anglais et veut m'inscrire comme amie sur facebook, toute contente. On échange donc nos noms. En fait, elle et sa mère sont en vacances chez sa tante (qui est là avec son mari), elle a une soeur qui est mariée à un allemand, elle vit en allemagne, trop loin à son goût. Gül et sa mère habitent à l'autre bout de la Turquie : Igdir je crois tout près de l'Arménie et de l'Iran.
 
 
+## Lundi 19 Juillet
+
+De nouveaux turcs se sont installés à notre porte, là pour des vacances on dirait. Le matin, nous partons pour Foça.

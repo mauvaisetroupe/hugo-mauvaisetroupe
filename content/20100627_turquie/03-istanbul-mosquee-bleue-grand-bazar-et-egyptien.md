@@ -7,7 +7,9 @@ pays = ["Turquie"]
 
 
 
-Vendredi 2 juillet.
+## Vendredi 2 juillet
+
+### Istanbul, Mosquée bleue
 
 7h30, on décolle direction Istanbul. Trop facile avec le GPS de s'orienter. Quelques bouchons et 1h30 plus tard, nous arrivons directement au parking repéré par Lionel dans un récit où la personne avait eu la bonne idée de laisser les coordonnées GPS. Nous sommes au pied de la mosquée bleue, près d'un boulevard mais dans un grand parc et au bord de la mer de Marmara. Les enfants sont réveillés, petit déjeuner et c'est parti pour la découverte d'Istanbul. Ça grimpe ! Les voitures vont vite. 
 
