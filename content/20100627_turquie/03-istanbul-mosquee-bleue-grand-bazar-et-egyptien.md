@@ -3,6 +3,7 @@ title="Istanbul - Mosquée bleue - Grand bazar et égyptien"
 voyages = ["20100627_turquie"]
 date = "2010-07-02"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-02_11-02-06_2978.jpg"
 +++
 
 

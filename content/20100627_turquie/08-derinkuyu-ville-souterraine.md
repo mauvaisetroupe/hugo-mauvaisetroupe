@@ -3,6 +3,7 @@ title="Derinkuyu ville souterraine"
 voyages = ["20100627_turquie"]
 date = "2010-07-07"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-07_10-20-50_3873.jpg"
 +++
 
 

@@ -3,6 +3,7 @@ title="Pamukkale et Aphrodisia"
 voyages = ["20100627_turquie"]
 date = "2010-07-12"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-12_08-50-51_4414.jpg"
 +++
 
 

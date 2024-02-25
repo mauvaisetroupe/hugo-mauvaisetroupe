@@ -3,6 +3,7 @@ title="Avant Istanbul"
 voyages = ["20100627_turquie"]
 date = "2010-06-30"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-01_15-33-39_2900.jpg"
 +++
 
 ## Mercredi 30 juin 2010

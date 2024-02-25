@@ -3,6 +3,7 @@ title="Du côte de selçuk"
 voyages = ["20100627_turquie"]
 date = "2010-07-14"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-14_09-14-24_4739.jpg"
 +++
 
 

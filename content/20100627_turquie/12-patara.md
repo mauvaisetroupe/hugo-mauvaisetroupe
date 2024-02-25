@@ -3,6 +3,7 @@ title="Patara"
 voyages = ["20100627_turquie"]
 date = "2010-07-11"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-11_09-45-11_4290.jpg"
 +++
 
 

@@ -3,6 +3,7 @@ title="Sultanhani - Eşrefoğlu - Aspendos"
 voyages = ["20100627_turquie"]
 date = "2010-07-08"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-08_09-10-29_3983.jpg"
 +++
 
 

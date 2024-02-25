@@ -3,6 +3,7 @@ title="Cirali et les Chimères"
 voyages = ["20100627_turquie"]
 date = "2010-07-09"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-09_17-04-40_4208.jpg"
 +++
 
 

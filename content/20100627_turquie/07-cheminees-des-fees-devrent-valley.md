@@ -3,6 +3,7 @@ title="Cheminées des fées - Devrent valley"
 voyages = ["20100627_turquie"]
 date = "2010-07-06"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-06_09-29-38_3626.jpg"
 +++
 
 

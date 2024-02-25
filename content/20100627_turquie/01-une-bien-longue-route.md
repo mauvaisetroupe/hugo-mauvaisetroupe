@@ -3,6 +3,7 @@ title="En route vers la Turquie... un bien long trajet"
 voyages = ["20100627_turquie"]
 date = "2010-06-27"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-06-30_10-28-16_2772.jpg"
 +++
 
 ## Dimanche 27 juin 2010

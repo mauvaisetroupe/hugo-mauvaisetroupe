@@ -3,6 +3,7 @@ title="Du côté de Foça"
 voyages = ["20100627_turquie"]
 date = "2010-07-16"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-17_17-05-38_5092.jpg"
 +++
 
 

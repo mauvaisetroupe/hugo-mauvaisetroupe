@@ -3,6 +3,7 @@ title="Istanbul à Cappadoce"
 voyages = ["20100627_turquie"]
 date = "2010-07-04"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-04_10-30-41_3324.jpg"
 +++
 
 

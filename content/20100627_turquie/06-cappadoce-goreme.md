@@ -3,6 +3,7 @@ title="Cappadoce Goreme"
 voyages = ["20100627_turquie"]
 date = "2010-07-05"
 pays = ["Turquie"]
+thumbnail="header/20100627_turquie/2010-07-05_12-21-16_3473.jpg"
 +++
 
 ## Lundi 5 juillet, Anatolie Centrale, Göreme, le musée. Vallée Rose.
