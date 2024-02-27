@@ -8,7 +8,7 @@ thumbnail="header/20100627_turquie/2010-07-05_12-21-16_3473.jpg"
 
 ## Lundi 5 juillet, Anatolie Centrale, Göreme, le musée. Vallée Rose.
 
-{{< img src="/maps/20100627_turquie/02-zoom-gorome.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/02-zoom-gorome.png" alt="Le trajet" >}}
 
 
 ### Musée à ciel ouvert de Göreme

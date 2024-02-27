@@ -33,5 +33,5 @@ Et pour les soins, une trousse de toilette, du paracétamol, de l'ibuprofène, d
 {{< pagespays >}}
 
 ## Le trajet
-{{< img src="/maps/20130413_srilanka/2013-04-13.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-13.png" alt="Le trajet" >}}
 

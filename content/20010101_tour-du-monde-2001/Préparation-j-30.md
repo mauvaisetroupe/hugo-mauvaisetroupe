@@ -29,8 +29,8 @@ Il faut juste penser à un truc avant de partir : le passeport doit encore être
 Pour faire un visa, à part des dollars, il faut des photos d'identité...
 
 	
-{{< img src="/images/preparatifs/lionelPc.jpg" caption="Lionel devant le site" >}}
-{{< img src="/images/preparatifs/guides.jpg" caption="La tonne de guide" >}}
+{{< img src="images/preparatifs/lionelPc.jpg" caption="Lionel devant le site" >}}
+{{< img src="images/preparatifs/guides.jpg" caption="La tonne de guide" >}}
  	
 
 ## Les vaccins
@@ -81,7 +81,7 @@ Quant à la quantité, on sera moins chargés que lorsqu'on part en week-end. Il
 
 Pour transporter l'argent et les papiers importants comme les billets d'avion, nos passeport, ou encore les cartes Visa, on a chacun une petite banane-ceinture de sécurité (on en trouve dans les hyper de sport) que l'on place autour de la taille. Lorsqu'on traverse une région qui "craint" un peu, le tout se retrouve sous le T-shirt et même sous le pantalon. Pratique et discret.
 
-{{< img src="/images/preparatifs/banane.jpg" >}}
+{{< img src="images/preparatifs/banane.jpg" >}}
 
 
 Comme pour les sacs à dos, là-aussi, obsession de l'humidité : on prend des petits sacs bien étanches (en fait des sac de congélation) pour les passeports, les billets d'avions, les pellicules, bref, ce qui doit rester bien sec.

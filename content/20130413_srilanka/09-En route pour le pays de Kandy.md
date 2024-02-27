@@ -19,7 +19,7 @@ Cette nuit, des écureuils ont fait un boucan incroyable en galopant sur le toit
 
 {{< picture-folder folder="images/20130413_srilanka/09-En route pour le pays de Kandy/seq1.2">}}
 
-{{< img src="/maps/20130413_srilanka/2013-04-24.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-24.png" alt="Le trajet" >}}
 
 Il est quasi vide. on trouve toutes les places qu'on veut sans problèmes. On a bien fait de ne pas réserver (>600 roupies par tête, enfant ou pas!) ni de prendre le wagon panoramique avec déjeuner, thé et café pour 1 600 roupies... D'après de nombreux contrôleurs, c'est souvent comme ça, plein de places. Ce n'est visiblement pas le cas dans l'autre sens vu les témoignages de voyageurs que nous avons croisé.
 

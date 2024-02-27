@@ -33,7 +33,7 @@ Malo se souvient du Sénégal, des odeurs un peu fortes, des cacahuètes acheté
 
 Cerise chante des chansons de Noël. Normal! Il fait 35 degrés!
 
-{{< img src="/maps/20130413_srilanka/2013-04-16.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-16.png" alt="Le trajet" >}}
 
 
 Nous arrivons  vers 15h10 à Induruwa. On est arrêté au milieu de rien, le long d'une route très passante. Aucune indication, 2 dames à l'arrêt du bus, mais qui ne parlent pas anglais... 

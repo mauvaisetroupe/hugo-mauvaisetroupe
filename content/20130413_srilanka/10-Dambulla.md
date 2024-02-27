@@ -24,7 +24,7 @@ C'est jour de pleine lune, donc fête bouddhiste.
 
 Dans le bus, on a le droit à une comédie probablement Sri lankaise à la télé avec beaucoup de bruitages genre dessins-animés, il y a même le refrain de la panthère rose.
 
-{{< img src="/maps/20130413_srilanka/2013-04-25.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-25.png" alt="Le trajet" >}}
 
 
 À la sortie du bus, seulement deux heures se sont écoulées. Le mini-bus a foncé, bien plus qu'un bus classique!

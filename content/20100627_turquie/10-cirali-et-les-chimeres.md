@@ -55,7 +55,7 @@ L'assurance ne propose qu'une remorque (vu la descente pour arriver ici, impossi
 
 ## Samedi 10 Juillet
 
-{{< img src="/maps/20100627_turquie/07-cirali-port.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/07-cirali-port.png" alt="Le trajet" >}}
 
 
 Ce matin, le camping-car ne démarre. Lionel essaye de le faire démarrer, car c'est un sacré bricoleur! Il sait bien qu'un démarreur cela peut rester coincé, et que le truc c'est de taper dessus pour le décoincer... Mais rien n'y fait...

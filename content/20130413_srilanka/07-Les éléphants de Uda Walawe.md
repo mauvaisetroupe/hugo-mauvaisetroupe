@@ -32,7 +32,7 @@ Les éléphants sont adultes vers 25 ans. À dix ans, les jeunes mâles quittent
 
 Après cette chouette expédition, retour à l'hôtel pour faire les sacs et se doucher.
 
-{{< img src="/maps/20130413_srilanka/2013-04-21.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-21.png" alt="Le trajet" >}}
 
 On prend le bus vers Ella. 
 

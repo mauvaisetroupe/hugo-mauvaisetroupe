@@ -19,7 +19,7 @@ Bonne baignade ce matin, chasse aux crabes, pêche avec les épuisettes (enfin, 
 Nous profitons de la mer calme et chaude pour sortir les planches des enfants qui sont ravis. Galets et sable, la plage est mixte pour leur plus grand bonheur. Début d'après midi, départ pour Chania où nous trouvons un camping. Plouf dans la piscine dont l'eau est à plus de 30 degrés, pas très rafraichissante mais ça fait du bien tout de même. Les enfants sont ravis de pouvoir plonger et sauter.
 
 
-{{< img src="/maps/20090621_crete/2009-07-12.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-07-12.png" alt="Le trajet" >}}
 
 
 ## Lundi 13 juillet

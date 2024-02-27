@@ -18,4 +18,4 @@ En bref: un flot continuel de gens, de rickhaws, de mendiants, des bruits, des o
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/inde.gif" alt="Le récit" >}}
+{{< img src="tdm/inde.gif" alt="Le récit" >}}

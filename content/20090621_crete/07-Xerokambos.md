@@ -21,7 +21,7 @@ On descend ensuite vers Kato Zakros (Kato signifie en grec "bas", ce qui expliqu
 
 On repart alors vers Xerokambos. On a de la chance, la piste entre Zakros et Xerokambos est aujourd'hui une route. On arrive donc rapidement par cette route incroyable, plantée dans des décors désertiques. Le contraste avec Kato Zakros est net. Ici, à Ampelos bay, pas de galets mais un sable tout ce qu'il y a de blond. Pas de longues plages (quoique, à la sortie du village...) mais une successions de petites criques toutes mignonnes. Il y a vraiment de la place pour s'installer. Après avoir choisi un endroit spacieux avec une plage relativement large, on change d'avis pour se garer juste au dessus d'une des petites criques. C'est moins confortable, on n'a moins de place, mais la mer, c'est sûr conviendra mieux aux enfants. Chacun ses critères...
 
-{{< img src="/maps/20090621_crete/2009-07-03.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-07-03.png" alt="Le trajet" >}}
 
 ## Samedi 4 juillet
 

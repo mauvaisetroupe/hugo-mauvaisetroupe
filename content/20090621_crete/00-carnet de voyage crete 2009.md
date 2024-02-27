@@ -18,5 +18,5 @@ Cette année, ce sera la crète!  En route!
 {{< pagespays >}}
 
 ## Le trajet
-{{< img src="/maps/20090621_crete/2009-06-20.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-06-20.png" alt="Le trajet" >}}
 

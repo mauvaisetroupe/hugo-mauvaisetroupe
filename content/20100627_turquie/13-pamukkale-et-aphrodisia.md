@@ -11,7 +11,7 @@ thumbnail="header/20100627_turquie/2010-07-12_08-50-51_4414.jpg"
 ## Lundi 12 Juillet, entrée au Sud.
 
 
-{{< img src="/maps/20100627_turquie/09-pamukkale-aphrosidisia.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/09-pamukkale-aphrosidisia.png" alt="Le trajet" >}}
 
 ### Pamukkale
 

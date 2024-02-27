@@ -19,7 +19,7 @@ On avait envisagé le camping Deroli, mais celui-ci a coupé tous ces eucalyptus
 
 ## Mercredi 14 Juillet.
 
-{{< img src="/maps/20100627_turquie/10-selcuk.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/10-selcuk.png" alt="Le trajet" >}}
 
 Début de journée toute tranquille. On profite de la la piscine du camping, et de l'ombre. On est installé sous un olivier avec le camping car, c'est super !
 

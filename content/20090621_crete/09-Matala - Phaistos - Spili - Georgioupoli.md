@@ -17,7 +17,7 @@ Avant de continuer, arrêt à Festos ou Faistos pour les intimes. Un palais merv
 
 On passe ensuite par Spili dans la montagne et avec sa fontaine aux têtes de lions. Rethymno la touristique mais qui reste une vraie ville (très étendue d'ailleurs). On finit à Georgioupoli, à une vingtaine de kilomètre de Rethymno. On se gare à côté du port, juste à côté de la plage Arkadi. On a l'impression d'être à la campagne avec toutes ces oies qui passe de la plage au port... Côté village, la place principale abrite les nombreux tavernas pour les touristes essentiellement grecs mais aussi allemand. Pourquoi, je ne sais pas trop...
 
-{{< img src="/maps/20090621_crete/2009-07-06.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-07-06.png" alt="Le trajet" >}}
 
 {{< nextpost>}}
 

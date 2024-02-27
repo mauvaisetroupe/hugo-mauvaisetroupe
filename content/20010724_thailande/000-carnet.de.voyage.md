@@ -12,4 +12,4 @@ Un peu de repos avant de changer de continent...
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/thailande.gif" alt="Le récit" >}}
+{{< img src="tdm/thailande.gif" alt="Le récit" >}}

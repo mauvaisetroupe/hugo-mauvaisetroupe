@@ -18,4 +18,4 @@ En route!
 {{< pagespays >}}
 
 ## Le trajet
-{{< img src="/maps/20180627_vietnam/trajet-vietnam.png" alt="Le trajet" >}}
+{{< img src="maps/20180627_vietnam/trajet-vietnam.png" alt="Le trajet" >}}

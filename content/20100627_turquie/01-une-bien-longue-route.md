@@ -19,7 +19,7 @@ thumbnail="header/20100627_turquie/2010-06-30_10-28-16_2772.jpg"
 
 ### Allemagne
 
-{{< img src="/maps/20100627_turquie/aller-step1.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/aller-step1.png" alt="Le trajet" >}}
 
 
 7h, on démarre, les enfants et moi restons au lit. Petit déj plus tard sur un parking dans une petite ville. Déjeuner dans un Burger King, bof, pas terrible...
@@ -39,7 +39,7 @@ Nuit à Gmünd très beau village où nous nous promenons le soir avec les enfan
 ## Mardi 29 juin 2010, 4 ans d'Hippolyte !!!
 
 
-{{< img src="/maps/20100627_turquie/aller-step2.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/aller-step2.png" alt="Le trajet" >}}
 
 ### Slovénie
 

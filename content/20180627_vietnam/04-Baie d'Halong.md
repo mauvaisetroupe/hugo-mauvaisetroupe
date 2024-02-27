@@ -9,7 +9,7 @@ thumbnail="header/vietnam2018/003-2018-07-01_14-27-24_09280.JPG"
 
 ## samedi 30 juin, croisière sur la baie.
 
-{{< img src="/maps/20180627_vietnam/2018-06-30.png" alt="Le trajet" >}}
+{{< img src="maps/20180627_vietnam/2018-06-30.png" alt="Le trajet" >}}
 
 Bus. Embarcadère Ben Beo avec un petit bateau. Et nous voilà sur notre bateau croisière !
 
@@ -53,7 +53,7 @@ Huy : "Maintenant vous savez qu'on n'a pas que des étoiles dans le ciel. On en 
 
 ## dimanche 1er juillet, croisière baie Halong jour 2
 
-{{< img src="/maps/20180627_vietnam/2018-07-01.png" alt="Le trajet" >}}
+{{< img src="maps/20180627_vietnam/2018-07-01.png" alt="Le trajet" >}}
 
 
 [Cerise]

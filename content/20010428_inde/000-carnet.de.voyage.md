@@ -12,4 +12,4 @@ Après le Népal, un petit tour à Daarjeeling et quelques jours à Calcutta, hi
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/inde.gif" alt="Le récit" >}}
+{{< img src="tdm/inde.gif" alt="Le récit" >}}

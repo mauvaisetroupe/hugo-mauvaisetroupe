@@ -16,4 +16,4 @@ Il y a des lieux tels Ayutthaya ou Sukhothaï pour la culture et des parcs natio
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/thailande.gif" alt="Le récit" >}}
+{{< img src="tdm/thailande.gif" alt="Le récit" >}}

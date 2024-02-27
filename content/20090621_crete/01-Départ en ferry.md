@@ -9,7 +9,7 @@ thumbnail="header/20090621_crete/2009-06-22_11-43-19_7348.jpg"
 
 +++
 
-{{< img src="/maps/20090621_crete/2009-06-21.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-06-21.png" alt="Le trajet" >}}
 
 ## Dimanche 21 juin 2009
 

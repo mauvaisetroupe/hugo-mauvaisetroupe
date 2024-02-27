@@ -14,4 +14,4 @@ Il y a les merveilles d'Angkor que tous les voyageurs vont visiter, mais il y a 
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/cambodge.gif" alt="Le récit" >}}
+{{< img src="tdm/cambodge.gif" alt="Le récit" >}}

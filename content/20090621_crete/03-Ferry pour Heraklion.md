@@ -44,7 +44,7 @@ Heraklion, la capitale de la Crète doit compter d'après le routard quelques 25
 Du coup, on n'a pas le réflexe de demander notre chemin. On part un peu au pif, guidée par notre carte Michelin au 1/700000. On cherche Knossos, qu'on fini par trouver après plusieurs kilomètres de détours. Knossos, c'est LE site archéologique de l'île. On s'installe pour la nuit sur le parking.
 Les soir juste après s'être couché, une voiture vient se garer, l'auto-radio à fond, pile poil à côté de nous (le parking est plutôt vaste et désert. Il s'agit d'un couple qu'il a l'air d'avoir une discussion un peu agité. Du haut de notre capucine, on assiste à la scène sans oser bouger de peur de les gêner... Et puis tout d'un coup, on entend avec un léger décalage la fille en train de parler à la radio! Tout cela s'est passé en grec, on ne saura jamais le fin mot de l'histoire!
 
-{{< img src="/maps/20090621_crete/2009-06-25.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-06-25.png" alt="Le trajet" >}}
 
 {{< nextpost>}}
 

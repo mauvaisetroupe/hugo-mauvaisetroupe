@@ -20,4 +20,4 @@ Partout, trois points communs: l'eau, les sourires et la campagne. Partout d'att
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/vietnam.gif" alt="Le récit" >}}
+{{< img src="tdm/vietnam.gif" alt="Le récit" >}}

@@ -9,7 +9,7 @@ thumbnail="header/20100627_turquie/2010-07-04_10-30-41_3324.jpg"
 
 ## Dimanche 4 juillet, Istanbul Ankara
 
-{{< img src="/maps/20100627_turquie/01-istambul-capadocce.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/01-istambul-capadocce.png" alt="Le trajet" >}}
 
 ### Istanbul
 

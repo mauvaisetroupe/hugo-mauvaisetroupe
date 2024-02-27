@@ -21,4 +21,4 @@ Dans les gros sacs à dos, chacun a un sac en tissu avec ses habits, ce sera plu
 {{< pagespays >}}
 
 ## Le trajet
-{{< img src="/maps/20120404_senegal/2012-04-04.png" alt="Le trajet" >}}
+{{< img src="maps/20120404_senegal/2012-04-04.png" alt="Le trajet" >}}

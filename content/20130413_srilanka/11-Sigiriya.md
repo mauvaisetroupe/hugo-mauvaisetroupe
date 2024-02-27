@@ -57,7 +57,7 @@ Le bus nous laisse à un arrêt situé au croisement. un premier bus bondé ne s
 
 Nous voilà bien installés : Marion debout au fond du bus, Malo avec elle assis sur le sac de Marion, moi assis à l'avant (un gars m'a laissé sa place!) avec Hippo sur un genou et Cerise sur l'autre.
 
-{{< img src="/maps/20130413_srilanka/2013-04-26.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-26.png" alt="Le trajet" >}}
 
 Trincomalee, plutôt chouett cette ville! On dirait un gros village avec plein de boutiques de tout partout. Et là, surprise, il y a des sortes de daims à côté du marché. Un homme très gentil arrive avec des haricots géants (~30-4 centimètres), les donne aux enfants et leur dit de les donner aux animaux. Ce qu'ils font, ravis. Ils les caressent "que c'est douuuux". 
 

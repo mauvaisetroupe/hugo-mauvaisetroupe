@@ -24,7 +24,7 @@ La spécialité est paraît-il la pomme de terre. On n'a pas de mal à la croire
 
 On prend ensuite la route vers  Agios Nikolaos. Les oliviers nous accompagnent tout du long. Ils sont visiblement irrigués par des "arbres de noël" que l'on découvre un peu partout. Il s'agit en fait d'un tuyau qui sort à la vertical de la terre et sur lequel viennent se brancher des dizaines de départ vers les alentours.
 
-{{< img src="/maps/20090621_crete/2009-06-27.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-06-27.png" alt="Le trajet" >}}
 
 
 On file de suite au sud de Nicholaos où une plage municipale couverte entièrement de transat et de parasols nous attend. On écarte un peut tout cela pour se faire une place au soleil. La plage est loin d'être bondée. Il faut dire qu'il n'est pas très tôt. Après la brève baignade (l'eau est moyennement chaude!) ce sont des jeux qui attendent les enfants. Et une douche pas très chaude elle non plus! C'est dur la vie en camping-car.

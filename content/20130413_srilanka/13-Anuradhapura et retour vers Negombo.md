@@ -26,7 +26,7 @@ C'est terrible cette sensation de décoller irrésistiblement du siège, de s'en
 Tout le monde se précipite pour fermer les vitres parce que, des deux côtés, les branches cinglent violemment les visages qui traînent près des fenêtres à l'intérieur même du bus. On roule, on roule, et hop, en face, un gros camion... On fait quoi là!? Impossible de se croiser, il y a bien une entrée de rizière sur un côté mais des branches interdisent le passage au bus comme au camion, trop hauts. On s'arrête, on réfléchit. Et on guide le camion dans les broussailles. Ouf, ça passe tout juste, à dix centimètres près. Plus loin on croise un tuk tuk qui se range sur le côté à un centimètre du fossé...
 
 
-{{< img src="/maps/20130413_srilanka/2013-04-30.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-30.png" alt="Le trajet" >}}
 
 
 On rejoint la route. Arrivée à Anuradhapura, à 18h, on est bien fatigués, Titi dort. C'est une ville active, vivante. Un tuk tuk insiste pour nous emmener voir la guest house de son "brother". On hésite, la dernière fois on a u une excellente surprise à Sigiriya pour le Lion's Lodge. Alors on y va, pour voir. Près de la voie ferré, dans un mignon petit jardin, 6 chambres, le proprio est très très gentil, la chambre pour nous 5 (trois lits moyens) à 2 000 roupies et un jus d'avocat / papaye de bienvenue! On reste.
@@ -58,7 +58,7 @@ C'est le premier mai, fête du travail... Le tuk tuk a peur qu'il n'y ait pas de
 
 Chacun a une place assise, ce qui n'est pas le cas de tous les passagers. Une banquette de 3 pour les enfants qui jouent au pouilleux et une de 2 pour nous. Cerise a envie de vomir... Arrivée 4 heures plus tard sous la pluie à Negombo. Tuk tuk et silver sands hôtel où on retrouve notre chambre familiale numéro 4.
 
-{{< img src="/maps/20130413_srilanka/2013-05-01.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-05-01.png" alt="Le trajet" >}}
 
 
 

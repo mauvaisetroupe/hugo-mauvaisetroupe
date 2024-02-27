@@ -11,7 +11,7 @@ thumbnail="header/20100627_turquie/2010-07-17_17-05-38_5092.jpg"
 
 On va à la piscine, et on prend la route direction **Foça**.
 
-{{< img src="/maps/20100627_turquie/11-foca.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/11-foca.png" alt="Le trajet" >}}
 
 La Turquie c'est très vide sur les montagnes, plaines... Très peuplé dans les villes et le littoral. 
 

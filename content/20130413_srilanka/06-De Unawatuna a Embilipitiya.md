@@ -11,7 +11,7 @@ thumbnail="header/20130413_srilanka/2013-04-20_12-43-43-DSC00879.JPG"
 
 ## Samedi 20 Avril 2013, en route vers Embilipitiya
 
-{{< img src="/maps/20130413_srilanka/2013-04-20.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-20.png" alt="Le trajet" >}}
 
 
 On se lève à 8h30 aujourd'hui, on déménage! Direction la main road et on attend le bus pour Matara. On ne s'y arrêtera pas. les baleines sont encore là, mais pour les voir, il faut 6 heures de balade en mer. Vu la patience des enfants, on décide de zapper. Ils attendent d'être plus grands pour découvrir les baleines. 

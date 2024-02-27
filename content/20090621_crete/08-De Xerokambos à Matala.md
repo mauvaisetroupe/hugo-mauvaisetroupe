@@ -26,7 +26,7 @@ On file ensuite vers Matala. On fait une pause repas à Sivas. Tavernas Vafis. A
 En repartant, on décide de dormir à komos. Après un passgae bien involontaire à Matala et un demi-tour un peu serré, on arrive à Komos. On ne voit rien. Il fait noir. On retourne... à Matala pour dormir sur un, parking. Nuit calme malgré les quelques voitures qui passe de temps en temps... Il fait chaud!
 
 
-{{< img src="/maps/20090621_crete/2009-07-05.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-07-05.png" alt="Le trajet" >}}
 
 {{< nextpost>}}
 

@@ -10,7 +10,7 @@ thumbnail="header/20100627_turquie/2010-07-06_09-29-38_3626.jpg"
 
 ## Mardi 6 juillet, vallée du Devrent, Caravansérail de Sahuran (18h) Pinh Vallez dans le couchant Pasabagi.
 
-{{< img src="/maps/20100627_turquie/03-zoom-gorome.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/03-zoom-gorome.png" alt="Le trajet" >}}
 
 
 ### vallée du Devrent 

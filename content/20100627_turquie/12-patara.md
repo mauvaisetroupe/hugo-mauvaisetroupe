@@ -9,7 +9,7 @@ thumbnail="header/20100627_turquie/2010-07-11_09-45-11_4290.jpg"
 
 ## Dimanche 11 Juillet
 
-{{< img src="/maps/20100627_turquie/08-patara-nord.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/08-patara-nord.png" alt="Le trajet" >}}
 
 Nous quittons le port d'Andriake et nous prenons rapidement de la hauteur... On repère en contre-bas l e port où nous avons dormi
 

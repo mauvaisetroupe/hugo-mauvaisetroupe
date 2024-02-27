@@ -11,7 +11,7 @@ thumbnail="header/20100627_turquie/2010-07-21_10-22-57_5327.jpg"
 
 En route vers notre dernière étape : la péninsule de Gallipoli.
 
-{{< img src="/maps/20100627_turquie/12-peninsule.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/12-peninsule.png" alt="Le trajet" >}}
 
 Vers 13H00, on prend un petit ferry pour atteindre la péninsule
 

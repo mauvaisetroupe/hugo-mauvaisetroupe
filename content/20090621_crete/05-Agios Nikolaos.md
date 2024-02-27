@@ -34,7 +34,7 @@ La plage est propre, mais nos voisins ont passé quelque temps à enlever un paq
 
 Le soir, repas dehors, sur la plage, au son de la mer que le vent absent nous laisse entendre.
 
-{{< img src="/maps/20090621_crete/2009-06-29.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-06-29.png" alt="Le trajet" >}}
 
 {{< nextpost>}}
 

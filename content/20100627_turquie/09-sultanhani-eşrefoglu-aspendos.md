@@ -10,7 +10,7 @@ thumbnail="header/20100627_turquie/2010-07-08_09-10-29_3983.jpg"
 ## Jeudi 8 Juillet, route vers le Sud
 
 
-{{< img src="/maps/20100627_turquie/06-cappadoce-cirali.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/06-cappadoce-cirali.png" alt="Le trajet" >}}
 
 
 Levé matinal, il y a encore des montgolfières juste à côté du camping.

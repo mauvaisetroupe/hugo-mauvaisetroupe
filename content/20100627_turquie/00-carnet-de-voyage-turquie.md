@@ -19,9 +19,9 @@ Lorsque les enfants sont nés, le camping-car a remplacé les voyages avec un sa
 
 ### Le trajet complet
 
-{{< img src="/maps/20100627_turquie/full-itinary.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/full-itinary.png" alt="Le trajet" >}}
 
 ### Zoom sur la Turquie
 
-{{< img src="/maps/20100627_turquie/zoom-turquie.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/zoom-turquie.png" alt="Le trajet" >}}
 

@@ -11,4 +11,4 @@ tour-du-monde = ["Tour du monde 2001"]
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/bolivie.gif" alt="Le récit" >}}
+{{< img src="tdm/bolivie.gif" alt="Le récit" >}}

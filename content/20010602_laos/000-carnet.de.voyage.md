@@ -18,4 +18,4 @@ Et partout, le Mékong! Rouge au milieu de toute cette verdure, il s'écoule tra
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/laos.gif" alt="Le récit" >}}
+{{< img src="tdm/laos.gif" alt="Le récit" >}}

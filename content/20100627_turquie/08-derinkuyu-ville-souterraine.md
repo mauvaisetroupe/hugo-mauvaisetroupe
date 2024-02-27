@@ -16,7 +16,7 @@ La matinée est consacrée à la piscine dont nous profitons seuls ! Le bonheur 
 
 L'après midi, direction la ville de Uçhisar dont nous admirons le piton de tuf qui apparaît comme un gros morceau de gruyère. 
 
-{{< img src="/maps/20100627_turquie/04-zoom-gorome.png" alt="Le trajet" >}}
+{{< img src="maps/20100627_turquie/04-zoom-gorome.png" alt="Le trajet" >}}
 
 Successions de pièces, chapelles, habitations diverses sur une vingtaine d'étages, c'est chouette à voir. D'Uçhisar, belle vue sur Göreme, la vallée rose et la Cappadoce en général. 
 

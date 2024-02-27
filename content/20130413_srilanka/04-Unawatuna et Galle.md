@@ -25,7 +25,7 @@ Enfin on s'installe dans le train, 2 banquettes pour nous 5! À l'aise! Ce train
 
 Après un trajet très sympa avec plein de gens différents, on arrive à *Galle*. Dix minutes avant l'arrivée un type est monté et a discuté avec Lionel pour savoir où on allait et nous a conseillé un hôtel (le Rock Hôtel je crois). Trop sympa, il a même téléphoné pour savoir si la chambre familiale était libre! Et il nous a glissé en nous quittant (dites que vous venez de la part du type qui a téléphoné" tout en nous laissant au chauffeur de tuk-tuk. Bref, ça puait la commission à plein nez!
 
-{{< img src="/maps/20130413_srilanka/2013-04-17.png" alt="Le trajet" >}}
+{{< img src="maps/20130413_srilanka/2013-04-17.png" alt="Le trajet" >}}
 
 Je suis poliment allée visiter la chambre (immense, deux immenses lits, une immense salle de bains, une cuisine avec un frigo, une terrasse, MAIS un seul ventilo au dessus d'un seul lit, une chaleur étouffante (sur les hauteurs, pas d'ombre) pas de jardin, et une comm' et 4 500 roupies.
 

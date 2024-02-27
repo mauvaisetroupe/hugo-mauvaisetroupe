@@ -14,4 +14,4 @@ En plus, ce qui ne ne gâte rien, ils sont toujours en train de se marrer, je n'
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/jordanie.gif" alt="Le récit" >}}
+{{< img src="tdm/jordanie.gif" alt="Le récit" >}}

@@ -24,7 +24,7 @@ On visite ensuite Hania... en camping-car. Les rues ne sont pas trop étroite ma
 
 on poursuit la route jusqu'à Kissamos. On passera la nuit sous les arbres à côté de la plage. Giros acheté avecs les deux grans sur les quelques tavernes qui se trouve à l 'extremite de cette plage immense. Amibiance sympa, il y a un peu de monde mais pas trop. Pas mal de grecs...
 
-{{< img src="/maps/20090621_crete/2009-07-07.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-07-07.png" alt="Le trajet" >}}
 
 
 
@@ -41,7 +41,7 @@ Et on arrive sur Elafonassi. J'ai dit que  Falassarna était magnifique, je ne s
 
 On trouve un endroit pour se poser, au bout du parking. Il y a des endroits très chouettes encore plus au bout mais c'est pris et en plus le chemin est un peu rude (on a peur d'accrocher le bas du camping-car)
 
-{{< img src="/maps/20090621_crete/2009-07-08.png" alt="Le trajet" >}}
+{{< img src="maps/20090621_crete/2009-07-08.png" alt="Le trajet" >}}
 
 {{< nextpost>}}
 

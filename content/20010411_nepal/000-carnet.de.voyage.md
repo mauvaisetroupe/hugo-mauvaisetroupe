@@ -20,4 +20,4 @@ Enfin il y a aussi Chittwan, la partie basse du pays, sa jungle peuplee de rhino
 
 {{< pagespays >}}
 ## Le trajet
-{{< img src="/tdm/nepal.gif" alt="Le récit" >}}
+{{< img src="tdm/nepal.gif" alt="Le récit" >}}
