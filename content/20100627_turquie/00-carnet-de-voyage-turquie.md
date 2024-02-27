@@ -5,7 +5,7 @@ date = "2010-06-26"
 pays = ["Turquie"]
 country_summary=true
 menu_display = "Turquie 2010"
-thumbnail="header/20100627_turquie/2010-06-30_10-28-16_2772.jpg"
+thumbnail="/maps/20100627_turquie/full-itinary.png"
 +++
 
 
