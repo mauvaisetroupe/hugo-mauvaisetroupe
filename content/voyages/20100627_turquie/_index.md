@@ -1,6 +1,6 @@
 +++
 title="Turquie 2010"
-thumbnail="header/20090621_crete/2009-06-22_11-41-54_7347.jpg"
+thumbnail="header/20100627_turquie/2010-06-30_10-28-16_2772.jpg"
 inverseorder=true
 +++
 
