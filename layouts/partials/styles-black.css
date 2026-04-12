@@ -186,6 +186,7 @@ article.li .summary {
   height: 6rem;
   overflow: hidden;
   margin-top: 1rem;
+  color: #333;
 }
 
 article.lism {
@@ -632,10 +633,13 @@ section.footer > header a {
 }
 
 {{ range $p := .Site.Pages }}
-{{ with $p.Params.thumbnail }}
-.thumb-{{ $p.File.UniqueID }} {
-  background-image: url({{ $.Site.BaseURL }}{{ . }});
-}
-{{ end }}
+  {{ with $p.Params.thumbnail }}
+    {{/* On génère l'ID unique basé sur le chemin et la langue */}}
+    {{ $uid := printf "%s/%s" $p.Language.Lang $p.Path | hash.FNV32a }}
+    
+    .thumb-{{ $uid }} {
+      background-image: url({{ $.Site.BaseURL }}{{ . }});
+    }
+  {{ end }}
 {{ end }}
 
