@@ -15,9 +15,9 @@
 	
 	<!--LCO -->
 
-	
+	{{ $uid := printf "%s/%s" .Language.Lang .Path | hash.FNV32a }}
 	<article class="sn">
-	  <div class="thumb thumb-{{ .File.UniqueID }}"></div>
+	  <div class="thumb thumb-{{ $uid }}"></div>
 
 	<div class="article-body">{{ .Content }}</div>
 	</article>	

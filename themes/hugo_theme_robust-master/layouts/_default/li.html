@@ -1,6 +1,7 @@
 <article class="li">
   <a href="{{ .Permalink }}">
-    <div class="thumb thumb-{{ .File.UniqueID }}"></div>
+    {{ $uid := printf "%s/%s" .Language.Lang .Path | hash.FNV32a }}
+    <div class="thumb thumb-{{ $uid }}"></div>
 
     <div class="inner">
       <h2 class="title">{{ .Title }}</h2>

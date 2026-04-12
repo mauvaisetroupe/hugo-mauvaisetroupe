@@ -1,6 +1,6 @@
 <article class="sn">
-
-  <div class="thumb thumb-{{ .File.UniqueID }}"></div>
+  {{ $uid := printf "%s/%s" .Language.Lang .Path | hash.FNV32a }}
+  <div class="thumb thumb-{{ $uid }}"></div>
 
   <header class="article-header">
     <h1 class="title">{{ .Title }}</h1>
