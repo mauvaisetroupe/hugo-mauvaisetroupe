@@ -161,6 +161,14 @@ article.li > a {
 
 article.li .inner {
   padding: 1rem;
+  color: #333;
+}
+
+article.li .inner * {
+  color: #333;
+  font-size: 0.8rem;
+  font-weight: normal;
+  line-height: 1.5;
 }
 
 article.li .thumb {
@@ -179,6 +187,7 @@ article.li .summary {
   height: 6rem;
   overflow: hidden;
   margin-top: 1rem;
+  color: #333 !important;
 }
 
 article.li .summary::after {
@@ -684,10 +693,13 @@ section.footer > header a {
 }
 
 {{ range $p := .Site.Pages }}
-{{ with $p.Params.thumbnail }}
-.thumb-{{ $p.File.UniqueID }} {
-  background-image: url({{ $.Site.BaseURL }}{{ . }});
-}
-{{ end }}
+  {{ with $p.Params.thumbnail }}
+    {{/* On génère l'ID unique basé sur le chemin et la langue */}}
+    {{ $uid := printf "%s/%s" $p.Language.Lang $p.Path | hash.FNV32a }}
+    
+    .thumb-{{ $uid }} {
+      background-image: url({{ $.Site.BaseURL }}{{ . }});
+    }
+  {{ end }}
 {{ end }}
 
