@@ -1,6 +1,7 @@
 theme = "hugo_theme_robust-master"
 buildDrafts = true
-Paginate = 100
+[pagination]
+  pagerSize = 100
 
 [blackfriday]
  smartypants = true
