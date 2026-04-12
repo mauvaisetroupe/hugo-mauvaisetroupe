@@ -32,6 +32,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
           # CHANGE LE CHEMIN CI-DESSOUS POUR CHAQUE SITE
-          server-dir: ./www/gros-test-a-supprimer/
+          server-dir: ./www/
           # Optionnel : supprime les fichiers sur OVH qui n'existent plus localement
           # delete-destination: true
