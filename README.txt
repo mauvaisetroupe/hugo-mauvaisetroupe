@@ -16,6 +16,7 @@ find . -type f \( -name "*.jpg" -o -name "*.png" \) -exec sh -c '
     done
 ' sh {} +
 ```
+
 (resampleHeightWidthMax increase size if picture is not larger enough)
 
 
