@@ -35,3 +35,29 @@ jobs:
           server-dir: ./www/
           # Optionnel : supprime les fichiers sur OVH qui n'existent plus localement
           # delete-destination: true
+
+      - name: Archive Sync State and Commit
+        run: |
+          # 1. Nom de fichier fixe pour éviter de polluer le repo
+          FILENAME="mauvaisetroupe-last-sync-state.json"
+          mkdir -p ftp-synchro
+          
+          # 2. On récupère le fichier là où il a été généré
+          if [ -f .ftp-deploy-sync-state.json ]; then
+            cp .ftp-deploy-sync-state.json ftp-synchro/$FILENAME
+          elif [ -f ./public/.ftp-deploy-sync-state.json ]; then
+            cp ./public/.ftp-deploy-sync-state.json ftp-synchro/$FILENAME
+          fi
+          
+          # 3. Commit et Push (si le fichier a changé)
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ftp-synchro/$FILENAME
+          
+          # On vérifie s'il y a des changements pour éviter une erreur si rien n'a bougé
+          if git diff --staged --quiet; then
+            echo "Aucun changement dans l'état de synchro."
+          else
+            git commit -m "chore: update ftp sync state [skip ci]"
+            git push
+          fi    
