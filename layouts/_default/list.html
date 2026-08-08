@@ -37,13 +37,13 @@
 
 		{{ $listToDisplay := (slice )  }}
 		{{ if $filterSumary }}
-			{{ range $ele := .Site.Pages }} 
+			{{ range $ele := .Site.RegularPages }} 
 				{{ if ($ele.Params.country_summary) }}	
 					{{ $listToDisplay = $listToDisplay | append $ele }}
 				{{ end}}
 			{{ end }}	
 		{{ else }}
-			{{ $listToDisplay = .Data.Pages }}
+			{{ $listToDisplay = .RegularPages }}
 		{{ end }}
 		
 		
