@@ -6,6 +6,8 @@ pays = ["Sénégal"]
 thumbnail="header/20120404_senegal/2012-04-04_11-38-48_00302.jpg"
 menu_display = "Sénégal 2012"
 country_summary=true
+continent= "Afrique"
+
 +++
 
 Nos sacs.

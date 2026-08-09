@@ -7,7 +7,9 @@ menu_display = "Thailande 2001"
 thumbnail="tdm/thailande-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
+
 Que de changements par rapport à l'Inde! On a vraiment atterri dans un autre monde. On est revenu au 21ème siècle en quelques sortes. Tant mieux et tant pis. 
 
 La nature est fantastique, verte et généreuse à ne plus savoir où pousser. Il y a plein de forêts, de cascades, ça fait de chouettes balades. Par contre, qu'est-ce ce qu'il peut y avoir comme temples! Partout! Quand on ferme les yeux, on voit Bouddha! C'est vrai que le Bouddha c'est sympa, mais gaffe à l'overdose!

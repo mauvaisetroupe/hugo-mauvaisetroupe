@@ -6,6 +6,7 @@ pays = ["Turquie"]
 country_summary=true
 menu_display = "Turquie 2010"
 thumbnail="/maps/20100627_turquie/full-itinary.png"
+continent= "Moyen-Orient"
 +++
 
 

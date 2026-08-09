@@ -7,6 +7,7 @@ menu_display = "Mexique 2001"
 thumbnail="tdm/mexique-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Amérique"
 +++
 
 {{< pagespays >}}

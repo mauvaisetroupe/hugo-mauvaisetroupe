@@ -7,6 +7,7 @@ menu_display = "Japon 2001"
 thumbnail="tdm/japon-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
 
 {{< pagespays >}}

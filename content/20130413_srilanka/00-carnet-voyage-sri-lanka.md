@@ -6,8 +6,7 @@ pays = ["Sri Lanka"]
 thumbnail="header/20130413_srilanka/2013-04-14_08-40-46-DSC00086.JPG"
 menu_display = "Sri Lanka 2013"
 country_summary=true
-
-
+continent= "Asie"
 +++
 
 

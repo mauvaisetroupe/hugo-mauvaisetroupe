@@ -6,7 +6,7 @@ pays = ["Vietnam"]
 menu_display = "Vietnam 2018"
 country_summary=true
 thumbnail="header/vietnam2018/vietnam-2018-head-1000px.jpg"
-
+continent= "Asie"
 +++
 
 Nous avions visité le Vietnam en couple inconscient il y a bientôt... longtemps.

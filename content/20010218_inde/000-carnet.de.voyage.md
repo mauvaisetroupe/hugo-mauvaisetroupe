@@ -7,7 +7,9 @@ menu_display = "Inde 2001"
 thumbnail="tdm/inde-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
+
 Parler de l'Inde comme d'un simple pays serait lui faire perdre sa dimension (au propre et au figure). Il est preferable de parler de sous-continent indien, donc d'un territoire immense, avec toutes les disparites que cela peut comporter. De la chaine himalayenne de Darjeeling aux cocotiers de Goa, des ghats de Varanasi aux eglises catholiques de Fort Cochin, des ghettos de Bombay aux plages de Trivandrum, ou des ruelles passionnantes de Calcutta a la majestuosite du Taj Mahal, il y a 10 000 lieues. Et c'est ca qui faconne ce pays incroyable.
 
 Pays fascinant s'il en est, l'Inde offre tout de meme des constantes qui sont autant de risques d'atteinte a notre equilibre nerveux si on ne reussit pas a rester zen (pour cela, fermer les ecoutilles que sont les 5 sens s'avere parfois necessaire). Le bruit est incroyable et incessant, les odeurs fantastiques (tant qu'on n'est pas tout malade!), l'agitation extreme, et pourtant, l'apathie incroyable aussi. La curiosite naturelle des indiens est fort sympathique (et explique probablement la rapidite fulgurante a laquelle les nouvelles sont diffusees via le bouche a oreille), leurs mimiques et gestes surprenants, leur parler vehement et leur gentillesse parfois brutale mais bien reelle.

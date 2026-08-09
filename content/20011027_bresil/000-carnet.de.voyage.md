@@ -7,6 +7,7 @@ menu_display = "Bresil 2001"
 thumbnail="tdm/bresil-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Amérique"
 +++
 
 {{< pagespays >}}

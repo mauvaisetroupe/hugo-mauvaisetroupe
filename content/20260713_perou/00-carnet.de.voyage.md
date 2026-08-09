@@ -3,6 +3,7 @@ title: Carnet de Voyage - Pérou en famille
 date: 2026-07-12
 thumbnail: header/20260713_perou/PXL_20260720_201659698.jpg
 country_summary: true
+continent: "Amérique"
 ---
 
 Nous avions visité le Pérou en couple inconscient il y a bientôt... longtemps.

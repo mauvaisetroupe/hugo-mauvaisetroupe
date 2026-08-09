@@ -7,6 +7,7 @@ menu_display = "Thailande 2001 (2)"
 thumbnail="tdm/thailande-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
 Un peu de repos avant de changer de continent...
 

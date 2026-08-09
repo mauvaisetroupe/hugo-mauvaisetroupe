@@ -7,7 +7,9 @@ menu_display = "Nepal 2001"
 thumbnail="tdm/nepal-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
+
 Marion gardait un excellent souvenir du Nepal. De veritables vacances par rapport a l'Inde dans un pays superbe habite par des gens vraiment acceuillants.
 
 Aujourd'hui, notre vision est un peu plus amere. En fait d'accueillants, on a surtout trouve des gens... commercants. Partout, tout le temps. A un tel point qu'on ne sait plus trop si les "Namaste" qui nous sont adresses signifient "bonjour" ou "sors tes billets". Et avec le tourisme de masse qui deferle ici (comme en Inde d'ailleurs), pas sur que cela s'arrange.

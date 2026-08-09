@@ -7,6 +7,7 @@ menu_display = "Cambodge 2001"
 thumbnail="tdm/cambodge-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
 Le Cambodge est un pays qui sort d'une guerre civile et d'un véritable génocide. Il a une histoire récente très complexe, mais c'est aussi un pays où les gens sont très accueillants malgré la pauvreté de la plupart 
 

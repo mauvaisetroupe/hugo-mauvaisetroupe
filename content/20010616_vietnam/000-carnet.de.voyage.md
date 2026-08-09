@@ -7,6 +7,7 @@ menu_display = "Vietnam 2001"
 thumbnail="tdm/vietnam-stamp.jpg"
 country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
+continent= "Asie"
 +++
 On a rencontré pas mal de voyageurs qui venaient du Vietnam et qui étaient déçus par les vietnamiens qu'ils avaient trouvés antipathiques. Et bien pas nous! On est tombé sur des gens accueillants et amicaux et qui ont presque toujours répondu à nos sourires - quand il ne les avaient pas provoqués. 
 
