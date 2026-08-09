@@ -310,27 +310,58 @@ De plus en plus autonome la famille, prête à s'installer dans cette partie du 
 {{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq11.03" >}}
 
 ## Dimanche 02 août - Amazonie Jour #5
+
 Réveil à 4:30, départ à 5h. Aujourd'hui on remonte pendant 6 heures jusqu'à l'entrée du parc. 
 
+{{< picture-folder folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_05-04-10 >}}
+
+
 Marion et moi nous nous relayons pour pagayer pour aider Santos. Au bout de 30 minutes on a les bras en compote. Ils sont costauds nos guides (et peut-être aussi un peu plus de techniques que nous)
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_05-42-11 >}}
 
 Encore plein d'oiseaux, des singes. Et aussi un caïman.
 
 Premier arrêt pour le petit déjeuner. Un endroit un peu boueux mais pas trop. Les guides installeht une bâche nappe. Pain, confiture (qui s'achète dans des pots en plastique genre beurre), avocats, thé.. en pleine jungle. C'est fou...
 
-On reprend la route, l'eau a baissé et visiblement on prend une route un peu différente de l'aller. A deux reprises on est bloqué par des arbres qui bloquent la route. Le bateau va passer mais pas nous ! On est est obligé de jouer les équilibristes et de passer au dessus de l'arbre tout en faisant passer le canoë sous l'obstacle... Ouf, personne ne tombe à l'eau ! 
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_07-13-08 >}}
+
+On reprend la route, l'eau a baissé et visiblement on prend une route un peu différente de l'aller. 
+
+
+{{< picture-folder folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_08-42-00 >}}
+
+A deux reprises on est bloqué par des arbres qui bloquent la route. Le bateau va passer mais pas nous ! On est est obligé de jouer les équilibristes et de passer au dessus de l'arbre tout en faisant passer le canoë sous l'obstacle... Ouf, personne ne tombe à l'eau ! 
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_08-31-21 >}}
+
+Mais on avance...
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_10-22-08.01 >}}
 
 Vers 11h on s'arrête sur une plage, mais oui, avec du vrai sable, pour la pause déjeuner. Riz, salade composée, oeuf (avec mayonnaise !) et thon. 
 
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_10-22-08.02 >}}
+
 Mince il pleuviote ! Mais rapidement c'est la méga drache ! Il pleut fort, très fort. Ça va s'arrêter cela ne dure jamais longtemps ici, on a eu de la pluie 2 ou 3 fois, a peine le temps de sortir les ponchos que ça s'arrête déjà. On est sous nos poncho, a éviter de bouger pour ne pas être trop mouillé. A ce propos les ponchos de Decathlon ne sont vraiment pas top ! Riener nous fait signe, on va repartir, on n'attend pas la fin de l'orage.
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_10-22-08.03 >}}
 
 L'orage ne s'arrête pas.
 
+{{< picture-folder folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_10-22-08.04 >}}
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_12-17-57 >}}
+
 Une heure plus tard on est à l'entrée de la réserve. On se met au sec, on fait nos adieux à Tachy et Santos, Riener nous accompagne dans la moto remorque venue nous chercher. 
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_13-12-06 >}}
 
 On s'installe dans les chambres prêtées par Acatupel, les garçons sont un peu surpris de ne pas retrouver leur chambre tout confort dans l'hospedaje voisin, manque de bol pour eux cette fois ci il y a une chambre plus modeste disponible.
 
 Nos affaires sont humides et honnêtement elles ne sentent pas bon !
+
+{{< picture-grid folder=images/20260713_perou/06-la-jungle-amazonienne/0802/2026-08-02_16-06-01 >}}
 
 On demande de l'aide à Marita (est-ce vraiment elle, il y a discussion en interne) pour le bateau de retour. Ça cafouille un peu, pas sûr qu'il y ait de la place demain dans les bateaux rapides, pourquoi pas ne pas prendre le lent qui part à 22h ce soir. On dort comment ? Avec les hamacs. Comment ça vous n'en avez pas ?
 
@@ -339,4 +370,3 @@ Cerise veut se dégourdir les jambes, je la suis, on part tout droit et on arriv
 Dîner en face (99 soles au total, 25 pour les carnivores qui ont un 1/4 de poulet, 12 pour les végétariens). La petite fille qui a une dizaine d'années et qui aide ses parents à l'air toujours aussi fière d'être avec des touristes 
 
 On se couche tôt, il est 19h et on dort pas trop mal étant donné le bruit (télé des voisins mais comme il y a un espace énorme entre le haut des murs et le toit, ça passe, bruit des motos que la porte en bois n'arrête pas vraiment, boîte de nuit un peu plus loin, c'est vivant !
-
