@@ -11,11 +11,15 @@ Vraiment l'hospedaje où on a atterri par hasard est top (pour info on a payé 1
 
 Il fait presque bon.
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0728/seq01" >}}
+
 On finit plus ou moins par hasard sur un supermarché énorme, à l'étage d'un bâtiment. Au rez-de-chaussée il y a un Castorama-like... On n'est vraiment plus sur le lac Titicaca. 
 
 On tombe sur un distributeur bancomat qui n'accepte pas les cartes étrangères, on n'avait pas encore vu ça ! Le soleil tape. Ça y est je dégouline !
 
 On retourne à l'hôtel pour faire nos sacs. Le monsieur nous accompagne au bancomat qui refuse notre carte car on lui a expliqué qu'il est censé l'accepter. Il est tellement sympa qu'on le suit mais évidemment cela ne fonctionne pas.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0728/seq02" >}}
 
 Une trentaine de minutes pour rejoindre le terminal des bus qui partent à Yurimaguas. Il est 10h45.  Il y a un bancomat Cajeros BCP pour retirer le cash qui nous manquait. On s'installe dans un des minibus qui se remplit assez rapidement. Le gars joue a l'équilibriste pour attacher les bagages, dont nos sacs qui sont loin d'être les plus volumineux. 
 
@@ -25,9 +29,13 @@ On arrive à Yurimaguas à 13:45. Le minibus est vite entouré de moto taxis. Il
 
 On tourne un peu avant d'arriver à Puerto la Boca d'où partent les bateaux rapides pour Lagunas. Il est un peu.plus de 14:30, le bateau part bien à 16h et coûte 60 soles par personne comme décrit par Marita, la dame de l'agence Acatupel qui vient nous chercher quand on arrive à lagunas.
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0728/seq03" >}}
+
 Le bateau ressemble a un corps d'avion mais sans aile. Il est tout long mais très étroit. Il y a 4 rangées de sièges séparés par un couloir. Il manque seulement les petits chariots avec boissons et les repas ! Autre point commun avec l'avion sans aile, le bruit du moteur. Mais là comparaison s'arrête là, on n'avance pas à 1000 km/h. 
 
 Le fleuve est immense, vraiment très large. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0728/seq04" >}}
 
 Joli coucher de soleil 
 
@@ -35,18 +43,28 @@ C'est long. On met plus de 4h30, on avance à 40,. peut-être 50 km/h. La distan
 
 On arrive à Lagunas vers 20h45. Deux motos taxis envoyées par Marita de l'agence Acatupel sont là pour nous accueillir. On arrive à l'agence 15 minutes plus tard. Petit speech pour nous expliquer ce qu'on va faire sur une carte dessinée sur un énorme tissu accroché au mur. 
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0728/seq05" >}}
+
 On va manger pour 77 soles dans un resto qui fait l'angle, en face de l'agence. On prend deux énormes caldo de gallina (bouillon de poule) des oeufs pour Cerise et Hippo, du poulet pour les autres, le tout accompagné d'un succulent riz. Le gars du resto vient discuter, les enfants, la famille... Il est content de nous offrir deux énormes bananes (planta) frites, ça lui fait plaisir 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0728/seq06" >}}
 
 Les parents dorment dans une chambre assez sommaire gentillement mise à disposition par l'agence. Idem pour Cerise. Les murs s'arrêtent à 2 mètres ou 2.5m de hauteur, du coup on peut facilement discuter avec Cerise et profiter des bruits de la rue (mais où vont ces motos en pleine nuit). Les garçons sont hébergés dans un vrai hospedaje, chambre d'hôtel aux normes occidentales (pas non-plus le luxe, hein), ils font les fières parce qu'ils ont une télévision. Ils regardent les Schtroumpf !
 
 ## Mercredi 29 Juillet, Amazonie jour #1
 Petit déjeuner vers 7h30, on mange tout le temps dans ce pays! 
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq01" >}}
+
 Une moto remorque vient nous chercher un peu avant 8h. Il s'agit vraiment d'une moto qui tracte une énorme remorque ou on peut tranquille s'asseoir tous les 5. La balade est très secouante et dure un peu plus de 30 minutes. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq02" >}}
 
 On arrive à l'entrée du parc. Petite explication de la part du jeune qui travaille dans ce poste de contrôle. Il nous explique ce qu'on peut voir ou pas en fonction des mois de l'année. C'est chouette mais on meurt de chaud !
 
 On a deux canoë et 3 guides pour la famille. Les parents sont en pirogue avec Santos, les enfants avec Riener et Tachy.  Santos, c'est le frère de Tachy qui est l'épouse de Riener, qui semble être le guide principal. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq03" >}}
 
 C'est parti pour la première balade en canoë. Au fil de l'eau, on rencontre les arbres qui marchent, le "palmera caminante" (Socratea exorrhiza), le guide l'appelle pona - ils feraient avancer leurs racines pour trouver le soleil, paraît que c'est une légende, des palmier dont les feuilles servent à construire des toits. 
 
@@ -54,17 +72,45 @@ On aperçoit nos premiers renacos, le figuier étrangleur, qui commence sa vie e
 
 Il y a beaucoup de papillons qui viennent dire bonjour à Marion.
 
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq04" >}}
+
 On voit aussi beaucoup de nid de fourmis énorme dans un palmier.
  
 Beaucoup d'oiseaux également. Tout en haut d'un palmier, nos premiers perroquets bleu. Un calpintero (pic vert)
 
-Nos premiers singes également. Il y en a visibilité pas mal!
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq05" >}}
+
+Nos premiers singes également. 
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq06.01" >}}
+
+Il y en a visibilement pas mal!
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq06.02" >}}
+
+On voit également deux paresseux. Trop mignnnnons !
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq07" >}}
+
+Un iguane.
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq08" >}}
+
+Enormément d'oiseaux
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq09" >}}
+
+La balade en canoé est vraiment chouette, même si il se met à pleivoir légèrement, cela ne dure pas.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq10" >}}
 
 On arrive à Santa Gloria notre premier campement vers 16h. On prend l'almuerzo  grosse plâtrée de pâte au légumes. On ne va pas mourir de faim !
 
 On retrouve les deux filles et le gars espagnols avec qui on a mangé hier soir à l'agence Acatupel. Une des filles est partie de iquitos, 12 heures de speed boat. Vendu un tour de 5 jours mais en fait seulement 3. Je ne sais pas pourquoi venir de Iquitos à Lagunas pour visiter la jungle... En tout cas c'est plus court depuis Tarapoto !
 
 Un jeuen couple de français arrivent un peu plus tard. La fille était installée au Pérou, ingénieur agronome, hébergée par une famille péruvienne. Elle s'est sentie obligée de manger du cuy (cochon d'Inde). Miam miam. Ils sont faits un tour de 6 jours et on eu la chance de voir un singe araignée qui se pend par la queue. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq11" >}}
 
 On se baigne dans l'eau de la rivière, c'est trop agréable même si on est un peu inquièts lorsque quelque chose vient vous toucher le pieds. L'eau est propre mais elle est assez opaque, rouge, la couleur est donnée par les plantes qui tombent dans la rivière nous a raconté notre guide.
 
@@ -82,19 +128,31 @@ On entend les singes hurleurs qui font des bruits de rafale de vent (la fille ag
 
 La nuit, la température était plutôt agréable, on a même supporté un petit drap sous la moustiquaire.
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq02" >}}
+
 Nos guides ont dormi sur la terrasse ou le ponton, sur les matelas fins qu'ils transportent roulés dans les canoë. Nos matelas étaient sur place (un peu dégueu et Cerise trouve que le sien ne sent pas bon), mais on a amené avec nous les draps et le smoustiquaires.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq03" >}}
 
 Nos maillots de bain ne sont évidemment pas secs. L'air est très humide. Nos guides ont lavé des vêtements hier soir. Ils ont refait une lessive de matin (le terme lessive est peut être un peu forr, il ont plutôt rincé leurs affaires). Ce ne sera jamais sec avant de partir, cela va sécher sur le bateau.... 
 
 Marion commence la journée avec une séance photo avec plein d'oiseau.
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq04" >}}
+
 A 7h30, petit déjeuner préparé par Tachy.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq01" >}}
 
 Les guides défont le campement y compris bouteille de gaz. On aide à plier les moustiquaires et les draps. Il y a deux gardes qui restent ici, ils s'occupent probablement du camp.
 
 À 8:30, on part. Il fait déjà vraiment chaud et je dégouline de transpiration.
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq05" >}}
+
 A 10h, on observe un dauphin gris et un rose, on reste dans les canoës silencieux à observer le spectacle. Ils jouent à cache-cache avec nous, un coup derrière, on se retourne, et il refont surface quelques minutes plus tard, évidemment pas là où on regarde. Impossible de les prendre en photo, ils font exprès c'est sûr !
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq06" >}}
 
 On ratrappe le gars espagnol vers 11h. Les personnes qui font un tour de 3 jours dorment les 2 nuits à gloria. Notre rameur et le rameur du gars discutent et blaguent. Ils parlent espagnol entre eux, mais même Cerise ne capte pas grand chose. A priori une histoire de prononciation et d'accent, peut-être des expressions locales. Quand ils s'adressent a nous c'est beaucoup plus clair. 
 
@@ -104,9 +162,13 @@ On discute avec Santos. En juillet, août et septembre, il y a beaucoup de touri
 
 On voit de tout petit singe (ils doivent faire 20 ou 30 cm). Le guide les nomme pichico.
 
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq07" >}}
+
 Vers midi, nos premiers martin pescadore, les martins pêcheurs et un oiseau préhistorique, le shansho (Opisthocomus hoazin) (12:08)
 
 A 12h20, on arrive à campamento panteon. C'est beaucoup plus sommaire que Gloria, mais on préfère. Pas de chambre en dur. Juste un abri en bois avec un toit en feuilles de palmier. Les feuilles de palmier c'est tellement efficace pour fabriquer des toits que nos guides tendent une énorme bâche sur la structure en bois sous le toit, pour nous protéger de la pluie éventuelle.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq08" >}}
 
 Il y 5 matelas qui sont là. Les draps, les moustiquaires et voilà notre campement pour prêts pour la nuit.
 
@@ -114,11 +176,20 @@ Almuerzo, on mange du riz et du poison pour les non-végétariens qui ont des œ
 
 Vers 15 heures on s'équipe de nos bottes et on va faire une première balade dans la forêt à 10 minutes en canoë du campement. 
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq09" >}}
+
 A peine les pieds posés au sol, on se fait attaquer par des dizaines et des dizaines de moustiques. C'est un peu stressant. 
 
 On croise des arbres géants.
 
-Au bout de 40 minutes on arrive à un tout petit lac. Ça frétille de poisson en surface. Qui veut pêcher ? Malo, mais il n'attrapera rien ! Par contre Marion s'y met également et attrape un énorme poisson. Elle a l'air moyen contente quand Santos lui balance un bâton pour le tuer. C'est finalement Riener qui va le faire.
+Au bout de 40 minutes on arrive à un tout petit lac. Ça frétille de poisson en surface. Qui veut pêcher ? Malo, mais il n'attrapera rien ! Par contre Marion s'y met également et attrape un énorme poisson. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq10.01" >}}
+
+Elle a l'air moyen contente quand Santos lui balance un bâton pour le tuer. C'est finalement Riener qui va le faire.
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0730/seq10.02" >}}
+
 
 Retour au campement. On fait un plouf pour se rafraichir et se décrasser. Il n'y a pas de douche ici. Ça fait un bien fou même si la description est un peu beurk beurk. Ici pas de ponton, on descend en s'accrochent avec nos orteils comme on peut dans la boue. Ça glisse !
 
