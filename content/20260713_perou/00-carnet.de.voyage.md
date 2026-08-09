@@ -13,4 +13,7 @@ En route!
 
 {{< pagespays >}}
 
+## Le trajet
+
+![alt text](/maps/20260713_perou/perou-map.png)
 
