@@ -11,7 +11,7 @@ A 4:40, on est encore en train de tourner en voiture avec Marion. Entre les trav
 
 On gare la voiture et on va récupérer les enfants qu'on avait lâchés devant l'aéroport. Ils sont déjà loin dans la file, contrairement aux idées reçues, les matins à l'aéroport de Luxembourg, il y a souvent du monde! Du moins c'est ce que nous dit ce couple qui nous laisse les doubler. Ils fuient la canicule et s'envolent vers le Danemark, nous ce sera l'hiver austral du Pérou.
 
-{{< picture-folder folder="images/20260713_perou/01-arrivee-a-cusco" >}}
+{{< picture-folder folder="images/20260713_perou/01-arrivee-a-cusco/seq0" >}}
 
 Car oui, on va au Pérou. C'est le choix last minutes puisqu'on a (trop) longtemps hésité entre Guatemala et Bolivie. C'est la disponibilité et le prix des billets d'avion qui nous ont guidé vers cette destination faîte il y a quelques 30 ans pour ceux de la famille qui étaient déjà nés.
 
