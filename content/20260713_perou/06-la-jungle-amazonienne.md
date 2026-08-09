@@ -106,15 +106,19 @@ La balade en canoé est vraiment chouette, même si il se met à pleivoir légè
 
 On arrive à Santa Gloria notre premier campement vers 16h. On prend l'almuerzo  grosse plâtrée de pâte au légumes. On ne va pas mourir de faim !
 
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq11" >}}
+
 On retrouve les deux filles et le gars espagnols avec qui on a mangé hier soir à l'agence Acatupel. Une des filles est partie de iquitos, 12 heures de speed boat. Vendu un tour de 5 jours mais en fait seulement 3. Je ne sais pas pourquoi venir de Iquitos à Lagunas pour visiter la jungle... En tout cas c'est plus court depuis Tarapoto !
 
 Un jeuen couple de français arrivent un peu plus tard. La fille était installée au Pérou, ingénieur agronome, hébergée par une famille péruvienne. Elle s'est sentie obligée de manger du cuy (cochon d'Inde). Miam miam. Ils sont faits un tour de 6 jours et on eu la chance de voir un singe araignée qui se pend par la queue. 
 
-{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq11" >}}
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq12" >}}
 
 On se baigne dans l'eau de la rivière, c'est trop agréable même si on est un peu inquièts lorsque quelque chose vient vous toucher le pieds. L'eau est propre mais elle est assez opaque, rouge, la couleur est donnée par les plantes qui tombent dans la rivière nous a raconté notre guide.
 
 Oeuf frit et banane trites pour un dîner quelques heures après le déjeuner. On ne va pas mourir de faim ! 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0729/seq13" >}}
 
 Ceux qui partent seulement 3 jours (comme le gars espagnol) font un tour de canoë. Nous on reste au campement. Pendant qu'on discuté avec Riner, Malo et Hippo repère à l'aide de leurs lampes torche, les yeux d'un caïman, et un peu plus loins des ragondins ou opossum 
 
@@ -203,11 +207,17 @@ Vers 19h, balade en canoë dans la nuit, on pensait voir des dizaines de caïman
 
 Réveil vers 6h. Il fait presque frisquet (c'est exagéré). Les moustiques tournent autour de la moustiquaire, ça donne envie de rester couché sur nos matelas à même le sol. On se badigeonné d'anti moustiques, c'est ça ou on ne sort pas de la moustiquaire !
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq01" >}}
+
 On laisse nos affaires de nuit au campement. Il était prévu de dormir dans un 3eme endroit, Camotal, mais c'est un poste tenu par les gardiens et c'est fermé. On va donc y aller pour le déjeuner, mais on n'y restera pas. On passera  une seconde nuit à Panteon. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq02" >}}
 
 On navigue un bon moment avec des dauphins qui ont l'air de suivre le bateau.
 
 On arrive à Camotal. C'est une grosse maison sur pilotis, avec même un petit panneau solaire. Les touristes y dorment quand c'est ouvert, dans le bâtiment, sinon il y a un grand terrain plat sur le côté, pour des toiles de tente, mais ça dépend de la saison, Riener dit que l'eau n'est pas assez basse, il y a des serpents en ce moment. De toute façon nous on est mieux à Panteon !
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq03" >}}
 
 Premier plouf à Camotal, on part d'un ponton. Ca fait un bien fou de faire un peu descendre la température corporelle dans l'eau fraîche (mais pas froide)
 
@@ -215,7 +225,11 @@ Déjeuner. Riz, légumes excellents, oeuf.
 
 Balade en forêt, découverte d'arbres et plantes aux vertus médicinales. 
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq04" >}}
+
 On revoit le renaco, l'arbre étrangleur !
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq05" >}}
 
 Sur la route on entend les singes hurleurs, Riener nous propose de nous en approcher. C'est vraiment impressionnant ! Ce bruit qu'ils font, c'est presque flippant ! Malgré leur vacarme, ils nous entendent, et disparaissent comme par magie. On ne les verra pas...
 
@@ -223,36 +237,77 @@ Rider nous montre le Lupuna Colorado, un arbre qui empoisonne. Il suffirait de m
 
 Cette balade, c'est surtout l'occasion d'aller se balancer sur une liane. Un support pour poser les pieds a été bricolé par des guides, il faut monter sur la racine géante de l'arbre où est accrochée la liane pour s'agripper et faire tarzan !
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq06" >}}
+
 Retour a Camotal, encore un plouf.
 
 On remonte en canoë le rio jusqu'à Panteon, on est mieux ici c'est plus sauvage que si on avait dormi à Camotal. On a de la chance d'être seul. Ce n'est pas toujours le cas !
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq07" >}}
+
 Repas , soupe aux pâtes déshydratées et plein de légumes, délicieux. Contrairement à hier, la chaleur moite est difficilement supportable, même pour nos guides. On discute un peu avec Tachy, ils ont trois enfants, l'aînée à un peu plus de 20 ans, elle s'occupe des frères et sœurs de 13 et 9 ans. L'année prochaine, elle ne sera sans doute plus à Lagunas et ne pourra plus s'occuper de la fratrie, et Tachy ne sait pas si elle pourra continuer à venir en forêt avec les touristes. Elle aime la forêt mais elle aime surtout travailler !
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq08" >}}
+
 
 Balade en pirogue, on voit deux tout  serpents et un caïman avec des yeux rouges qui se repère de loin. On voit aussi un bébé caïman de 40 ou 50 cm. Trop mignonnnnnn! 
 
 ## Samedi 01 août - Amazonie Jour #4
-Deuxième nuit à Panteon, on a tous bien dormi. Petit déjeuner à 7:30 préparé par Tachy, une préparation de légumes avec des oignons brocolis, choux. Un régal 
 
+Deuxième nuit à Panteon, on a tous bien dormi. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq01" >}}
+
+Petit déjeuner à 7:30 préparé par Tachy, une préparation de légumes avec des oignons brocolis, choux. Un régal 
 On replie le camp, il faut plier les moustiquaires, les bâches, charger les bateaux.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq03" >}}
 
 Santos a passé beaucoup de temps à réparer son bateau, on l'entendait taper dessus. Ce matin en partant il nous dit qu'il y a un petit trou ! Il rafistole rapidement avec de l'argile ! On part il est un peu plus de 9h.
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq04" >}}
+
 On a la chance de voir un lobo de rivo (loutre géante) (9:38) Elllle nage la tête hors de l'eau trop mignonnnnn !
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq05" >}}
 
 On aperçoit un peu après des aigle au dessus de notre tête, águila en espagnol (13 espèces différentes dans la réserve selon Santos) (9:49) (10:10)
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq06" >}}
+
 Ça rame, on remonte le courant, on pagaie, Marion s'y met pour aider Santos. 
 
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq07" >}}
+
 On arrive à Gloria il est quasi 13h. On a fait nos lits et on a installé nos mousquetaires tout seul comme des grands. Pour être honnête, moi j''ai voté pour laisser faire nos guides pour que tout ne se détache pas pendant la nuit, mais j'étais minoritaire. Bref, on devient de plus en plus autonome, on est prêt à partir en autonomie.
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq08" >}}
 
 Riener explique à Cerise que demain on doit se lever à 4h30, il faudra être prêts à 5h du matin pour partir. Il y a 6 heures de route. On prendra le petit déjeuner et le déjeuner sur la route.
 
 Il fait chaud.
 
-Marion et Malo partent avec Riener pour aller pêcher. Les autres restent à Gloria pour faire des ploufs, après midis piscine en quelque sorte ! 
+Marion et Malo partent avec Riener pour aller pêcher. 
 
-Les deux pêcheurs rentrent, très fiers de leur butin (3 poissons chacun, Riener on a pêché le double ounke triple à lui seul). N'empêche que ce soir on mange leurs poisons, des piranhas qui restent impressionnants avec leurs dents aiguisées, même dans nos assiettes. De plus en plus autonome la famille, prête à s'installer dans cette partie du monde où la nature hostile fait sa loi !
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq10.01" >}}
+
+{{< picture-folder folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq10.02" >}}
+
+Les autres restent à Gloria pour faire des ploufs, après midis piscine en quelque sorte ! 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq09" >}}
+
+Les deux pêcheurs rentrent, très fiers de leur butin (3 poissons chacun, Riener on a pêché le double ounke triple à lui seul). 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq11.01" >}}
+
+N'empêche que ce soir on mange leurs poisons, des piranhas qui restent impressionnants avec leurs dents aiguisées, même dans nos assiettes. 
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq11.02" >}}
+
+De plus en plus autonome la famille, prête à s'installer dans cette partie du monde où la nature hostile fait sa loi !  
+
+{{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0801/seq11.03" >}}
 
 ## Dimanche 02 août - Amazonie Jour #5
 Réveil à 4:30, départ à 5h. Aujourd'hui on remonte pendant 6 heures jusqu'à l'entrée du parc. 
