@@ -1,6 +1,6 @@
 Corige le texte que je te donne, 
 
-Corige le texte de tous le fichiers markdown du folder /content/20010602_laos
+Corige le texte de tous le fichiers markdown du folder /content/20010616_vietnam
 
 - Corrige l'orthographe et les coquilles, reste proche du texte, ne change que ce qui est nécessaire
 - Pour le formatage de la ponctuation, colle la ponctuation "?" et "!" directement à la lettre qui la précède, sans espace, example Salut, ça va bien?
