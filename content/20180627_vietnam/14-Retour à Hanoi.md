@@ -16,7 +16,7 @@ Vélo pour Marion et moi qui allons chercher des banh mi eggs et vache qui rit.
 
 Pluie qui n'empêche pas les enfants de profiter de la piscine.
 
-C'est le gars de l'hôtel nous amène à l'aéroport de Da Nang. On part à 15h. Notre vol initialement prévu à 17h à été repoussé à 17:40. On traverse Da Nang. Toute une partie de la côte est très luxueuse, golf, hôtel imposants et autre ressort. La plage est très jolie, bordée de palmiers. À vue d'œil, comme ça, rapidement vu depuis la voiture, je dirais quelle est même plus jolie que celle de Hoi An. Par contre le ville, très grande et très moderne, fait moins envie que la belle Hoi An.
+C'est le gars de l'hôtel nous amène à l'aéroport de Da Nang. On part à 15h. Notre vol initialement prévu à 17h à été repoussé à 17:40. On traverse Da Nang. Toute une partie de la côte est très luxueuse, golf, hôtel imposants et autre ressort. La plage est très jolie, bordée de palmiers. À vue d'oeil, comme ça, rapidement vu depuis la voiture, je dirais quelle est même plus jolie que celle de Hoi An. Par contre le ville, très grande et très moderne, fait moins envie que la belle Hoi An.
 
 On arrive à l'aéroport vers 15:40. On attend. On attend. Notre vol est finalement repoussé à 19:35. On sait pas trop pourquoi… ce qui est dommage c'est que ça nous prive de notre dernière soirée à Hanoï.
 

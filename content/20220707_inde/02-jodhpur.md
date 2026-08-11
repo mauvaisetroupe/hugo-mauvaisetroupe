@@ -26,9 +26,9 @@ Deuxième jour à Jodhpur. Cette fois ci on se lève tôt, c'est sûr ! La nuit 
 
 On prend rendez-vous sur doctolib pour une consultation en ligne. Sera-ce efficace ? 
 
-Finalement, discussion avec les deux sœurs qui tiennent l'hôtel. Elle nous conseille l'hôpital gouvernemental, c'est juste à côté de la Tower Clock et d'après elle, les docteurs y sont vraiment bien. 
+Finalement, discussion avec les deux soeurs qui tiennent l'hôtel. Elle nous conseille l'hôpital gouvernemental, c'est juste à côté de la Tower Clock et d'après elle, les docteurs y sont vraiment bien. 
 
-On ira à la Forteresse plus tard. Une des sœurs accompagne gentiment Marion et Hippolyte jusqu'à l'hôpital. A notre grand étonnement, c'est très rapide. Marion revient même pas une heure plus tard avec des médicaments, dont des antibiotiques. La doctoresse ne croit pas du tout à l'appendice. Ouf.
+On ira à la Forteresse plus tard. Une des soeurs accompagne gentiment Marion et Hippolyte jusqu'à l'hôpital. A notre grand étonnement, c'est très rapide. Marion revient même pas une heure plus tard avec des médicaments, dont des antibiotiques. La doctoresse ne croit pas du tout à l'appendice. Ouf.
 
 Visite de la forteresse à l'heure la plus chaude de la journée. La visite sans audioguide (pour cause de COVID vous dit-on) est assez chère mais l'endroit est vraiment magnifique. L'intérieur de la forteresse transformé en musée n'est pas extraordinaire sans explication d'un guide. Mais la Forteresse en soit est incroyable, et la vue est vraiment époustouflante sur Jodhpur la ville bleue. 
 

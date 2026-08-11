@@ -52,7 +52,7 @@ Bref cas discute, ça tergiverse. On finit par se dire qu'on peut passer ces deu
 
 Balade à pied dans Hoi An. Déjeuner dans un resto croisé au pif. Un végétarien trop bon où tu composes ton assiette de plein de choses rigolotes dont tu ignores le nom et le goût (le resto s'appelle le Quan Chay Dam)
 
-Achats de babioles souvenir. Hippolyte s'en d'une à cœur joie de négocier les prix.
+Achats de babioles souvenir. Hippolyte s'en d'une à coeur joie de négocier les prix.
 
 Dîner dans la rue. Banh mi fried egg, vache qui rit. Car oui, ici on a retrouvé la vache qui rit qui nous avait nourri il y a quelques années au Vietnam. Et c'est la première fois de ce voyage qu'on en retrouve dans les étales.
 

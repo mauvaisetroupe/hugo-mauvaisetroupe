@@ -24,7 +24,7 @@ Ce soir c'est finale de coupe du monde.
 
 ## Lundi 16 juillet Tra Que, temple et piscine
 
-Petit déjeuner superbe à l'hôtel Osaka. Chacun reçoit un papier avec la liste des plats et boissons et des cases à cocher. On peut en cocher autant qu'on le souhaite. La classe ! Baguette, toast, beurre confiture, fromage, œufs sous toutes ses formes salade fraîche, tomates fries. Et j'en passe.
+Petit déjeuner superbe à l'hôtel Osaka. Chacun reçoit un papier avec la liste des plats et boissons et des cases à cocher. On peut en cocher autant qu'on le souhaite. La classe ! Baguette, toast, beurre confiture, fromage, oeufs sous toutes ses formes salade fraîche, tomates fries. Et j'en passe.
 
 Petite balade à pied dans les incroyables jardins potagers de Travail Que. Tout est nickel, aligné, arrosé.
 

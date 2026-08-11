@@ -128,7 +128,7 @@ On se couche sous nos moustiquaires, c'est confortable et rassurant par rapport 
 
 Nos guides s'agitent vers 6h. Ils préparent les petits déjeuners.
 
-On entend les singes hurleurs qui font des bruits de rafale de vent (la fille agronome hier soir nous l'avait décrit comme ça, on avait eu du mal à l'entendre mais ce matin c'est beaucoup plus clair), des oiseaux, des grenouilles qui doivent être grosses comme un bœuf pour avoir autant de voix, pleins de bruit de forêt.
+On entend les singes hurleurs qui font des bruits de rafale de vent (la fille agronome hier soir nous l'avait décrit comme ça, on avait eu du mal à l'entendre mais ce matin c'est beaucoup plus clair), des oiseaux, des grenouilles qui doivent être grosses comme un boeuf pour avoir autant de voix, pleins de bruit de forêt.
 
 La nuit, la température était plutôt agréable, on a même supporté un petit drap sous la moustiquaire.
 
@@ -176,7 +176,7 @@ A 12h20, on arrive à campamento panteon. C'est beaucoup plus sommaire que Glori
 
 Il y 5 matelas qui sont là. Les draps, les moustiquaires et voilà notre campement pour prêts pour la nuit.
 
-Almuerzo, on mange du riz et du poison pour les non-végétariens qui ont des œufs. Les guides ont amené un seau avec couvercle, il est transparent et il est rempli d'oeufs !
+Almuerzo, on mange du riz et du poison pour les non-végétariens qui ont des oeufs. Les guides ont amené un seau avec couvercle, il est transparent et il est rempli d'oeufs !
 
 Vers 15 heures on s'équipe de nos bottes et on va faire une première balade dans la forêt à 10 minutes en canoë du campement. 
 
@@ -245,7 +245,7 @@ On remonte en canoë le rio jusqu'à Panteon, on est mieux ici c'est plus sauvag
 
 {{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq07" >}}
 
-Repas , soupe aux pâtes déshydratées et plein de légumes, délicieux. Contrairement à hier, la chaleur moite est difficilement supportable, même pour nos guides. On discute un peu avec Tachy, ils ont trois enfants, l'aînée à un peu plus de 20 ans, elle s'occupe des frères et sœurs de 13 et 9 ans. L'année prochaine, elle ne sera sans doute plus à Lagunas et ne pourra plus s'occuper de la fratrie, et Tachy ne sait pas si elle pourra continuer à venir en forêt avec les touristes. Elle aime la forêt mais elle aime surtout travailler !
+Repas , soupe aux pâtes déshydratées et plein de légumes, délicieux. Contrairement à hier, la chaleur moite est difficilement supportable, même pour nos guides. On discute un peu avec Tachy, ils ont trois enfants, l'aînée à un peu plus de 20 ans, elle s'occupe des frères et soeurs de 13 et 9 ans. L'année prochaine, elle ne sera sans doute plus à Lagunas et ne pourra plus s'occuper de la fratrie, et Tachy ne sait pas si elle pourra continuer à venir en forêt avec les touristes. Elle aime la forêt mais elle aime surtout travailler !
 
 {{< picture-grid folder="images/20260713_perou/06-la-jungle-amazonienne/0731/seq08" >}}
 

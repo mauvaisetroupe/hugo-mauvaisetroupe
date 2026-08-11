@@ -30,7 +30,7 @@ On se promène en ville pour trouver un endroit pour manger. Sur la place centra
 Il y a plein de petits restos qui servent une cena (repas du soir) avec soupe et plat. Mais là soupe n'est jamais végétarienne. On tourne un peu, mais c'est chaud fois la même chose. On finit par en trouver un qui a le plat végé (omelette verduras) et non végé (poulet purée). La soupe, elle est au poulet, à prendre ou à laisser. Prix du menu 8 soles qui se transforme en 9 au moment de payer (prix spécial touriste? On laisse tomber, 9 soles c'est à peine plus de 2 €)
 
 ## Samedi 25 juillet
-On va donc visiter Amantani sans tour ni guide. Petit déjeuner à l'hôtel. Comme souvent très copieux, fromage, confiture, œufs. On est en pleine préparation de la suite du voyage. On aimerait finir avant d'arriver sur l'île car tout le monde nous a dit qu'il n'y aurait pas d'internet. On va finalement visiter l'Amazonie depuis Tarapoto. Mais c'est un avion à réserver, il faut le faire aujourd'hui.
+On va donc visiter Amantani sans tour ni guide. Petit déjeuner à l'hôtel. Comme souvent très copieux, fromage, confiture, oeufs. On est en pleine préparation de la suite du voyage. On aimerait finir avant d'arriver sur l'île car tout le monde nous a dit qu'il n'y aurait pas d'internet. On va finalement visiter l'Amazonie depuis Tarapoto. Mais c'est un avion à réserver, il faut le faire aujourd'hui.
 
 On quitte l'hôtel pour aller chercher un collectivos qui nous amènera à Capachica. De là on marchera une trentaine de minutes pour aller jusqu'à la plage de Chifron. On n'est pas exactement sûr des heures de départ, on part de l'hôtel, il est à peu près 9h. 
 
@@ -72,11 +72,11 @@ A 8:30 on prend le petit déjeuner avec des pains maison, un oeuf dur et une pom
 {{< picture-grid folder="images/20260713_perou/05-lac-titicaca/seq11" >}}
 
 Ce matin on va se promener avec Lisbeth vêtu de son costume traditionnel. On part vers 9:30 pour visiter le jardin de la famille : une serre, un abris avec des cuyes (cochons d'Inde) mignons, mais élèvés pour être mangés, il y a des petit la qu'on sont nés une semaine, une serre pour les verduras (légume)..  La maman promène mouton en laisse avec les autres qui suivent.
-On va ensuite à la place du village, une bonne sœur explique qu'ils sont un groupe de 30 jeunes d'Uruguay qui viennent restaurer l'église. Il y a les communions cet après-midi.
+On va ensuite à la place du village, une bonne soeur explique qu'ils sont un groupe de 30 jeunes d'Uruguay qui viennent restaurer l'église. Il y a les communions cet après-midi.
 
 {{< picture-grid folder="images/20260713_perou/05-lac-titicaca/seq12" >}}
 
-Lisbeth explique qu'une fois par an ils font une fête où ils sacrifient un fœtus de lama. Miam. 
+Lisbeth explique qu'une fois par an ils font une fête où ils sacrifient un foetus de lama. Miam. 
 
 {{< picture-grid folder="images/20260713_perou/05-lac-titicaca/seq13" >}}
 

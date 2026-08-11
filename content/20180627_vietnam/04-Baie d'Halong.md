@@ -34,7 +34,7 @@ Et enfin la bright cave (vérifier sur programme)
 {{< picture-grid folder="images/20180627_vietnam/04-Baie d'Halong/seq4">}}
 
 
-Après le kayak, c'est une séance de jump drops le haut du bateau. Les enfants et leur nouveaux copains (surtout Ambroise) s'en donnent à cœur joie. Cerise un peu moins. Son titre de reine des méduses la bloque un peu. Faut dire que lors de notre sortie Kayak on a vu beaucoup, beaucoup de méduses. Des petites qui sont faits notre guide "friendly". Des plus grosses (elles sont énormes) qui ne font que gratter (mouais… gratter, brûler, vaut mieux pas vérifier surtout que lui ça ne lui ai jamais arrivé de se faire blessé par une méduse). Ah oui il en existe une troisième sorte, un peu plus foncée. Si j'ai bien compris, ça décharge électrique peut être mortelle...
+Après le kayak, c'est une séance de jump drops le haut du bateau. Les enfants et leur nouveaux copains (surtout Ambroise) s'en donnent à coeur joie. Cerise un peu moins. Son titre de reine des méduses la bloque un peu. Faut dire que lors de notre sortie Kayak on a vu beaucoup, beaucoup de méduses. Des petites qui sont faits notre guide "friendly". Des plus grosses (elles sont énormes) qui ne font que gratter (mouais… gratter, brûler, vaut mieux pas vérifier surtout que lui ça ne lui ai jamais arrivé de se faire blessé par une méduse). Ah oui il en existe une troisième sorte, un peu plus foncée. Si j'ai bien compris, ça décharge électrique peut être mortelle...
 
 {{< picture-folder folder="images/20180627_vietnam/04-Baie d'Halong/seq5">}}
 
