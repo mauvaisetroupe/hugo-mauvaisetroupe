@@ -7,15 +7,9 @@ thumbnail="header/20010602_laos/3.jpg"
 +++
 ### 5 juin 2001
 
-A COMPLETER
+À compléter
 
- L'après-midi, on prend un pick-up pour aller de Paksé à Paksong tout en se 
-disant qu'ils pourraient être un peu plus créatifs au niveau des noms des villes 
-et villages. Paksong à une cinquantaine de kilomètres à l'est de Paksé et plus 
-au nord Pakxan, Don Khong juste à côté de Don Khon et Sepon dans le même coin 
-que Sekong... On finit par perdre notre latin, surtout lorsqu'on sait qu'en 
-thaïlandais un mot peut vouloir dire quelque chose et son contraire selon l'intonnation. 
-Nos pauvres oreilles ne sont pas habituées à tous ses sons. 
+L'après-midi, on prend un pick-up pour aller de Paksé à Paksong tout en se disant qu'ils pourraient être un peu plus créatifs au niveau des noms des villes et villages. Paksong à une cinquantaine de kilomètres à l'est de Paksé et plus au nord Pakxan, Don Khong juste à côté de Don Khon et Sepon dans le même coin que Sekong... On finit par perdre notre latin, surtout lorsqu'on sait qu'en thaïlandais un mot peut vouloir dire quelque chose et son contraire selon l'intonation. Nos pauvres oreilles ne sont pas habituées à tous ces sons. 
 
 
 {{< figurepage src="2001 07 Laos/0081 Pakse/2001-06-05_1020_31.15.jpg" title="-"  >}}

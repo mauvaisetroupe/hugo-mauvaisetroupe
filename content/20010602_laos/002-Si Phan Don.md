@@ -7,19 +7,7 @@ thumbnail="header/20010602_laos/2.jpg"
 +++
 ### 4 juin 2001
 
-Heureusement que le brave Monsieur Pon -qui tient un restaurant du même nom 
-juste à côté de notre hôtel, le seul restaurant où l'on peut conseiller d'aller 
-manger d'ailleurs... je n'ai jamais rien vu quelque chose ressembler moins à 
-du poulet que ce qu'il sevent dans leur riz au poulet dans l'infâme restau juste 
-à côté de celui de ce brave Monsieru Pon... Heureusement donc que Monsieru Pon 
--qui parle vraiment bien le français... ca fait 4 ou 5 personnes que l'on rencontre 
-qui parle notre langue! Dont un chauffeur de taxi qui apparemment avait fait 
-une bonne école et qui se retrouve à conduire un camion-bus tou ça parce que 
-le gouvernement a fait on ne sait quoi au juste, toujours est-il qu'il n'était 
-plus payé... enfin bref, heureusement que ce brave Monsieru Pon nous a proposé 
-de nous emmener demain à Paksé dans son pick-up. Parce que je ne suis pas sûr 
-que mes fesses auraient supporté d'être assises sur les banquettes on ne peut 
-plus dures des camions -arrêtons d'appeler ça des bus- qui font la navette.
+Heureusement que le brave Monsieur Pon -qui tient un restaurant du même nom juste à côté de notre hôtel, le seul restaurant où l'on peut conseiller d'aller manger d'ailleurs... je n'ai jamais rien vu ressembler moins à du poulet que ce qu'il servent dans leur riz au poulet dans l'infâme resto juste à côté de celui de ce brave Monsieur Pon... Heureusement donc que Monsieur Pon -qui parle vraiment bien le français... ça fait 4 ou 5 personnes que l'on rencontre qui parlent notre langue! Dont un chauffeur de taxi qui apparemment avait fait une bonne école et qui se retrouve à conduire un camion-bus tout ça parce que le gouvernement a fait on ne sait quoi au juste, toujours est-il qu'il n'était plus payé... enfin bref, heureusement que ce brave Monsieur Pon nous a proposé de nous emmener demain à Paksé dans son pick-up. Parce que je ne suis pas sûr que mes fesses auraient supporté d'être assises sur les banquettes on ne peut plus dures des camions -arrêtons d'appeler ça des bus- qui font la navette.
 
 A COMPLETER
 
