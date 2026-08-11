@@ -7,25 +7,24 @@ thumbnail="header/20010411_nepal/5.jpg"
 +++
 ### 21 avril 2001
 
- Visite a Bhaktapur ou nous nous sommes regales. C'est un gros village a l'atmosphere 
-medieval. Ruelles pavees, enfants courant avec leur cerceau au bout d'une tige 
-(c'est vrai qu'il y en avait beaucoup au moyen-age, des enfants avec des tiges), 
-maisons largement boisees, femmes battant les gerbes de ble et de riz afin d'en 
-detacher les grains, grains sechant au soleil sur les nombreuses petites places 
-en compagnie des poteries mises a secher par les potiers, potiers faisant naitre 
+Visite à Bhaktapur où nous nous sommes régalés. C'est un gros village à l'atmosphère 
+médiévale. Ruelles pavées, enfants courant avec leur cerceau au bout d'une tige 
+(c'est vrai qu'il y en avait beaucoup au moyen-âge, des enfants avec des tiges), 
+maisons largement boisées, femmes battant les gerbes de blé et de riz afin d'en 
+détacher les grains, grains séchant au soleil sur les nombreuses petites places 
+en compagnie des poteries mises à sécher par les potiers, potiers faisant naître 
 de multiples pots de la terre entre leurs doigts, papis et mamies roupillant 
-au soleil, enfants se faisant savonner energiquement par leur mere (et ne semblant 
+audessus des marches, enfants se faisant savonner énergiquement par leur mère (et ne semblant 
 pas y prendre trop plaisir vu leurs hurlements), et les innombrables temples. 
-Bref, la quietude, une vraie vie de village avec les marches, les poules et 
-les poussins, les gens vivant en communaute et heureux de vivre, simplement. 
-Ce qui contribue largement au bien-etre: il y a tres tres peu,voire pas de vehicules 
-motorises, donc pas de klaxons! Nos oreilles en sont tres tres reconnaissantes. 
-Les 750 roupies de droits d'entree sont bien utilises pour renover et entretenir 
+Bref, la quiétude, une vraie vie de village avec les marches, les poules et 
+les poussins, les gens vivant en communauté et heureux de vivre, simplement. 
+Ce qui contribue largement au bien-être: il y a très très peu, voire pas de véhicules 
+motorisés, donc pas de klaxons! Nos oreilles en sont très très reconnaissantes. 
+Les 750 roupies de droits d'entrée sont bien utilisées pour rénover et entretenir 
 la ville. 
 
-A COMPLETER
+À COMPLETER
 
-&nbsp; 
 
 
 {{< figurepage src="2001 03 Nepal/0045 Bhaktapur/2001-04-21_0621_20.17.jpg" title="-"  >}}

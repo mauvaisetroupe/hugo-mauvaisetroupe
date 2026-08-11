@@ -5,75 +5,20 @@ date = "2001-03-15T12:00:00"
 pays = ["Inde"]
 thumbnail="header/20010218_inde/12.jpg"
 +++
+
 ### 15 mars 2001
 
-On continue notre tournee des plages du Kerala. Cette fois-ci, nous sommes 
-a Kovalam, a une vingtaine de kilometres au sud de Trivandrum. A la sortie du 
-train, il a fallu prendre un rickshaw (pour memoire ces scooters transformes 
-en taxi) pour rejoindre la station de bus. Vraiment, les rickshaws, c'est quand 
-meme de la racaille! Impossible de connaitre le prix d'une course, meme les 
-locaux y sont confrontes. En plus, comme ils ont des commissions quand ils nous 
-emmenent acheter un billet de bus ou qu'ils nous emmenent dans un hotelm bien 
-souvent ils essaient de nous dissuader d'aller la ou on veut (cf a Agra), ou 
-meme ils nous conduisent dans une agence privee de bus plutot qu'a celle publique 
-que nous avions demandee. A Trivandrum, ce qu'il a fait ce gros nain, c'est 
-qu'il s'est vexe parce qu'on a refuse qu'il nous emmene direct a la plage (100 
-roupies au lieu de 10 en bus!). D8 coup, comme ca, gratuitement pour se venger, 
-il nous a conduit a 200 metres de la bonne station de bus en nous prevenant 
-tout de meme "vous allez attendre...". Et ben, on n'a meme pas attendu! On a 
-juste marche jusqu'au bon arret. Mechant, va! 
+On continue notre tournée des plages du Kerala. Cette fois-ci, nous sommes à Kovalam, à une vingtaine de kilomètres au sud de Trivandrum. À la sortie du train, il a fallu prendre un rickshaw (pour mémoire ces scooters transformés en taxi) pour rejoindre la station de bus. Vraiment, les rickshaws, c'est quand même de la racaille! Impossible de connaître le prix d'une course, même les locaux y sont confrontés. En plus, comme ils ont des commissions quand ils nous emmènent acheter un billet de bus ou qu'ils nous emmènent dans un hôtel, bien souvent ils essaient de nous dissuader d'aller là où on veut (cf. à Agra), ou même ils nous conduisent dans une agence privée de bus plutôt qu'à celle publique que nous avions demandée. À Trivandrum, ce qu'il a fait ce gros nain, c'est qu'il s'est vexé parce qu'on a refusé qu'il nous emmène direct à la plage (100 roupies au lieu de 10 en bus!). Du coup, comme ça, gratuitement pour se venger, il nous a conduit à 200 mètres de la bonne station de bus en nous prévenant tout de même "vous allez attendre...". Et ben, on n'a même pas attendu! On a juste marché jusqu'au bon arrêt. Méchant, va!
 
 ### 16 mars 2001
 
-C'est super, je n'arrête pas de manger de supers bons poissons grilles, cuisines 
-a l'ail: requin, barracuda, kingfish, espadon, saumon de mer, thon, ... Le choix 
-est grand. Je dis "je", parce que Lionel a décidé d'être végétarien, au moins 
-jusqu'a ce soir. Et comme il trouve, et il a raison, que les légumes c'est bon 
-pour moi aussi, a midi on se régale de légumes a l'eau et de riz (choux-fleurs, 
-carottes, haricots verts, petits pois, patates, chou, ...). Pour faire passer 
-(je suis moyennement fan), on déguste notre repas sur la plage, vue sur les 
-grosses vagues. Ici, c'est comme a Varkala, a part la plage, il n'y a que dalle. 
-La différence, c'est qu'ici c'est plus développe pour les touristes, que l'eau 
-est plus claire (on voit le fond) et qu'il y a un très chouette phare au bout 
-de la plage. Personnellement, nous on préfère Kovalam à Varkala, en plus, c'est 
-moins cher. Faut dire que c'est la basse saison sinon il parait qu'il y a des 
-placeurs sur la plage! Contrairement a ce que j'ai pu dire, les indiens ont 
-le rire et la blague facile, au moins ici au Kerala. 
+C'est super, je n'arrête pas de manger de supers bons poissons grillés, cuisinés à l'ail: requin, barracuda, kingfish, espadon, saumon de mer, thon, ... Le choix est grand. Je dis "je", parce que Lionel a décidé d'être végétarien, au moins jusqu'à ce soir. Et comme il trouve, et il a raison, que les légumes c'est bon pour moi aussi, à midi on se régale de légumes à l'eau et de riz (choux-fleurs, carottes, haricots verts, petits pois, patates, chou, ...). Pour faire passer (je suis moyennement fan), on déguste notre repas sur la plage, vue sur les grosses vagues. Ici, c'est comme à Varkala, à part la plage, il n'y a que dalle. La différence, c'est qu'ici c'est plus développé pour les touristes, que l'eau est plus claire (on voit le fond) et qu'il y a un très chouette phare au bout de la plage. Personnellement, nous, on préfère Kovalam à Varkala, en plus, c'est moins cher. Faut dire que c'est la basse saison, sinon il paraît qu'il y a des placeurs sur la plage! Contrairement à ce que j'ai pu dire, les Indiens ont le rire et la blague facile, au moins ici au Kerala.
 
 ### 17 mars 2001
 
-Ce matin, lever 7h00 pour suivre le travail des pecheurs. De 6h30 a 9h00, ils 
-pechent sur la plage. En fait ils tirent les filets poses la nuit. Quand j'arrive 
-sur la plage, je vois 2 equipes de 16 a 18 hommes tirer une corde au rythme 
-d'un chant. Chacune est a un bout de la plage, soit a environ 500 metres d'ecart. 
-En suivant des yeux les flotteurs de la corde qu'ils ont tant de mal a haler, 
-je la vois entrer dans les vagues, courvir toute la baie et... revenir au ruvage 
-dans les mains de la seconde equipe. Chacun, ancre a la corde, la tire en reculant 
-pas a pas jusqu'a rejoindre le dernier homme qui donne le rythme en chantant 
-(les autres lui repondent), tire sur la corde, et l'enroule a ses pieds. La, 
-les tireurs de corde lachent et vont se replacer tranquillement en debut de 
-corde, les pieds au ras des vagues. De temps en temps, sur un signal, ils tirent 
-comme des fous, arc-boutes a en toucher terre. Et ca les fait bien marrer! Tout 
-doucement, l'equipe cote est se deplace vers l'autre bout de la plage, vers 
-l'autre equipe. presque deux heures de "ho hisse" plus tard, ils s'en approchent 
-a 20 metres. Quelques uns quittent alors la corde pour entrer dans l'eau ou 
-ils sautent partout en éclaboussant et en criant de grands "houou...houou..." 
-afin de repousser le poisson au fond du filet, lequel n'est plus qu'a 30 mètres 
-de la plage. Enfin, on voit le filet! Les pêcheurs tirent comme des fous dans 
-de grands cris! C'est sur, la pêche va être miraculeuse vue la taille du filet, 
-le nombre d'hommes nécessaires (40 y compris les 2 bateliers) et l'énergie dépensée. 
-Grosse surprise, le filet doit faire 10-15 mètres de long et non toute la baie! 
-Et au lieu des barracudas, kinghishs et autres monstres auxquels je m'attendais, 
-il frétille de friture! La, tandis que la plupart des hommes repartent tirer 
-un nouveau filet, commence le plus difficile: la vente. Les femmes sont arrivées 
-avec leurs grandes bassines en fer blanc et elles discutent âprement essentiellement 
-entre elles d'ailleurs! Ca s'engueule ferme! 
+Ce matin, lever 7h00 pour suivre le travail des pêcheurs. De 6h30 à 9h00, ils pêchent sur la plage. En fait, ils tirent les filets posés la nuit. Quand j'arrive sur la plage, je vois 2 équipes de 16 à 18 hommes tirer une corde au rythme d'un chant. Chacune est à un bout de la plage, soit à environ 500 mètres d'écart. En suivant des yeux les flotteurs de la corde qu'ils ont tant de mal à haler, je la vois entrer dans les vagues, couvrir toute la baie et... revenir au rivage dans les mains de la seconde équipe. Chacun, ancré à la corde, la tire en reculant pas à pas jusqu'à rejoindre le dernier homme qui donne le rythme en chantant (les autres lui répondent), tire sur la corde, et l'enroule à ses pieds. Là, les tireurs de corde lâchent et vont se replacer tranquillement en début de corde, les pieds au ras des vagues. De temps en temps, sur un signal, ils tirent comme des fous, arc-boutés à en toucher terre. Et ça les fait bien marrer! Tout doucement, l'équipe côté est se déplace vers l'autre bout de la plage, vers l'autre équipe. Presque deux heures de "ho hisse" plus tard, ils s'en approchent à 20 mètres. Quelques-uns quittent alors la corde pour entrer dans l'eau où ils sautent partout en éclaboussant et en criant de grands "houou...houou..." afin de repousser le poisson au fond du filet, lequel n'est plus qu'à 30 mètres de la plage. Enfin, on voit le filet! Les pêcheurs tirent comme des fous dans de grands cris! C'est sûr, la pêche va être miraculeuse vue la taille du filet, le nombre d'hommes nécessaires (40 y compris les 2 bateliers) et l'énergie dépensée. Grosse surprise, le filet doit faire 10-15 mètres de long et non toute la baie! Et au lieu des barracudas, kingfishs et autres monstres auxquels je m'attendais, il frétille de friture! Là, tandis que la plupart des hommes repartent tirer un nouveau filet, commence le plus difficile: la vente. Les femmes sont arrivées avec leurs grandes bassines en fer blanc et elles discutent âprement essentiellement entre elles d'ailleurs! Ça s'engueule ferme!
 
-Fait marquant de la journée, Lionel a enfin trouve la petite grammaire anglaise 
-dont il rêvait tant. Ca plus le dico, il est fin prêt. Après-midi a Trivandrum 
-ou nous passons une heure a la poste pour envoyer les photos!!! On se ballade 
-dans un quartier très tolérant ou on peut voir cote a cote une cathédrale, un 
-temple hindou et une mosquée. 
+Fait marquant de la journée, Lionel a enfin trouvé la petite grammaire anglaise dont il rêvait tant. Ça plus le dico, il est fin prêt. Après-midi à Trivandrum où nous passons une heure à la poste pour envoyer les photos!!! On se balade dans un quartier très tolérant où on peut voir côte à côte une cathédrale, un temple hindou et une mosquée.
 
 
 {{< figurepage src="2001 02 Inde/0024 Trivandrum/2001-03-15_0347_14A.7.jpg" title="-"  >}}

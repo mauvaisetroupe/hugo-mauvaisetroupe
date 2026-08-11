@@ -7,14 +7,8 @@ thumbnail="header/20010411_nepal/2.jpg"
 +++
 ### 16 avril 2001
 
-On se réveille pleins de courbatures à Kathmandou. Merci Sarangkot! Super chouette 
-balade dans la ville. L'architecture est vraiment sympa, plein de façades sont 
-sculptées en bois, il y a des jolis balcons partout, du fer forge aux fenêtres, 
-souvent la bonne surprise d'un visage qui nous observe a l'abri d'une fenêtre. 
-Il y a un nombre incroyable de temples, tous très beaux et a usages multiples: 
-pour se reposer sur leurs escaliers, pour y installer son étal de légumes, de 
-bracelets ou de poteries, ou de temps a autres pour prier et appliquer les gestes 
-rituels (faire une offrande, tourner sur soi-même, etc.). 
+On se réveille pleins de courbatures à Kathmandou. Merci Sarangkot! Super chouette balade dans la ville. L'architecture est vraiment sympa, plein de façades sont sculptées en bois, il y a de jolis balcons partout, du fer forgé aux fenêtres, souvent la bonne surprise d'un visage qui nous observe à l'abri d'une fenêtre. Il y a un nombre incroyable de temples, tous très beaux et à usages multiples: pour se reposer sur leurs escaliers, pour y installer son étal de légumes, de bracelets ou de poteries, ou de temps à autres pour prier et appliquer les gestes rituels (faire une offrande, tourner sur soi-même, etc.).
+
 
 
 {{< figurepage src="2001 03 Nepal/0040 Kathmandou/2001-04-16_0539_18.28.jpg" title="Etal de marchand"  >}}

@@ -1,0 +1,10 @@
+Corige le texte que je te donne, 
+
+Corige le texte de tous le fichiers markdown du folder /content/20010505_thailande
+
+Juste l'orthographe et les coquilles, reste proche du texte, ne change que ce qui est nécessaire, ok ?
+Pour le formatage de la ponctuation, colle la ponctuation "?" et "!" directement à la lettre qui la précède, sans espace, example Salut, ça va bien?
+Pour le formatge des heures, écrives les heures en chiffres, sans espace, par exemple 12h30, et non 12 h 30.
+Suppime les retours à la ligne inutiles, mais laisse les retours à la ligne qui sont utilisés pour créer des paragraphes (en particlier supprime les retours à la ligne qui coupe une phrase en deux).
+Ne remplace pas les guillements (« » et "). Lorqu'il y a des guillements, supprime les espaces, par exmeple « titre » devient «titre» et de même " titre " devient "titre"
+
