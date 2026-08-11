@@ -11,4 +11,7 @@ pays = "pays"
 voyage = "voyages"
 tour-du-monde = "tour-du-monde"
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
