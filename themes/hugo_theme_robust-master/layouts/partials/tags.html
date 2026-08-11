@@ -1,5 +1,0 @@
-{{.Site.Taxonomies.tags }}
-
-{{ with .Site.Taxonomies.tags }}
-{{ partial "taxonomy.html" (dict "context" $.Site "key" "tags" "value" . "baseurl" $.Site.BaseURL) }}
-{{ end }}

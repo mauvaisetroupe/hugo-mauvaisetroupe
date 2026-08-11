@@ -9,12 +9,51 @@
       <h1 class="title">{{ .Title }}</h1>
     </header>
     {{ end }}
+	
+	<!--LCO -->
 
-    <div class="articles">
+	{{ $uid := printf "%s/%s" .Language.Lang .Path | hash.FNV32a }}
+	<article class="sn">
+	  <div class="thumb thumb-{{ $uid }}"></div>
+
+	<div class="article-body">{{ .Content }}</div>
+	</article>	
+
+	<!--/LCO -->
+
+	<div class="articles">
       <div class="mrow">
-        {{ range (.Paginate .Data.Pages).Pages }}
-        <div class="mcol c6">{{ .Render "li" }}</div>
-        {{ end }}
+	  
+
+		
+		{{ $filterSumary := false }}
+		{{ if (.Params.filter_summary) }}	
+			{{  $filterSumary = true }}
+		{{ end}}	
+		
+
+		{{ $listToDisplay := (slice )  }}
+		{{ if $filterSumary }}
+			{{ range $ele := .Site.RegularPages }} 
+				{{ if ($ele.Params.country_summary) }}	
+					{{ $listToDisplay = $listToDisplay | append $ele }}
+				{{ end}}
+			{{ end }}	
+		{{ else }}
+			{{ $listToDisplay = .RegularPages }}
+		{{ end }}
+		
+		
+		
+		{{ if (or (not (isset .Params "inverseorder")) .Params.inverseorder) }}
+			{{ $listToDisplay = $listToDisplay.Reverse }}
+		{{ end }}	
+
+
+		{{ range $pageToDisplay :=(.Paginate $listToDisplay).Pages  }}
+				<div class="mcol c6">{{ .Render "li" }}</div>
+		{{ end }}
+
       </div>
     </div>
 

@@ -56,8 +56,8 @@
                 
                 <ul class="country-list">
                   {{/* 3. Tri des pays du continent par Titre (A-Z) */}}
-{{ $continentCountries := where $countryPages "Params.continent" $continent }}
-{{ $sortedCountries := sort $continentCountries "Params.menu_display" "asc" }}
+                  {{ $continentCountries := where $countryPages "Params.continent" $continent }}
+                  {{ $sortedCountries := sort $continentCountries "Params.menu_display" "asc" }}
 
                   {{ range $sortedCountries }}
                     <li>
