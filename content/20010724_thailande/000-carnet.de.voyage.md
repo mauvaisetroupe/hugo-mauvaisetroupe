@@ -9,6 +9,7 @@ country_summary=true
 tour-du-monde = ["Tour du monde 2001"]
 continent= "Asie"
 +++
+
 Un peu de repos avant de changer de continent...
 
 {{< pagespays >}}
