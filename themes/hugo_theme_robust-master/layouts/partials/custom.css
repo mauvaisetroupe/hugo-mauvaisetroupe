@@ -391,3 +391,14 @@
   background-color: #f9ede3;
   border-radius: 5px;
 }
+
+@media (max-width: 768px) {
+
+  .sidebar-voyage .articles {
+    padding-left: 10px;
+  }
+
+  .sidebar-voyage .articles::before {
+  left: -5px;
+  } 
+}
