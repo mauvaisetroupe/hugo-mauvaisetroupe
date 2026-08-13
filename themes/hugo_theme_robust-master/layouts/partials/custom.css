@@ -338,30 +338,29 @@
         }
     }
 
-.sidebar .articles {
+/* Ligne de temps */
+.sidebar-voyage .articles {
   position: relative;
-  padding-left: 20px;
-}
+} 
 
 /* Ligne verticale */
-.sidebar .articles::before {
+.sidebar-voyage .articles::before {
   content: "";
   position: absolute;
-  left: 5px;
+  left: -15px;
   top: 0;
   bottom: 0;
   width: 2px;
   background: #ddd;
-}
+} 
 
 /* Chaque étape */
-.sidebar .articles > div {
+.sidebar-voyage .articles > div {
   position: relative;
-  padding: 1px 0 1px 5px;
 }
 
 /* Cercle : centré verticalement dans la DIV */
-.sidebar .articles > div::before {
+.sidebar-voyage .articles > div::before {
   content: "";
   position: absolute;
   left: -21px;
@@ -378,24 +377,17 @@
 }
 
 /* Étape courante */
-.sidebar .articles > div.current {
-  font-weight: 600;
-  color: #e67e22;
-}
 
-.sidebar .articles > div.current::before {
-  width: 14px;
-  height: 14px;
-  left: -24px;
+.sidebar-voyage .articles > div.current::before {
+  left: -22px;
   top: 50%;
   transform: translateY(-50%);
-
   background: #e67e22;
   border: 3px solid white;
   box-shadow: 0 0 0 2px #e67e22;
 }
 
-.sidebar .articles > div.current article.lism {
-  background-color: #fff8f2;
+.sidebar-voyage .articles > div.current article.lism {
+  background-color: #f9ede3;
   border-radius: 5px;
 }
