@@ -5,8 +5,6 @@ pays = ["France"]
 voyages_weight = 2
 thumbnail="/header/tdm2001.png"
 tour-du-monde = ["Tour du monde 2001"]
-
-
 +++
 
 ## Préparatifs J-15
