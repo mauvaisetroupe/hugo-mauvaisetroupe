@@ -337,3 +337,57 @@
             width: auto;
         }
     }
+
+/* Ligne de temps */
+.sidebar-voyage .articles {
+  position: relative;
+} 
+
+/* Ligne verticale */
+.sidebar-voyage .articles::before {
+  content: "";
+  position: absolute;
+  left: -15px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #ddd;
+} 
+
+/* Chaque étape */
+.sidebar-voyage .articles > div {
+  position: relative;
+}
+
+/* Cercle : centré verticalement dans la DIV */
+.sidebar-voyage .articles > div::before {
+  content: "";
+  position: absolute;
+  left: -21px;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+
+  background: white;
+  border: 2px solid #bbb;
+  z-index: 1;
+}
+
+/* Étape courante */
+
+.sidebar-voyage .articles > div.current::before {
+  left: -22px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #e67e22;
+  border: 3px solid white;
+  box-shadow: 0 0 0 2px #e67e22;
+}
+
+.sidebar-voyage .articles > div.current article.lism {
+  background-color: #f9ede3;
+  border-radius: 5px;
+}

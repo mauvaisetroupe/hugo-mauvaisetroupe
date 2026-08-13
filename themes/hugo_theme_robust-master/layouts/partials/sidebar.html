@@ -10,7 +10,7 @@
 {{$currentpays := index (.Params.voyages) 0 }}
  
   
-    <section class="sidebar">
+    <section class="sidebar sidebar-voyage">
       <header>{{$currentpaysName}} - Les étapes</header>
       <div>
         <div class="articles sm">
@@ -18,7 +18,9 @@
         {{ range $pp := .Site.RegularPages.ByDate }}
           {{ if isset $pp.Params "voyages" }}
             {{ if eq (index $pp.Params.voyages 0) $currentpays }}
-            <div class="col-md-12 col-sm-6 col-xs-12">{{ .Render "li_sm" }}</div>
+              <div class="col-md-12 col-sm-6 col-xs-12 {{ if eq $pp.Permalink $.Permalink }}current{{ end }}">
+                {{ .Render "li_sm" }}
+              </div>
             {{ end }}
           {{ end }}
         {{ end }}
@@ -50,7 +52,6 @@
         <ul class="terms">
           {{ range $value.Alphabetical }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}/">{{ .Page.Title }}</a></li>{{ end }}
         </ul>
- 
  
       </div>
     </section>
