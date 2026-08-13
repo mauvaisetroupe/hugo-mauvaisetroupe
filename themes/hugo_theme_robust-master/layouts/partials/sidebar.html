@@ -15,7 +15,7 @@
       <div>
         <div class="articles sm">
 
-        {{ range $pp := .Site.RegularPages.ByDate }}
+        {{ range $pp := .Site.Pages.ByDate }}
           {{ if isset $pp.Params "voyages" }}
             {{ if eq (index $pp.Params.voyages 0) $currentpays }}
               <div class="col-md-12 col-sm-6 col-xs-12 {{ if eq $pp.Permalink $.Permalink }}current{{ end }}">
