@@ -586,6 +586,13 @@ section.footer > header a {
   .toc {
     padding: 0 1rem;
   }
+
+  /* bouton next previous not pertinenet for mobile website */
+  .adj {
+    visibility: hidden;
+    height: 0px;
+  }
+
 }
 
 .toc {
