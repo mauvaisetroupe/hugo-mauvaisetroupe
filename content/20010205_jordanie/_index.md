@@ -1,5 +1,19 @@
 +++
-title="Jordanie - Tour du monde 2001"
-thumbnail="tdm/nous-2.jpg"
-inverseorder=true
+title="Carnet de Voyage : Jordanie 2001"
+voyages = ["20010205_jordanie"]
+date = "2001-02-05T05:00:00"
+pays = ["Jordanie"]
+menu_display = "Jordanie 2001"
+thumbnail="tdm/jordanie-stamp.jpg"
+country_summary=true
+tour-du-monde = ["Tour du monde 2001"]
+continent= "Moyen-Orient"
 +++
+
+Le premier pays de notre balade autour du monde... Ce qui frappe surtout ici, c'est l'extrême gentillesse des Jordaniens. Dès qu'ils pensent pouvoir nous aider, ils s'arrêtent et proposent leur aide, ce sont des "welcome" de bienvenue très sincères qui nous attendent dans chaque échoppe et des sourires très gentils à chaque coin de rue. Des petits gestes tout simples, comme ce monsieur qui nous offre une pomme sur le marché, heureux d'accueillir des Français dans son pays. 
+
+En plus, ce qui ne gâte rien, ils sont toujours en train de se marrer, je n'en ai pas vu s'énerver, même au volant! Ils conduisent tranquillement sans accélérations intempestives, se cèdent le passage, ou plutôt laissent celui qui cherche à s'intégrer à la circulation le faire, sans se fâcher. Bref, tout est calme même au centre-ville d'Amman, la capitale.
+
+{{< pagespays >}}
+## Le trajet
+{{< img src="tdm/jordanie.gif" alt="Le récit" >}}
