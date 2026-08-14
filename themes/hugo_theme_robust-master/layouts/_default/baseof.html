@@ -45,8 +45,18 @@
     {{ $continents = $continents | uniq | sort }}
 
     <ul class="nav-main">
+      <li class="nav-item">
+        <a href="{{ "/tour-du-monde/tour-du-monde-2001/" | relURL }}" class="nav-link">
+          TOUR DU MONDE 2001
+        </a>
+      </li>
       <li class="nav-item has-megamenu">
-        <a href="#" class="nav-link">NOS DESTINATIONS <span class="arrow">▾</span></a>
+
+        <input class="destinations-btn" type="checkbox" id="destinations-btn" />
+
+        <label class="nav-link" for="destinations-btn">
+          NOS DESTINATIONS <span class="arrow">▾</span>
+        </label>
 
         <div class="megamenu-panel">
           <div class="megamenu-grid">
