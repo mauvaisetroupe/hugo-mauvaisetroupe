@@ -7,6 +7,12 @@
 
     {{- range $index, $image := $images -}}
 
+        {{/* ------------------------------------------------------------
+             Corriger l'orientation EXIF avant toute autre opération
+             ------------------------------------------------------------ */}}
+
+        {{- $image = $image.Filter images.AutoOrient -}}
+
         {{- $width := $image.Width -}}
         {{- $height := $image.Height -}}
 

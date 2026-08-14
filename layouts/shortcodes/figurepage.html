@@ -9,8 +9,18 @@
 
     {{- if $image -}}
 
+        {{/* ------------------------------------------------------------
+             Corriger l'orientation EXIF avant toute autre opération
+             ------------------------------------------------------------ */}}
+
+        {{- $image = $image.Filter images.AutoOrient -}}
+
         {{- $width := $image.Width -}}
         {{- $height := $image.Height -}}
+
+        {{/* ------------------------------------------------------------
+             Génération des différentes tailles sans agrandissement
+             ------------------------------------------------------------ */}}
 
         {{- $srcset := slice -}}
 
@@ -33,6 +43,10 @@
             {{- $img1280 := $image.Resize "1280x webp" -}}
             {{- $srcset = $srcset | append (printf "%s 1280w" $img1280.RelPermalink) -}}
         {{- end -}}
+
+        {{/* ------------------------------------------------------------
+             Image par défaut
+             ------------------------------------------------------------ */}}
 
         {{- $srcDefault := "" -}}
 
