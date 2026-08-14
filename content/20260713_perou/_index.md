@@ -20,5 +20,5 @@ En route!
 
 ## Le trajet
 
-![alt text](/maps/20260713_perou/perou-map.png)
+{{< img src="maps/20260713_perou/perou-map.png" alt="Le récit" >}}
 

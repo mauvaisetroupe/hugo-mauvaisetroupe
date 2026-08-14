@@ -1,25 +1,85 @@
+{{- $folder := "" -}}
+
+{{- if .Get "folder" -}}
+    {{- $folder = .Get "folder" -}}
+{{- else -}}
+    {{- $folder = print "images/" $.Page.File.Dir $.Page.File.BaseFileName -}}
+{{- end -}}
+
+{{- $images := resources.Match (printf "%s/*" $folder) -}}
+
 <figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
 
-	{{$folderURL := ""}}
-	{{$folderToExplor := ""}}
-	
-	{{if .Get "folder"}}
-		{{$folderURL = (.Get "folder")}}
-		{{$folderToExplor = print "/static/" $folderURL}}
-	{{else}}
-		{{$folderURL = print  "images/" $.Page.File.Dir $.Page.File.BaseFileName}}
-		{{$folderToExplor = print "/static/" $folderURL}}
-	{{end}}
-	
-	{{$folderURL = replace ($folderURL | absURL) "%5C" "/" }}
-	
-	{{ range readDir $folderToExplor }}
-		{{ $imgURL := print "" $folderURL "/" .Name | absURL}}
-		<p><img src="{{ $imgURL }}"/></p>
-	{{ end }}
+    {{- range $index, $image := $images -}}
 
+        {{- $width := $image.Width -}}
+        {{- $height := $image.Height -}}
 
-	
+        {{/* ------------------------------------------------------------
+             Génération des différentes tailles sans agrandissement
+             ------------------------------------------------------------ */}}
+
+        {{- $srcset := slice -}}
+
+        {{- if ge $width 480 -}}
+            {{- $img480 := $image.Resize "480x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 480w" $img480.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 768 -}}
+            {{- $img768 := $image.Resize "768x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 768w" $img768.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 1024 -}}
+            {{- $img1024 := $image.Resize "1024x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 1024w" $img1024.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 1280 -}}
+            {{- $img1280 := $image.Resize "1280x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 1280w" $img1280.RelPermalink) -}}
+        {{- end -}}
+
+        {{/* ------------------------------------------------------------
+             Image par défaut :
+             la plus grande version disponible, sans upscale
+             ------------------------------------------------------------ */}}
+
+        {{- $src := "" -}}
+
+        {{- if ge $width 1280 -}}
+            {{- $src = ($image.Resize "1280x webp").RelPermalink -}}
+        {{- else if ge $width 1024 -}}
+            {{- $src = ($image.Resize "1024x webp").RelPermalink -}}
+        {{- else if ge $width 768 -}}
+            {{- $src = ($image.Resize "768x webp").RelPermalink -}}
+        {{- else if ge $width 480 -}}
+            {{- $src = ($image.Resize "480x webp").RelPermalink -}}
+        {{- else -}}
+            {{- $src = ($image.Process "webp").RelPermalink -}}
+        {{- end -}}
+
+        <p>
+            <img
+                src="{{ $src }}"
+                {{- if $srcset }}
+                srcset="{{ delimit $srcset ", " }}"
+                {{- end }}
+                sizes="(max-width: 768px) 100vw, 1000px"
+                width="{{ $width }}"
+                height="{{ $height }}"
+                {{- if eq $index 0 }}
+                loading="eager"
+                fetchpriority="high"
+                {{- else }}
+                loading="lazy"
+                {{- end }}
+                decoding="async"
+                alt=""
+            >
+        </p>
+
+    {{- end -}}
+
 </figure>
-
-

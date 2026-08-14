@@ -1,14 +1,76 @@
-{{ $src := .Get "src" }}
-{{ $title := .Get "title" }}
-<figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
-  <img src="{{ $.Site.BaseURL }}images/{{ $src }}" alt="{{ $title }}">
-  {{ if $title }}
-  <figcaption>
-    {{ if .Get "href" }}
-		<a href="{{ .Get "href" }}" target="_blank">{{ $title }}</ $title a>
-    {{ else }}
-		{{ $title }}
-    {{ end }}
-  </figcaption>
-  {{ end }}
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" -}}
+{{- $class := .Get "class" -}}
+{{- $href := .Get "href" -}}
+
+{{- $image := resources.Get (printf "images/%s" $src) -}}
+
+<figure{{ if $class }} class="{{ $class }}"{{ end }}>
+
+    {{- if $image -}}
+
+        {{- $width := $image.Width -}}
+        {{- $height := $image.Height -}}
+
+        {{- $srcset := slice -}}
+
+        {{- if ge $width 480 -}}
+            {{- $img480 := $image.Resize "480x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 480w" $img480.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 768 -}}
+            {{- $img768 := $image.Resize "768x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 768w" $img768.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 1024 -}}
+            {{- $img1024 := $image.Resize "1024x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 1024w" $img1024.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 1280 -}}
+            {{- $img1280 := $image.Resize "1280x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 1280w" $img1280.RelPermalink) -}}
+        {{- end -}}
+
+        {{- $srcDefault := "" -}}
+
+        {{- if ge $width 1280 -}}
+            {{- $srcDefault = ($image.Resize "1280x webp").RelPermalink -}}
+        {{- else if ge $width 1024 -}}
+            {{- $srcDefault = ($image.Resize "1024x webp").RelPermalink -}}
+        {{- else if ge $width 768 -}}
+            {{- $srcDefault = ($image.Resize "768x webp").RelPermalink -}}
+        {{- else if ge $width 480 -}}
+            {{- $srcDefault = ($image.Resize "480x webp").RelPermalink -}}
+        {{- else -}}
+            {{- $srcDefault = ($image.Process "webp").RelPermalink -}}
+        {{- end -}}
+
+        <img
+            src="{{ $srcDefault }}"
+            {{- if $srcset }}
+            srcset="{{ delimit $srcset ", " }}"
+            {{- end }}
+            sizes="(max-width: 768px) 100vw, 1000px"
+            width="{{ $width }}"
+            height="{{ $height }}"
+            loading="lazy"
+            decoding="async"
+            alt="{{ $title }}"
+        >
+
+    {{- end -}}
+
+    {{- if $title }}
+    <figcaption>
+        {{- if $href }}
+            <a href="{{ $href }}" target="_blank" rel="noopener">{{ $title }}</a>
+        {{- else }}
+            {{ $title }}
+        {{- end }}
+    </figcaption>
+    {{- end }}
+
 </figure>

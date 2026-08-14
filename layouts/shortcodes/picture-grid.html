@@ -1,34 +1,83 @@
+{{- $folder := .Get "folder" -}}
+{{- $nbColumns := 2 -}}
 
-	{{$nbColums:=2}}
+{{- $images := resources.Match (printf "%s/*" $folder) -}}
 
-
-	{{$folderURL := ""}}
-	{{$folderToExplor := ""}}
-	
-	{{if .Get "folder"}}
-		{{$folderURL = (.Get "folder")}}
-		{{$folderToExplor = print "/static/" $folderURL}}
-	{{end}}
-	
-	{{$folderURL = replace ($folderURL | absURL) "%5C" "/" }}
-	
-
-	{{$cpt:=0}}
 <div class="group">
-	{{ range readDir $folderToExplor }}
-		{{ $imgURL := print "" $folderURL "/" .Name | absURL}}
 
-		
-		{{if eq (mod $cpt 2) 0 }}
-		<div class="left"><img src="{{ $imgURL }}"/></div>
-		{{else}}
-		<div class="right"><img src="{{ $imgURL }}"/></div>
-		{{end}}
+    {{- range $index, $image := $images -}}
 
-		{{$cpt = (add $cpt 1)}}
-	{{ end }}
+        {{- $width := $image.Width -}}
+        {{- $height := $image.Height -}}
+
+        {{/* ------------------------------------------------------------
+             Génération des différentes tailles sans agrandissement
+             ------------------------------------------------------------ */}}
+
+        {{- $srcset := slice -}}
+
+        {{- if ge $width 480 -}}
+            {{- $img480 := $image.Resize "480x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 480w" $img480.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 768 -}}
+            {{- $img768 := $image.Resize "768x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 768w" $img768.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 1024 -}}
+            {{- $img1024 := $image.Resize "1024x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 1024w" $img1024.RelPermalink) -}}
+        {{- end -}}
+
+        {{- if ge $width 1280 -}}
+            {{- $img1280 := $image.Resize "1280x webp" -}}
+            {{- $srcset = $srcset | append (printf "%s 1280w" $img1280.RelPermalink) -}}
+        {{- end -}}
+
+        {{/* ------------------------------------------------------------
+             Image par défaut
+             ------------------------------------------------------------ */}}
+
+        {{- $src := "" -}}
+
+        {{- if ge $width 1280 -}}
+            {{- $src = ($image.Resize "1280x webp").RelPermalink -}}
+        {{- else if ge $width 1024 -}}
+            {{- $src = ($image.Resize "1024x webp").RelPermalink -}}
+        {{- else if ge $width 768 -}}
+            {{- $src = ($image.Resize "768x webp").RelPermalink -}}
+        {{- else if ge $width 480 -}}
+            {{- $src = ($image.Resize "480x webp").RelPermalink -}}
+        {{- else -}}
+            {{- $src = ($image.Process "webp").RelPermalink -}}
+        {{- end -}}
+
+        {{/* ------------------------------------------------------------
+             Alternance gauche / droite
+             ------------------------------------------------------------ */}}
+
+        <div class="{{ if eq (mod $index $nbColumns) 0 }}left{{ else }}right{{ end }}">
+            <img
+                src="{{ $src }}"
+                {{- if $srcset }}
+                srcset="{{ delimit $srcset ", " }}"
+                {{- end }}
+                sizes="(max-width: 768px) 100vw, 50vw"
+                width="{{ $width }}"
+                height="{{ $height }}"
+                {{- if eq $index 0 }}
+                loading="eager"
+                fetchpriority="high"
+                {{- else }}
+                loading="lazy"
+                {{- end }}
+                decoding="async"
+                alt=""
+            >
+        </div>
+
+    {{- end -}}
+
 </div>
-
-
-
-
