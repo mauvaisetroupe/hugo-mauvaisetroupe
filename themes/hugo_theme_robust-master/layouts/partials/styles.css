@@ -503,23 +503,30 @@ section.footer > header a {
 }
 
 .page-title {
-  text-align: center;
-  margin: 1rem 0;
+  padding: 2rem;
 }
 
-.page-title::after {
+/* .page-title::after {
   content: '';
   display: block;
   border-bottom: .25rem solid #333;
   width: 3rem;
   margin: 1.5rem auto;
-}
+} */
 
 .page-title > .title {
-  font-size: 1.2rem;
-  line-height: 1.5rem;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    margin-bottom: .5rem;
 }
 
+.step-title {
+    border-bottom: .25rem solid #333;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin: 2rem 0;
+    padding: .5rem 0;
+}
 /* Parts:breadcrumb */
 .crumb ol {
   text-overflow: ellipsis;
@@ -703,11 +710,11 @@ section.footer > header a {
     {{/* On génère l'ID unique basé sur le chemin et la langue */}}
     {{ $image := resources.Get . }}
     {{ if $image }}
-    {{ $uid := printf "%s/%s" $p.Language.Lang $p.Path | hash.FNV32a }}
-    
-    .thumb-{{ $uid }} {
+      {{ $uid := printf "%s/%s" $p.Language.Lang $p.Path | hash.FNV32a }}
+
+      .thumb-{{ $uid }} {
         background-image: url({{ ($image.Resize "1280x webp").RelPermalink }});
-    }
+      }
     {{ end }}
   {{ end }}
 {{ end }}

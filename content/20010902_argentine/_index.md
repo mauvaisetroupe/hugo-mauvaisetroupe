@@ -10,6 +10,5 @@ tour-du-monde = ["Tour du monde 2001"]
 continent= "Amérique"
 +++
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/argentine.gif" alt="Le récit" >}}

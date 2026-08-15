@@ -10,6 +10,5 @@ tour-du-monde = ["Tour du monde 2001"]
 continent= "Asie"
 +++
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/japon.gif" alt="Le récit" >}}

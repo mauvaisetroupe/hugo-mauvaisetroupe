@@ -20,6 +20,5 @@ Et puis, le Népal c'est aussi et surtout la vallée de Kathmandou. Kathmandou, 
 
 Enfin il y a aussi Chittwan, la partie basse du pays, sa jungle peuplée de rhinocéros, de singes et de tigres (qu'on n'a pas vus)... Et puis le trajet vers Darjeeling...
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/nepal.gif" alt="Le récit" >}}

@@ -14,8 +14,6 @@ L'année dernière, c'était la Crète ! Cette année, c'est un peu plus sportif
 
 Lorsque les enfants sont nés, le camping-car a remplacé les voyages avec un sac à dos. Et cette année, c'est vraiment un voyage qui va nous amener presque aussi loin que là où l'avion aurait pu nous emmener... En route pour la Turquie !
 
-{{< pagespays >}}
-
 ## Le trajet
 
 ### Le trajet complet

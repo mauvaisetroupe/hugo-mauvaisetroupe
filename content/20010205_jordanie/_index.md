@@ -14,6 +14,5 @@ Le premier pays de notre balade autour du monde... Ce qui frappe surtout ici, c'
 
 En plus, ce qui ne gâte rien, ils sont toujours en train de se marrer, je n'en ai pas vu s'énerver, même au volant! Ils conduisent tranquillement sans accélérations intempestives, se cèdent le passage, ou plutôt laissent celui qui cherche à s'intégrer à la circulation le faire, sans se fâcher. Bref, tout est calme même au centre-ville d'Amman, la capitale.
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/jordanie.gif" alt="Le récit" >}}

@@ -19,6 +19,5 @@ Plus au centre Hué, la cité impériale, ses pagodes, la ville animée mais tel
 
 Partout, trois points communs: l'eau, les sourires et la campagne. Partout d'attachantes scènes de vie campagnardes qui nous séduisent tant, où s'animent des chapeaux coniques et des palanches. Le temps semble s'y être arrêté. Dommage que ce soit à cause des si nombreuses années de guerres destructrices et sauvages et du communisme qui a isolé et fait régresser ce pays.
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/vietnam.gif" alt="Le récit" >}}

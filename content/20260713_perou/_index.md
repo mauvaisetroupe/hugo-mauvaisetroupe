@@ -16,8 +16,6 @@ Nous revoici en périple, toujours en sac à dos, mais accompagné cette fois-ci
 
 En route!
 
-{{< pagespays >}}
-
 ## Le trajet
 
 {{< img src="maps/20260713_perou/perou-map.png" alt="Le récit" >}}

@@ -18,6 +18,5 @@ Pays du système D, tous les métiers du monde y existent ou y sont inventés, j
 
 En bref: un flot continuel de gens, de rickshaws, de mendiants, des bruits, des odeurs, des vaches, des religions, des sadhus, des épices, du tchaï et beaucoup de riz, c'est un peu ça, l'Inde. Du moins c'est ce qu'on voit parce que ce pays fait un peu penser à un iceberg, reste donc à comprendre 90% de cette culture façonnée par l'hindouisme.
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/inde.gif" alt="Le récit" >}}

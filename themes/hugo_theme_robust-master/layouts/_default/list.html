@@ -3,59 +3,77 @@
 {{ define "main" }}
 <div class="mrow">
   <div class="mcol c8">
-
-    {{ if not .IsHome }}
-    <header class="page-title">
-      <h1 class="title">{{ .Title }}</h1>
-    </header>
-    {{ end }}
 	
-	<!--LCO -->
-
 	{{ $uid := printf "%s/%s" .Language.Lang .Path | hash.FNV32a }}
 	<article class="sn">
-	  <div class="thumb thumb-{{ $uid }}"></div>
+		<div class="thumb thumb-{{ $uid }}"></div>
+		{{ if not .IsHome }}
+		<header class="page-title">
+			<h1 class="title">{{ .Title }}</h1>
 
-	<div class="article-body">{{ .Content }}</div>
+			    <ul class="facts">
+					<li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05JST" }}">{{ .Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time></li>
+					<!--
+					{{ with .Section }}<li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="{{ $.Site.BaseURL }}{{ . | urlize }}/">{{ . | upper }}</a></li>{{ end }}
+					-->
+					
+					{{ $params := .Params }}
+					{{ range $key, $value := $.Site.Taxonomies }}
+					{{ if isset $params $key }}
+							{{ range (index $params $key) }}
+							<li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/{{ . | urlize }}/">{{ . | upper }}</a></li>          {{ end }}
+					{{ end }}
+					{{ end }}
+					{{ if eq (getenv "HUGO_ENV") "DEV" }}
+					<li>{{ .WordCount }} Words</li>
+					{{ if .IsDraft }}<li style="color: #2196f3;">DRAFT</li>{{ end }}
+					{{ end }}
+				</ul>
+					
+		</header>
+		{{ end }}
+
+		<div class="article-body">{{ .Content }}</div>
 	</article>	
 
 	<!--/LCO -->
 
-	<div class="articles">
-      <div class="mrow">
+		<div class="articles">
+		<h2 class="step-title">Liste des pages</h2>
+		<div class="mrow">
 	  
 
 		
-		{{ $filterSumary := false }}
-		{{ if (.Params.filter_summary) }}	
-			{{  $filterSumary = true }}
-		{{ end}}	
-		
+			{{ $filterSumary := false }}
+			{{ if (.Params.filter_summary) }}	
+				{{  $filterSumary = true }}
+			{{ end}}	
+			
 
-		{{ $listToDisplay := (slice )  }}
-		{{ if $filterSumary }}
-			{{ range $ele := .Site.Pages }} 
-				{{ if ($ele.Params.country_summary) }}	
-					{{ $listToDisplay = $listToDisplay | append $ele }}
-				{{ end}}
+			{{ $listToDisplay := (slice )  }}
+			{{ if $filterSumary }}
+				{{ range $ele := .Site.Pages }} 
+					{{ if ($ele.Params.country_summary) }}	
+						{{ $listToDisplay = $listToDisplay | append $ele }}
+					{{ end}}
+				{{ end }}	
+			{{ else }}
+				{{ $listToDisplay = .Pages }}
+			{{ end }}
+			
+			
+			
+			{{ if (or (not (isset .Params "inverseorder")) .Params.inverseorder) }}
+				{{ $listToDisplay = $listToDisplay.Reverse }}
 			{{ end }}	
-		{{ else }}
-			{{ $listToDisplay = .Pages }}
-		{{ end }}
-		
-		
-		
-		{{ if (or (not (isset .Params "inverseorder")) .Params.inverseorder) }}
-			{{ $listToDisplay = $listToDisplay.Reverse }}
-		{{ end }}	
 
 
-		{{ range $pageToDisplay :=(.Paginate $listToDisplay).Pages  }}
-				<div class="mcol c6">{{ .Render "li" }}</div>
-		{{ end }}
+			{{ range $pageToDisplay :=(.Paginate $listToDisplay).Pages  }}
+					<div class="mcol c6">{{ .Render "li" }}</div>
+			{{ end }}
 
-      </div>
-    </div>
+		</div>
+	</div>
 
     {{ partial "pagination.html" . }}
   </div>

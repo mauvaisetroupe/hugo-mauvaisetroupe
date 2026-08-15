@@ -29,8 +29,6 @@ Nous avons aussi 3 serviettes de bain à séchage rapide, 5 paréo (pour la plag
 
 Et pour les soins, une trousse de toilette, du paracétamol, de l'ibuprofène, du désinfectant, des pansements, une crème apaisante pour les moustiques, anti-moustiques, crème solaire, antibio large spectre, anti diarrhéique, (Tiorfan), smecta, immodium, pince à épiler.
 
-{{< pagespays >}}
-
 ## Le trajet
 {{< img src="maps/20130413_srilanka/2013-04-13.png" alt="Le trajet" >}}
 

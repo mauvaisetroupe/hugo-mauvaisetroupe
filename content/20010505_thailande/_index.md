@@ -16,6 +16,5 @@ La nature est fantastique, verte et généreuse à ne plus savoir où pousser. I
 
 Il y a des lieux tels Ayutthaya ou Sukhothaï pour la culture et des parcs nationaux pour la jungle. Puis il y a surtout des petits villages très peu touristiques où, plus qu'ailleurs, on rencontre le sourire des thaïs.
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/thailande.gif" alt="Le récit" >}}

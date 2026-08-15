@@ -12,6 +12,5 @@ continent= "Asie"
 
 Après le Népal, un petit tour à Darjeeling et quelques jours à Calcutta, histoire de faire nos adieux et de manger quelques épinards chez "le sick"...
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/inde.gif" alt="Le récit" >}}

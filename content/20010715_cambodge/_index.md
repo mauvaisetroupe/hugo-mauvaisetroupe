@@ -13,6 +13,5 @@ Le Cambodge est un pays qui sort d'une guerre civile et d'un véritable génocid
 
 Il y a les merveilles d'Angkor que tous les voyageurs vont visiter, mais il y a aussi la campagne partout dans le pays et la capitale, Phnom Penh, qui révèle tous les paradoxes de ce pays.
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/cambodge.gif" alt="Le récit" >}}

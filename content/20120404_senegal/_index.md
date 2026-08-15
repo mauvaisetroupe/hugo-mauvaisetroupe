@@ -20,7 +20,5 @@ Pour chacun (y compris ce qu'on porte sur nous), on a : un pantalon, une chemise
 
 Dans les gros sacs à dos, chacun a un sac en tissu avec ses habits, ce sera plus simple, et tout est dans un gros sac poubelle pour protéger de la pluie et de la poussière. Deux paires de tongs, une paire de baskets et une de sandales chacun.
 
-{{< pagespays >}}
-
 ## Le trajet
 {{< img src="maps/20120404_senegal/2012-04-04.png" alt="Le trajet" >}}

@@ -15,8 +15,6 @@ Nous revoici en périple, toujours en sac à dos, mais accompagné cette fois-ci
 
 En route!
 
-{{< pagespays >}}
-
 ## Le trajet
 
 

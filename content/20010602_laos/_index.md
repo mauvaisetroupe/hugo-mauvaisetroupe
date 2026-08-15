@@ -17,6 +17,5 @@ Le nord de Vientiane, assez touristique, est majestueusement recouvert de montag
 
 Et partout, le Mékong! Rouge au milieu de toute cette verdure, il s'écoule tranquillement mais avec force, comme la vie ici, la vie à la campagne.
 
-{{< pagespays >}}
 ## Le trajet
 {{< img src="tdm/laos.gif" alt="Le récit" >}}
