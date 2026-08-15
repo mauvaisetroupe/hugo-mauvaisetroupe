@@ -43,6 +43,14 @@
   text-overflow: ellipsis;
 }
 
+/* Base commune pour la couleur des liens */
+.nav-link {
+  color: #ff7a6e;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 /* =========================================================
    2. BOUTON BURGER (MOBILE)
    ========================================================= */
@@ -87,9 +95,9 @@
 .l-header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); top: 0; }
 .l-header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); top: 0; }
 
-  .destinations-btn {
-    display: none;
-  }
+.destinations-btn {
+  display: none;
+}
 /* =========================================================
    3. DESKTOP / LAPTOP (Écrans > 768px)
    ========================================================= */
@@ -125,9 +133,6 @@
     z-index: 2;
     display: block;
     padding: 20px 15px;
-    color:#333;
-    text-decoration: none;
-    font-weight: bold;
     font-size: 13px;
     letter-spacing: 0.5px;
     text-transform: none;
@@ -240,15 +245,8 @@
   }
 
   .nav-link {
-    cursor: pointer;
-  }
-
-  .nav-link {
     display: block;
     padding: 15px 20px;
-    color: #ff7a6e;
-    font-weight: bold;
-    text-decoration: none;
     background: #f9f9f9;
     border-bottom: 1px solid #eee;
   }
@@ -304,16 +302,16 @@
     .left {
         float: left;
         width: 49%;
-		
+    
     }
     .right {
         float: right;
         width: 49%;
     }
-	.left, .right {
-		padding:2px;
-	}
-	
+  .left, .right {
+    padding:2px;
+  }
+  
     img {
         max-width: 100%;
         height: auto;
