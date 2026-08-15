@@ -7,10 +7,9 @@
 	{{ $uid := printf "%s/%s" .Language.Lang .Path | hash.FNV32a }}
 	<article class="sn">
 		<div class="thumb thumb-{{ $uid }}"></div>
-		{{ if not .IsHome }}
+		{{ if and (not .IsHome) (or (ne .Kind "term") (ne .Data.Singular "pays")) }}
 		<header class="page-title">
 			<h1 class="title">{{ .Title }}</h1>
-
 			    <ul class="facts">
 					<li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05JST" }}">{{ .Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time></li>
 					<!--
@@ -29,7 +28,6 @@
 					{{ if .IsDraft }}<li style="color: #2196f3;">DRAFT</li>{{ end }}
 					{{ end }}
 				</ul>
-					
 		</header>
 		{{ end }}
 
