@@ -3,19 +3,10 @@
   <head>
     {{ partial "meta.html" . }}
 
-    <!-- 1. Préconnexions DNS/TLS pour accélérer le chargement des ressources externes -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- 1. Préconnexions DNS/TLS (Font Awesome) -->
     <link rel="preconnect" href="https://maxcdn.bootstrapcdn.com">
 
-    <!-- 2. Google Fonts optimisées avec display=swap -->
-    {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet">
-    {{ else }}
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" rel="stylesheet">
-    {{ end }}
-
-    <!-- 3. Font Awesome en chargement asynchrone non-bloquant -->
+    <!-- 2. Font Awesome en chargement asynchrone non-bloquant -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"></noscript>
 
@@ -24,8 +15,6 @@
     <style>
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
       {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
-      {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
-      {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
     </style>
   </head>
 
