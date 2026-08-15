@@ -7,8 +7,8 @@
 }
 
 .l-header {
-  background-color: #eee;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  box-shadow:0 1px 4px rgba(0,0,0,.08);
   position: fixed;
   top: 0;
   left: 0;
@@ -125,12 +125,12 @@
     z-index: 2;
     display: block;
     padding: 20px 15px;
-    color: #ff7a6e;
+    color:#333;
     text-decoration: none;
     font-weight: bold;
     font-size: 13px;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
+    text-transform: none;
   }
 
   .nav-link:hover {
@@ -167,9 +167,9 @@
   }
 
   .continent-title {
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     color: #222;
     margin: 0 0 10px 0;
     padding-bottom: 5px;
@@ -190,9 +190,9 @@
   .country-list a {
     color: #555;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
-    text-transform: uppercase;
+    text-transform: none;
     transition: color 0.15s ease;
   }
 
