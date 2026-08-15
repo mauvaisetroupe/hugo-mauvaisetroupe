@@ -8,7 +8,7 @@
 
 .l-header {
   background-color: #fff;
-  box-shadow:0 1px 4px rgba(0,0,0,.08);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .08);
   position: fixed;
   top: 0;
   left: 0;
@@ -35,7 +35,7 @@
   text-decoration: none;
   color: #333;
   font-weight: bold;
-  
+
   /* Anti-collision avec le burger sur très petits écrans */
   max-width: calc(100% - 70px);
   white-space: nowrap;
@@ -87,24 +87,41 @@
   width: 100%;
 }
 
-.l-header .menu-icon .navicon:before { top: 5px; }
-.l-header .menu-icon .navicon:after { top: -5px; }
+.l-header .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.l-header .menu-icon .navicon:after {
+  top: -5px;
+}
 
 /* Animation Icône Burger */
-.l-header .menu-btn:checked ~ .menu-icon .navicon { background: transparent; }
-.l-header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); top: 0; }
-.l-header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); top: 0; }
+.l-header .menu-btn:checked~.menu-icon .navicon {
+  background: transparent;
+}
+
+.l-header .menu-btn:checked~.menu-icon .navicon:before {
+  transform: rotate(-45deg);
+  top: 0;
+}
+
+.l-header .menu-btn:checked~.menu-icon .navicon:after {
+  transform: rotate(45deg);
+  top: 0;
+}
 
 .destinations-btn {
   display: none;
 }
+
 /* =========================================================
    3. DESKTOP / LAPTOP (Écrans > 768px)
    ========================================================= */
 
 @media (min-width: 769px) {
   .l-header .menu-icon {
-    display: none; /* Cache le burger en version bureau */
+    display: none;
+    /* Cache le burger en version bureau */
   }
 
   .l-header .menu {
@@ -158,7 +175,7 @@
   }
 
   /* Affichage au survol */
-  .destinations-btn:checked ~ .megamenu-panel {
+  .destinations-btn:checked~.megamenu-panel {
     display: block;
   }
 
@@ -234,7 +251,7 @@
   }
 
   /* Ouverture du menu burger */
-  .l-header .menu-btn:checked ~ .menu {
+  .l-header .menu-btn:checked~.menu {
     display: block;
   }
 
@@ -299,39 +316,46 @@
 
 /* picture grid */
 
-    .left {
-        float: left;
-        width: 49%;
-    
-    }
-    .right {
-        float: right;
-        width: 49%;
-    }
-  .left, .right {
-    padding:2px;
+.left {
+  float: left;
+  width: 49%;
+
+}
+
+.right {
+  float: right;
+  width: 49%;
+}
+
+.left,
+.right {
+  padding: 2px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 800px) {
+
+  .left,
+  .right {
+    float: none;
+    width: auto;
   }
-  
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-    .group:after {
-        content:"";
-        display: table;
-        clear: both;
-    }
-    @media screen and (max-width: 800px) {
-        .left, .right {
-            float: none;
-            width: auto;
-        }
-    }
+}
 
 /* Ligne de temps */
 .sidebar-voyage .articles {
   position: relative;
-} 
+}
 
 /* Ligne verticale */
 .sidebar-voyage .articles::before {
@@ -342,15 +366,15 @@
   bottom: 0;
   width: 2px;
   background: #ddd;
-} 
+}
 
 /* Chaque étape */
-.sidebar-voyage .articles > div {
+.sidebar-voyage .articles>div {
   position: relative;
 }
 
 /* Cercle : centré verticalement dans la DIV */
-.sidebar-voyage .articles > div::before {
+.sidebar-voyage .articles>div::before {
   content: "";
   position: absolute;
   left: -21px;
@@ -368,7 +392,7 @@
 
 /* Étape courante */
 
-.sidebar-voyage .articles > div.current::before {
+.sidebar-voyage .articles>div.current::before {
   left: -22px;
   top: 50%;
   transform: translateY(-50%);
@@ -377,7 +401,7 @@
   box-shadow: 0 0 0 2px #e67e22;
 }
 
-.sidebar-voyage .articles > div.current article.lism {
+.sidebar-voyage .articles>div.current article.lism {
   background-color: #f9ede3;
   border-radius: 5px;
 }
@@ -389,6 +413,6 @@
   }
 
   .sidebar-voyage .articles::before {
-  left: -5px;
-  } 
+    left: -5px;
+  }
 }
