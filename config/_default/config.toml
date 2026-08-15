@@ -8,7 +8,6 @@ buildDrafts = true
 
 [taxonomies]
 pays = "pays"
-voyage = "voyages"
 tour-du-monde = "tour-du-monde"
 
 [markup]
