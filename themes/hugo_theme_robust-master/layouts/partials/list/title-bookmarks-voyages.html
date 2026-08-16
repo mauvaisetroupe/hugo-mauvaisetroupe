@@ -8,10 +8,10 @@
     {{ $date := substr $key 0 8 }}
     {{ $pays := substr $key 9 }}
     <li>
-        <span class="nowrap">
+        <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">
             <i class="fa fa-bookmark" aria-hidden="true"></i>
-            <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">{{ $pays | title }} {{ substr $date 4 2 }}/{{ substr $date 0 4 }}</a>
-        </span>
+            {{ $pays | title }} {{ substr $date 4 2 }}/{{ substr $date 0 4 }}
+        </a>
     </li>
 {{ end }}
 </ul>

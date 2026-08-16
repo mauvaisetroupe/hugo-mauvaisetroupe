@@ -424,7 +424,7 @@ article.sn > .article-body figcaption {
   margin-right: .2em;
 }
 
-.facts .nowrap {
+.facts li a {
   white-space: nowrap;
 }
 
