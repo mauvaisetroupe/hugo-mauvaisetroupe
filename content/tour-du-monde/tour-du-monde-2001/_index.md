@@ -1,5 +1,6 @@
 +++
 title="Tour du monde 2001"
+date="2001-01-01"
 +++
 
 ## Le monde comme si vous y étiez
