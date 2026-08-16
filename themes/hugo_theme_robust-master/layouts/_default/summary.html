@@ -24,51 +24,8 @@
       {{ if .IsDraft }}<li style="color: #2196f3;">DRAFT</li>{{ end }}
       {{ end }}
     </ul>
-<!--
-    {{ partial "share.html" . }}
--->	
   </header>
-
  
   <div class="article-body">{{ .Content }}</div>
-
-  <!--
-  <footer class="article-footer">
-
-    {{ partial "share.html" . }}
-
-    <section class="footer">
-      <div>
-        <nav class="crumb">
-          <ol>
-            <li><a href="{{ .Site.BaseURL }}"><i class="fa fa-home" aria-hidden="true"></i>TOP</a></li>
-            {{ with .Section }}
-            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{ $.Site.BaseURL }}{{ . | urlize }}/" itemprop="url"><span itemprop="title">{{ . | upper }}</span></a></li>
-            {{ end }}
-            <li class="active">{{ .Title }}</li>
-          </ol>
-        </nav>
-      </div>
-    </section>
-
-    {{ $params := .Params }}
-    {{ range $key, $value := $.Site.Taxonomies }}
-    {{ if isset $params $key }}
-    <section class="footer">
-      <header>
-        <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">{{ $key | upper }}</a>
-      </header>
-      <div>
-        <ul class="terms">
-          {{ range (index $params $key) }}
-          <li><a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/{{ . | urlize }}/">{{ . }}</a></li>
-          {{ end }}
-        </ul>
-      </div>
-    </section>
-    {{ end }}
-    {{ end }}
-  </footer>
-  -->
 
 </article>

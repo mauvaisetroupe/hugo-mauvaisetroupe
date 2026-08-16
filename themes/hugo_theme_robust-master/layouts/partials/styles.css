@@ -249,7 +249,7 @@ article.sn .thumb {
 article.sn > .article-header,
 article.sn > .article-body,
 article.sn .article-footer {
-  padding: 2rem;
+  padding: 2rem 2rem 0.5rem 2rem;
 }
 
 article.sn > .article-body {
@@ -421,7 +421,11 @@ article.sn > .article-body figcaption {
 
 .facts i {
   color: #cfd8dc;
-  margin-right: .5em;
+  margin-right: .2em;
+}
+
+.facts .nowrap {
+  white-space: nowrap;
 }
 
 .facts.sm li {
@@ -503,7 +507,7 @@ section.footer > header a {
 }
 
 .page-title {
-  padding: 2rem;
+  padding: 2rem 2rem 0.5rem 2rem;
 }
 
 /* .page-title::after {

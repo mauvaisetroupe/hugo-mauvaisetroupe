@@ -1,0 +1,55 @@
+<input class="menu-btn" type="checkbox" id="menu-btn" />
+<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+<nav class="menu">
+    {{/* 1. On récupère toutes les pages "country_summary" */}}
+    {{ $countryPages := where .Site.Pages "Params.country_summary" true }}
+    
+    {{/* 2. Extraction et tri alphabétique des continents */}}
+    {{ $continents := slice }}
+    {{ range $countryPages }}
+        {{ with .Params.continent }}
+        {{ $continents = $continents | append . }}
+        {{ end }}
+    {{ end }}
+    {{ $continents = $continents | uniq | sort }}
+
+    <ul class="nav-main">
+        <li class="nav-item">
+        <a href="{{ "/tour-du-monde/tour-du-monde-2001/" | relURL }}" class="nav-link">
+            TOUR DU MONDE 2001
+        </a>
+        </li>
+        <li class="nav-item has-megamenu">
+
+        <input class="destinations-btn" type="checkbox" id="destinations-btn" />
+
+        <label class="nav-link" for="destinations-btn">
+            NOS DESTINATIONS <span class="arrow">▾</span>
+        </label>
+
+        <div class="megamenu-panel">
+            <div class="megamenu-grid">
+            {{ range $continent := $continents }}
+                <div class="continent-col">
+                <h4 class="continent-title">{{ $continent }}</h4>
+                
+                <ul class="country-list">
+                    {{/* 3. Tri des pays du continent par Titre (A-Z) */}}
+                    {{ $continentCountries := where $countryPages "Params.continent" $continent }}
+                    {{ $sortedCountries := sort $continentCountries "Params.menu_display" "asc" }}
+
+                    {{ range $sortedCountries }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">
+                        {{ default .Title .Params.menu_display }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                </div>
+            {{ end }}
+            </div>
+        </div>
+        </li>
+    </ul>
+</nav>

@@ -2,13 +2,7 @@
 <html>
   <head>
     {{ partial "meta.html" . }}
-
-    <!-- 1. Préconnexions DNS/TLS (Font Awesome) -->
-    <link rel="preconnect" href="https://maxcdn.bootstrapcdn.com">
-
-    <!-- 2. Font Awesome en chargement asynchrone non-bloquant -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"></noscript>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
     {{ block "meta" . }}{{ end }}
@@ -19,73 +13,10 @@
   </head>
 
   <body>
-    {{ if ne (getenv "HUGO_ENV") "DEV" }}
-    {{ template "_internal/google_analytics.html" . }}
-    {{ end }}
-
-    
-<header class="l-header">
-  <a href="{{ .Site.BaseURL }}" class="logo">{{ .Site.Title }}</a>
-  
-  <input class="menu-btn" type="checkbox" id="menu-btn" />
-  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-
-  <nav class="menu">
-    {{/* 1. On récupère toutes les pages "country_summary" */}}
-    {{ $countryPages := where .Site.Pages "Params.country_summary" true }}
-    
-    {{/* 2. Extraction et tri alphabétique des continents */}}
-    {{ $continents := slice }}
-    {{ range $countryPages }}
-      {{ with .Params.continent }}
-        {{ $continents = $continents | append . }}
-      {{ end }}
-    {{ end }}
-    {{ $continents = $continents | uniq | sort }}
-
-    <ul class="nav-main">
-      <li class="nav-item">
-        <a href="{{ "/tour-du-monde/tour-du-monde-2001/" | relURL }}" class="nav-link">
-          TOUR DU MONDE 2001
-        </a>
-      </li>
-      <li class="nav-item has-megamenu">
-
-        <input class="destinations-btn" type="checkbox" id="destinations-btn" />
-
-        <label class="nav-link" for="destinations-btn">
-          NOS DESTINATIONS <span class="arrow">▾</span>
-        </label>
-
-        <div class="megamenu-panel">
-          <div class="megamenu-grid">
-            {{ range $continent := $continents }}
-              <div class="continent-col">
-                <h4 class="continent-title">{{ $continent }}</h4>
-                
-                <ul class="country-list">
-                  {{/* 3. Tri des pays du continent par Titre (A-Z) */}}
-                  {{ $continentCountries := where $countryPages "Params.continent" $continent }}
-                  {{ $sortedCountries := sort $continentCountries "Params.menu_display" "asc" }}
-
-                  {{ range $sortedCountries }}
-                    <li>
-                      <a href="{{ .RelPermalink }}">
-                        {{ default .Title .Params.menu_display }}
-                      </a>
-                    </li>
-                  {{ end }}
-                </ul>
-              </div>
-            {{ end }}
-          </div>
-        </div>
-      </li>
-    </ul>
-  </nav>
-</header>
-
-
+    <header class="l-header">
+      <a href="{{ .Site.BaseURL }}" class="logo">{{ .Site.Title }}</a>
+      {{ partial "menu.html" . }}
+    </header>
 
     <main>
       <div class="l-container">
@@ -98,12 +29,10 @@
         <p>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">&copy; {{ .Site.Title }}</span>{{ end }}</p>
         <aside>
           <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
-          <p><a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
         </aside>
       </div>
     </footer>
 
-    <!-- Highlight.js a été complètement retiré d'ici pour supprimer les requêtes inutiles -->
   </body>
 </html>
 

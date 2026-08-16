@@ -1,0 +1,17 @@
+{{ $sections := slice }}
+{{ range .Pages }}
+    {{ $sections = $sections | append .Section }}
+{{ end }}
+{{ $sections = $sections | uniq | sort }}
+<ul class="facts">
+{{ range $key := $sections }}
+    {{ $date := substr $key 0 8 }}
+    {{ $pays := substr $key 9 }}
+    <li>
+        <span class="nowrap">
+            <i class="fa fa-bookmark" aria-hidden="true"></i>
+            <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">{{ $pays | title }} {{ substr $date 4 2 }}/{{ substr $date 0 4 }}</a>
+        </span>
+    </li>
+{{ end }}
+</ul>

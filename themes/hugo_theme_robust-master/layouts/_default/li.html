@@ -16,7 +16,7 @@
         {{ end }}
       </ul>
 
-      <div class="summary">{{ .Summary }}</div>
+      <div class="summary">{{ .Summary | plainify }}</div>
     </div>
   </a>
 </article>

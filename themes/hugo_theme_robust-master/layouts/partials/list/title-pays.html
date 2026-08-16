@@ -1,0 +1,14 @@
+{{ $sections := slice }}
+{{ range .Pages }}
+    {{ $sections = $sections | append .Section }}
+{{ end }}
+{{ $sections = $sections | uniq | sort }}
+
+{{ if gt (len $sections) 1 }}
+    <h1 class="title">{{ .Title }} - Tous les récits de nos voyages</h1>
+{{ else }}  
+    <h1 class="title">{{ .Title }} - Tous les récits de notre voyage</h1>
+{{ end }}
+
+{{ partial "list/title-bookmarks-voyages.html" . }}
+
