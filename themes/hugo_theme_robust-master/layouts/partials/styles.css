@@ -428,6 +428,11 @@ article.sn > .article-body figcaption {
   white-space: nowrap;
 }
 
+.facts-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .facts.sm li {
   font-size: .7rem;
 }
