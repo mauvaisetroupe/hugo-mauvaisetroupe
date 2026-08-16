@@ -3,17 +3,15 @@
     {{ $sections = $sections | append .Section }}
 {{ end }}
 {{ $sections = $sections | uniq | sort }}
-<div class="facts-container">
-    <ul class="facts">
-    {{ range $key := $sections }}
-        {{ $date := substr $key 0 8 }}
-        {{ $pays := substr $key 9 }}
-        <li>
-            <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">
-                <i class="fa fa-bookmark" aria-hidden="true"></i>
-                {{ $pays | title }} {{ substr $date 4 2 }}/{{ substr $date 0 4 }}
-            </a>
-        </li>
-    {{ end }}
-    </ul>
-</div>
+<ul class="facts">
+{{ range $key := $sections }}
+    {{ $date := substr $key 0 8 }}
+    {{ $pays := substr $key 9 }}
+    <li>
+        <a href="{{ $.Site.BaseURL }}{{ $key | urlize }}/">
+            <i class="fa fa-bookmark" aria-hidden="true"></i>
+            {{ $pays | title }} {{ substr $date 4 2 }}/{{ substr $date 0 4 }}
+        </a>
+    </li>
+{{ end }}
+</ul>

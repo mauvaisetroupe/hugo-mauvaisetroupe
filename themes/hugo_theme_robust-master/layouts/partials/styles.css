@@ -424,14 +424,6 @@ article.sn > .article-body figcaption {
   margin-right: .2em;
 }
 
-.facts li a {
-  white-space: nowrap;
-}
-
-.facts-container {
-  display: flex;
-  flex-wrap: wrap;
-}
 
 .facts.sm li {
   font-size: .7rem;
